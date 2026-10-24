@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+# Büyük ve yeniden indirilebilir dosyalar: python analiz/veri_indir.py
+veri/owid_energy.csv
+veri/owid_co2.csv
+veri/who_hava_2026.xlsx
+veri/who_hava_2026.csv

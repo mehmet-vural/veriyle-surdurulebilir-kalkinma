@@ -1,0 +1,4257 @@
+ulke_kodu,ulke,yil,deger
+AFE,Africa Eastern and Southern,2025,30.4
+AFE,Africa Eastern and Southern,2024,28.8
+AFE,Africa Eastern and Southern,2023,27.8
+AFE,Africa Eastern and Southern,2022,26.8
+AFE,Africa Eastern and Southern,2021,25.0
+AFE,Africa Eastern and Southern,2020,23.5
+AFE,Africa Eastern and Southern,2019,21.6
+AFE,Africa Eastern and Southern,2018,19.6
+AFE,Africa Eastern and Southern,2017,17.3
+AFE,Africa Eastern and Southern,2016,16.3
+AFE,Africa Eastern and Southern,2015,14.3
+AFE,Africa Eastern and Southern,2014,12.1
+AFE,Africa Eastern and Southern,2013,10.0
+AFE,Africa Eastern and Southern,2012,8.4
+AFE,Africa Eastern and Southern,2011,6.8
+AFE,Africa Eastern and Southern,2010,5.3
+AFW,Africa Western and Central,2025,42.4
+AFW,Africa Western and Central,2024,40.0
+AFW,Africa Western and Central,2023,38.5
+AFW,Africa Western and Central,2022,37.5
+AFW,Africa Western and Central,2021,34.7
+AFW,Africa Western and Central,2020,31.5
+AFW,Africa Western and Central,2019,28.5
+AFW,Africa Western and Central,2018,25.7
+AFW,Africa Western and Central,2017,23.8
+AFW,Africa Western and Central,2016,20.9
+AFW,Africa Western and Central,2015,18.6
+AFW,Africa Western and Central,2014,15.0
+AFW,Africa Western and Central,2013,12.6
+AFW,Africa Western and Central,2012,10.3
+AFW,Africa Western and Central,2011,8.7
+AFW,Africa Western and Central,2010,7.3
+ARB,Arab World,2025,
+ARB,Arab World,2024,
+ARB,Arab World,2023,
+ARB,Arab World,2022,
+ARB,Arab World,2021,
+ARB,Arab World,2020,
+ARB,Arab World,2019,
+ARB,Arab World,2018,
+ARB,Arab World,2017,
+ARB,Arab World,2016,
+ARB,Arab World,2015,
+ARB,Arab World,2014,
+ARB,Arab World,2013,
+ARB,Arab World,2012,
+ARB,Arab World,2011,
+ARB,Arab World,2010,
+CSS,Caribbean small states,2025,
+CSS,Caribbean small states,2024,
+CSS,Caribbean small states,2023,
+CSS,Caribbean small states,2022,
+CSS,Caribbean small states,2021,
+CSS,Caribbean small states,2020,
+CSS,Caribbean small states,2019,
+CSS,Caribbean small states,2018,
+CSS,Caribbean small states,2017,
+CSS,Caribbean small states,2016,
+CSS,Caribbean small states,2015,
+CSS,Caribbean small states,2014,
+CSS,Caribbean small states,2013,
+CSS,Caribbean small states,2012,
+CSS,Caribbean small states,2011,
+CSS,Caribbean small states,2010,
+CEB,Central Europe and the Baltics,2025,
+CEB,Central Europe and the Baltics,2024,
+CEB,Central Europe and the Baltics,2023,
+CEB,Central Europe and the Baltics,2022,
+CEB,Central Europe and the Baltics,2021,
+CEB,Central Europe and the Baltics,2020,
+CEB,Central Europe and the Baltics,2019,
+CEB,Central Europe and the Baltics,2018,
+CEB,Central Europe and the Baltics,2017,
+CEB,Central Europe and the Baltics,2016,
+CEB,Central Europe and the Baltics,2015,
+CEB,Central Europe and the Baltics,2014,
+CEB,Central Europe and the Baltics,2013,
+CEB,Central Europe and the Baltics,2012,
+CEB,Central Europe and the Baltics,2011,
+CEB,Central Europe and the Baltics,2010,
+EAR,Early-demographic dividend,2025,
+EAR,Early-demographic dividend,2024,
+EAR,Early-demographic dividend,2023,
+EAR,Early-demographic dividend,2022,
+EAR,Early-demographic dividend,2021,
+EAR,Early-demographic dividend,2020,
+EAR,Early-demographic dividend,2019,
+EAR,Early-demographic dividend,2018,
+EAR,Early-demographic dividend,2017,
+EAR,Early-demographic dividend,2016,
+EAR,Early-demographic dividend,2015,
+EAR,Early-demographic dividend,2014,
+EAR,Early-demographic dividend,2013,
+EAR,Early-demographic dividend,2012,
+EAR,Early-demographic dividend,2011,
+EAR,Early-demographic dividend,2010,
+EAS,East Asia & Pacific,2025,88.4
+EAS,East Asia & Pacific,2024,86.6
+EAS,East Asia & Pacific,2023,84.9
+EAS,East Asia & Pacific,2022,82.4
+EAS,East Asia & Pacific,2021,78.8
+EAS,East Asia & Pacific,2020,73.9
+EAS,East Asia & Pacific,2019,67.1
+EAS,East Asia & Pacific,2018,62.5
+EAS,East Asia & Pacific,2017,57.8
+EAS,East Asia & Pacific,2016,53.9
+EAS,East Asia & Pacific,2015,48.3
+EAS,East Asia & Pacific,2014,45.5
+EAS,East Asia & Pacific,2013,43.2
+EAS,East Asia & Pacific,2012,40.4
+EAS,East Asia & Pacific,2011,37.3
+EAS,East Asia & Pacific,2010,34.2
+EAP,East Asia & Pacific (excluding high income),2025,88.1
+EAP,East Asia & Pacific (excluding high income),2024,86.1
+EAP,East Asia & Pacific (excluding high income),2023,84.2
+EAP,East Asia & Pacific (excluding high income),2022,81.6
+EAP,East Asia & Pacific (excluding high income),2021,77.6
+EAP,East Asia & Pacific (excluding high income),2020,72.2
+EAP,East Asia & Pacific (excluding high income),2019,64.0
+EAP,East Asia & Pacific (excluding high income),2018,59.1
+EAP,East Asia & Pacific (excluding high income),2017,53.9
+EAP,East Asia & Pacific (excluding high income),2016,49.6
+EAP,East Asia & Pacific (excluding high income),2015,43.5
+EAP,East Asia & Pacific (excluding high income),2014,40.6
+EAP,East Asia & Pacific (excluding high income),2013,38.2
+EAP,East Asia & Pacific (excluding high income),2012,35.7
+EAP,East Asia & Pacific (excluding high income),2011,32.3
+EAP,East Asia & Pacific (excluding high income),2010,28.9
+TEA,East Asia & Pacific (IDA & IBRD countries),2025,88.9
+TEA,East Asia & Pacific (IDA & IBRD countries),2024,86.8
+TEA,East Asia & Pacific (IDA & IBRD countries),2023,85.0
+TEA,East Asia & Pacific (IDA & IBRD countries),2022,82.3
+TEA,East Asia & Pacific (IDA & IBRD countries),2021,78.3
+TEA,East Asia & Pacific (IDA & IBRD countries),2020,72.7
+TEA,East Asia & Pacific (IDA & IBRD countries),2019,64.3
+TEA,East Asia & Pacific (IDA & IBRD countries),2018,59.8
+TEA,East Asia & Pacific (IDA & IBRD countries),2017,54.6
+TEA,East Asia & Pacific (IDA & IBRD countries),2016,50.2
+TEA,East Asia & Pacific (IDA & IBRD countries),2015,44.1
+TEA,East Asia & Pacific (IDA & IBRD countries),2014,41.1
+TEA,East Asia & Pacific (IDA & IBRD countries),2013,38.7
+TEA,East Asia & Pacific (IDA & IBRD countries),2012,36.1
+TEA,East Asia & Pacific (IDA & IBRD countries),2011,32.7
+TEA,East Asia & Pacific (IDA & IBRD countries),2010,29.3
+EMU,Euro area,2025,
+EMU,Euro area,2024,
+EMU,Euro area,2023,
+EMU,Euro area,2022,
+EMU,Euro area,2021,
+EMU,Euro area,2020,
+EMU,Euro area,2019,
+EMU,Euro area,2018,
+EMU,Euro area,2017,
+EMU,Euro area,2016,
+EMU,Euro area,2015,
+EMU,Euro area,2014,
+EMU,Euro area,2013,
+EMU,Euro area,2012,
+EMU,Euro area,2011,
+EMU,Euro area,2010,
+ECS,Europe & Central Asia,2025,92.4
+ECS,Europe & Central Asia,2024,90.9
+ECS,Europe & Central Asia,2023,89.6
+ECS,Europe & Central Asia,2022,87.9
+ECS,Europe & Central Asia,2021,86.3
+ECS,Europe & Central Asia,2020,83.4
+ECS,Europe & Central Asia,2019,80.3
+ECS,Europe & Central Asia,2018,78.1
+ECS,Europe & Central Asia,2017,74.5
+ECS,Europe & Central Asia,2016,72.3
+ECS,Europe & Central Asia,2015,69.9
+ECS,Europe & Central Asia,2014,68.9
+ECS,Europe & Central Asia,2013,66.1
+ECS,Europe & Central Asia,2012,63.8
+ECS,Europe & Central Asia,2011,60.2
+ECS,Europe & Central Asia,2010,57.0
+ECA,Europe & Central Asia (excluding high income),2025,87.5
+ECA,Europe & Central Asia (excluding high income),2024,85.8
+ECA,Europe & Central Asia (excluding high income),2023,84.6
+ECA,Europe & Central Asia (excluding high income),2022,82.0
+ECA,Europe & Central Asia (excluding high income),2021,79.1
+ECA,Europe & Central Asia (excluding high income),2020,74.5
+ECA,Europe & Central Asia (excluding high income),2019,70.3
+ECA,Europe & Central Asia (excluding high income),2018,65.8
+ECA,Europe & Central Asia (excluding high income),2017,60.6
+ECA,Europe & Central Asia (excluding high income),2016,56.2
+ECA,Europe & Central Asia (excluding high income),2015,51.9
+ECA,Europe & Central Asia (excluding high income),2014,48.6
+ECA,Europe & Central Asia (excluding high income),2013,43.2
+ECA,Europe & Central Asia (excluding high income),2012,39.4
+ECA,Europe & Central Asia (excluding high income),2011,34.9
+ECA,Europe & Central Asia (excluding high income),2010,30.1
+TEC,Europe & Central Asia (IDA & IBRD countries),2025,90.8
+TEC,Europe & Central Asia (IDA & IBRD countries),2024,88.9
+TEC,Europe & Central Asia (IDA & IBRD countries),2023,87.3
+TEC,Europe & Central Asia (IDA & IBRD countries),2022,85.2
+TEC,Europe & Central Asia (IDA & IBRD countries),2021,82.6
+TEC,Europe & Central Asia (IDA & IBRD countries),2020,78.6
+TEC,Europe & Central Asia (IDA & IBRD countries),2019,75.2
+TEC,Europe & Central Asia (IDA & IBRD countries),2018,71.8
+TEC,Europe & Central Asia (IDA & IBRD countries),2017,67.0
+TEC,Europe & Central Asia (IDA & IBRD countries),2016,63.3
+TEC,Europe & Central Asia (IDA & IBRD countries),2015,59.4
+TEC,Europe & Central Asia (IDA & IBRD countries),2014,57.7
+TEC,Europe & Central Asia (IDA & IBRD countries),2013,53.5
+TEC,Europe & Central Asia (IDA & IBRD countries),2012,50.7
+TEC,Europe & Central Asia (IDA & IBRD countries),2011,45.4
+TEC,Europe & Central Asia (IDA & IBRD countries),2010,40.0
+EUU,European Union,2025,
+EUU,European Union,2024,
+EUU,European Union,2023,
+EUU,European Union,2022,
+EUU,European Union,2021,
+EUU,European Union,2020,
+EUU,European Union,2019,
+EUU,European Union,2018,
+EUU,European Union,2017,
+EUU,European Union,2016,
+EUU,European Union,2015,
+EUU,European Union,2014,
+EUU,European Union,2013,
+EUU,European Union,2012,
+EUU,European Union,2011,
+EUU,European Union,2010,
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2025,
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2024,
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2023,
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2022,
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2021,
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2020,
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2019,
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2018,
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2017,
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2016,
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2015,
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2014,
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2013,
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2012,
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2011,
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2010,
+HPC,Heavily indebted poor countries (HIPC),2025,
+HPC,Heavily indebted poor countries (HIPC),2024,
+HPC,Heavily indebted poor countries (HIPC),2023,
+HPC,Heavily indebted poor countries (HIPC),2022,
+HPC,Heavily indebted poor countries (HIPC),2021,
+HPC,Heavily indebted poor countries (HIPC),2020,
+HPC,Heavily indebted poor countries (HIPC),2019,
+HPC,Heavily indebted poor countries (HIPC),2018,
+HPC,Heavily indebted poor countries (HIPC),2017,
+HPC,Heavily indebted poor countries (HIPC),2016,
+HPC,Heavily indebted poor countries (HIPC),2015,
+HPC,Heavily indebted poor countries (HIPC),2014,
+HPC,Heavily indebted poor countries (HIPC),2013,
+HPC,Heavily indebted poor countries (HIPC),2012,
+HPC,Heavily indebted poor countries (HIPC),2011,
+HPC,Heavily indebted poor countries (HIPC),2010,
+,High income,2025,94.2
+,High income,2024,93.0
+,High income,2023,91.9
+,High income,2022,91.0
+,High income,2021,90.0
+,High income,2020,88.4
+,High income,2019,87.5
+,High income,2018,86.3
+,High income,2017,84.2
+,High income,2016,82.5
+,High income,2015,78.3
+,High income,2014,77.0
+,High income,2013,75.1
+,High income,2012,73.7
+,High income,2011,70.4
+,High income,2010,69.0
+IBD,IBRD only,2025,82.7
+IBD,IBRD only,2024,79.9
+IBD,IBRD only,2023,77.3
+IBD,IBRD only,2022,74.4
+IBD,IBRD only,2021,70.3
+IBD,IBRD only,2020,65.4
+IBD,IBRD only,2019,56.3
+IBD,IBRD only,2018,50.3
+IBD,IBRD only,2017,46.6
+IBD,IBRD only,2016,43.2
+IBD,IBRD only,2015,39.1
+IBD,IBRD only,2014,36.4
+IBD,IBRD only,2013,34.0
+IBD,IBRD only,2012,31.5
+IBD,IBRD only,2011,28.5
+IBD,IBRD only,2010,25.0
+IBT,IDA & IBRD total,2025,70.3
+IBT,IDA & IBRD total,2024,67.7
+IBT,IDA & IBRD total,2023,65.5
+IBT,IDA & IBRD total,2022,63.0
+IBT,IDA & IBRD total,2021,59.3
+IBT,IDA & IBRD total,2020,55.1
+IBT,IDA & IBRD total,2019,47.8
+IBT,IDA & IBRD total,2018,42.9
+IBT,IDA & IBRD total,2017,39.5
+IBT,IDA & IBRD total,2016,36.4
+IBT,IDA & IBRD total,2015,32.8
+IBT,IDA & IBRD total,2014,30.1
+IBT,IDA & IBRD total,2013,27.8
+IBT,IDA & IBRD total,2012,25.7
+IBT,IDA & IBRD total,2011,23.2
+IBT,IDA & IBRD total,2010,20.3
+IDB,IDA blend,2025,44.2
+IDB,IDA blend,2024,41.2
+IDB,IDA blend,2023,38.3
+IDB,IDA blend,2022,36.5
+IDB,IDA blend,2021,32.4
+IDB,IDA blend,2020,28.7
+IDB,IDA blend,2019,26.9
+IDB,IDA blend,2018,24.1
+IDB,IDA blend,2017,22.3
+IDB,IDA blend,2016,20.6
+IDB,IDA blend,2015,19.0
+IDB,IDA blend,2014,16.1
+IDB,IDA blend,2013,13.9
+IDB,IDA blend,2012,11.8
+IDB,IDA blend,2011,10.3
+IDB,IDA blend,2010,9.1
+IDX,IDA only,2025,36.1
+IDX,IDA only,2024,33.9
+IDX,IDA only,2023,32.5
+IDX,IDA only,2022,30.7
+IDX,IDA only,2021,28.4
+IDX,IDA only,2020,26.0
+IDX,IDA only,2019,22.8
+IDX,IDA only,2018,20.9
+IDX,IDA only,2017,17.5
+IDX,IDA only,2016,14.9
+IDX,IDA only,2015,11.6
+IDX,IDA only,2014,9.0
+IDX,IDA only,2013,6.9
+IDX,IDA only,2012,5.8
+IDX,IDA only,2011,5.0
+IDX,IDA only,2010,4.2
+IDA,IDA total,2025,38.9
+IDA,IDA total,2024,36.4
+IDA,IDA total,2023,34.5
+IDA,IDA total,2022,32.8
+IDA,IDA total,2021,29.8
+IDA,IDA total,2020,27.0
+IDA,IDA total,2019,24.2
+IDA,IDA total,2018,22.0
+IDA,IDA total,2017,19.2
+IDA,IDA total,2016,16.9
+IDA,IDA total,2015,14.2
+IDA,IDA total,2014,11.6
+IDA,IDA total,2013,9.4
+IDA,IDA total,2012,7.9
+IDA,IDA total,2011,6.8
+IDA,IDA total,2010,5.9
+LTE,Late-demographic dividend,2025,
+LTE,Late-demographic dividend,2024,
+LTE,Late-demographic dividend,2023,
+LTE,Late-demographic dividend,2022,
+LTE,Late-demographic dividend,2021,
+LTE,Late-demographic dividend,2020,
+LTE,Late-demographic dividend,2019,
+LTE,Late-demographic dividend,2018,
+LTE,Late-demographic dividend,2017,
+LTE,Late-demographic dividend,2016,
+LTE,Late-demographic dividend,2015,
+LTE,Late-demographic dividend,2014,
+LTE,Late-demographic dividend,2013,
+LTE,Late-demographic dividend,2012,
+LTE,Late-demographic dividend,2011,
+LTE,Late-demographic dividend,2010,
+LCN,Latin America & Caribbean,2025,83.7
+LCN,Latin America & Caribbean,2024,81.7
+LCN,Latin America & Caribbean,2023,80.0
+LCN,Latin America & Caribbean,2022,77.1
+LCN,Latin America & Caribbean,2021,75.8
+LCN,Latin America & Caribbean,2020,73.8
+LCN,Latin America & Caribbean,2019,67.8
+LCN,Latin America & Caribbean,2018,63.5
+LCN,Latin America & Caribbean,2017,60.2
+LCN,Latin America & Caribbean,2016,57.5
+LCN,Latin America & Caribbean,2015,54.4
+LCN,Latin America & Caribbean,2014,48.7
+LCN,Latin America & Caribbean,2013,46.1
+LCN,Latin America & Caribbean,2012,43.0
+LCN,Latin America & Caribbean,2011,39.3
+LCN,Latin America & Caribbean,2010,34.6
+LAC,Latin America & Caribbean (excluding high income),2025,83.6
+LAC,Latin America & Caribbean (excluding high income),2024,81.4
+LAC,Latin America & Caribbean (excluding high income),2023,79.7
+LAC,Latin America & Caribbean (excluding high income),2022,76.6
+LAC,Latin America & Caribbean (excluding high income),2021,75.3
+LAC,Latin America & Caribbean (excluding high income),2020,73.3
+LAC,Latin America & Caribbean (excluding high income),2019,67.9
+LAC,Latin America & Caribbean (excluding high income),2018,62.6
+LAC,Latin America & Caribbean (excluding high income),2017,59.2
+LAC,Latin America & Caribbean (excluding high income),2016,56.4
+LAC,Latin America & Caribbean (excluding high income),2015,53.3
+LAC,Latin America & Caribbean (excluding high income),2014,47.7
+LAC,Latin America & Caribbean (excluding high income),2013,45.1
+LAC,Latin America & Caribbean (excluding high income),2012,42.1
+LAC,Latin America & Caribbean (excluding high income),2011,38.7
+LAC,Latin America & Caribbean (excluding high income),2010,34.0
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2025,83.9
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2024,81.8
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2023,80.2
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2022,77.3
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2021,75.9
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2020,73.8
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2019,67.7
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2018,63.5
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2017,60.2
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2016,57.7
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2015,54.7
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2014,49.0
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2013,46.4
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2012,43.4
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2011,39.7
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2010,35.0
+LDC,Least developed countries: UN classification,2025,33.7
+LDC,Least developed countries: UN classification,2024,31.4
+LDC,Least developed countries: UN classification,2023,29.9
+LDC,Least developed countries: UN classification,2022,28.2
+LDC,Least developed countries: UN classification,2021,26.1
+LDC,Least developed countries: UN classification,2020,24.1
+LDC,Least developed countries: UN classification,2019,21.2
+LDC,Least developed countries: UN classification,2018,19.5
+LDC,Least developed countries: UN classification,2017,16.2
+LDC,Least developed countries: UN classification,2016,13.8
+LDC,Least developed countries: UN classification,2015,10.7
+LDC,Least developed countries: UN classification,2014,8.2
+LDC,Least developed countries: UN classification,2013,6.0
+LDC,Least developed countries: UN classification,2012,4.8
+LDC,Least developed countries: UN classification,2011,4.0
+LDC,Least developed countries: UN classification,2010,3.3
+LMY,Low & middle income,2025,
+LMY,Low & middle income,2024,
+LMY,Low & middle income,2023,
+LMY,Low & middle income,2022,
+LMY,Low & middle income,2021,
+LMY,Low & middle income,2020,
+LMY,Low & middle income,2019,
+LMY,Low & middle income,2018,
+LMY,Low & middle income,2017,
+LMY,Low & middle income,2016,
+LMY,Low & middle income,2015,
+LMY,Low & middle income,2014,
+LMY,Low & middle income,2013,
+LMY,Low & middle income,2012,
+LMY,Low & middle income,2011,
+LMY,Low & middle income,2010,
+,Low income,2025,23.4
+,Low income,2024,22.5
+,Low income,2023,22.0
+,Low income,2022,21.2
+,Low income,2021,19.0
+,Low income,2020,17.6
+,Low income,2019,16.4
+,Low income,2018,13.8
+,Low income,2017,11.4
+,Low income,2016,10.0
+,Low income,2015,7.9
+,Low income,2014,6.9
+,Low income,2013,6.0
+,Low income,2012,5.4
+,Low income,2011,4.9
+,Low income,2010,4.3
+,Lower middle income,2025,62.9
+,Lower middle income,2024,58.9
+,Lower middle income,2023,55.4
+,Lower middle income,2022,52.3
+,Lower middle income,2021,47.4
+,Lower middle income,2020,42.5
+,Lower middle income,2019,33.4
+,Lower middle income,2018,27.2
+,Lower middle income,2017,24.4
+,Lower middle income,2016,21.9
+,Lower middle income,2015,19.5
+,Lower middle income,2014,17.2
+,Lower middle income,2013,15.2
+,Lower middle income,2012,13.6
+,Lower middle income,2011,12.2
+,Lower middle income,2010,10.1
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2025,63.7
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2024,61.5
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2023,59.5
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2022,57.8
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2021,54.2
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2020,50.6
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2019,46.0
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2018,42.3
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2017,39.7
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2016,35.0
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2015,31.8
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2014,28.7
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2013,25.2
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2012,22.4
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2011,20.1
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2010,18.3
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2025,0.0
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2024,58.0
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2023,55.9
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2022,54.1
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2021,50.2
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2020,46.4
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2019,41.5
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2018,37.6
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2017,34.8
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2016,30.8
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2015,27.6
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2014,24.7
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2013,21.3
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2012,18.7
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2011,16.9
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2010,15.5
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2025,60.2
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2024,57.8
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2023,55.7
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2022,53.8
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2021,50.0
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2020,46.2
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2019,41.3
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2018,37.4
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2017,34.6
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2016,30.6
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2015,27.4
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2014,24.5
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2013,21.1
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2012,18.6
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2011,16.7
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2010,15.3
+MIC,Middle income,2025,
+MIC,Middle income,2024,
+MIC,Middle income,2023,
+MIC,Middle income,2022,
+MIC,Middle income,2021,
+MIC,Middle income,2020,
+MIC,Middle income,2019,
+MIC,Middle income,2018,
+MIC,Middle income,2017,
+MIC,Middle income,2016,
+MIC,Middle income,2015,
+MIC,Middle income,2014,
+MIC,Middle income,2013,
+MIC,Middle income,2012,
+MIC,Middle income,2011,
+MIC,Middle income,2010,
+NAC,North America,2025,95.6
+NAC,North America,2024,94.4
+NAC,North America,2023,93.3
+NAC,North America,2022,92.6
+NAC,North America,2021,91.5
+NAC,North America,2020,90.5
+NAC,North America,2019,89.7
+NAC,North America,2018,89.1
+NAC,North America,2017,87.8
+NAC,North America,2016,86.1
+NAC,North America,2015,76.1
+NAC,North America,2014,74.4
+NAC,North America,2013,72.8
+NAC,North America,2012,75.5
+NAC,North America,2011,71.0
+NAC,North America,2010,72.5
+,Not classified,2025,
+,Not classified,2024,
+,Not classified,2023,
+,Not classified,2022,
+,Not classified,2021,
+,Not classified,2020,
+,Not classified,2019,
+,Not classified,2018,
+,Not classified,2017,
+,Not classified,2016,
+,Not classified,2015,
+,Not classified,2014,
+,Not classified,2013,
+,Not classified,2012,
+,Not classified,2011,
+,Not classified,2010,
+OED,OECD members,2025,
+OED,OECD members,2024,
+OED,OECD members,2023,
+OED,OECD members,2022,
+OED,OECD members,2021,
+OED,OECD members,2020,
+OED,OECD members,2019,
+OED,OECD members,2018,
+OED,OECD members,2017,
+OED,OECD members,2016,
+OED,OECD members,2015,
+OED,OECD members,2014,
+OED,OECD members,2013,
+OED,OECD members,2012,
+OED,OECD members,2011,
+OED,OECD members,2010,
+OSS,Other small states,2025,
+OSS,Other small states,2024,
+OSS,Other small states,2023,
+OSS,Other small states,2022,
+OSS,Other small states,2021,
+OSS,Other small states,2020,
+OSS,Other small states,2019,
+OSS,Other small states,2018,
+OSS,Other small states,2017,
+OSS,Other small states,2016,
+OSS,Other small states,2015,
+OSS,Other small states,2014,
+OSS,Other small states,2013,
+OSS,Other small states,2012,
+OSS,Other small states,2011,
+OSS,Other small states,2010,
+PSS,Pacific island small states,2025,
+PSS,Pacific island small states,2024,
+PSS,Pacific island small states,2023,
+PSS,Pacific island small states,2022,
+PSS,Pacific island small states,2021,
+PSS,Pacific island small states,2020,
+PSS,Pacific island small states,2019,
+PSS,Pacific island small states,2018,
+PSS,Pacific island small states,2017,
+PSS,Pacific island small states,2016,
+PSS,Pacific island small states,2015,
+PSS,Pacific island small states,2014,
+PSS,Pacific island small states,2013,
+PSS,Pacific island small states,2012,
+PSS,Pacific island small states,2011,
+PSS,Pacific island small states,2010,
+PST,Post-demographic dividend,2025,
+PST,Post-demographic dividend,2024,
+PST,Post-demographic dividend,2023,
+PST,Post-demographic dividend,2022,
+PST,Post-demographic dividend,2021,
+PST,Post-demographic dividend,2020,
+PST,Post-demographic dividend,2019,
+PST,Post-demographic dividend,2018,
+PST,Post-demographic dividend,2017,
+PST,Post-demographic dividend,2016,
+PST,Post-demographic dividend,2015,
+PST,Post-demographic dividend,2014,
+PST,Post-demographic dividend,2013,
+PST,Post-demographic dividend,2012,
+PST,Post-demographic dividend,2011,
+PST,Post-demographic dividend,2010,
+PRE,Pre-demographic dividend,2025,
+PRE,Pre-demographic dividend,2024,
+PRE,Pre-demographic dividend,2023,
+PRE,Pre-demographic dividend,2022,
+PRE,Pre-demographic dividend,2021,
+PRE,Pre-demographic dividend,2020,
+PRE,Pre-demographic dividend,2019,
+PRE,Pre-demographic dividend,2018,
+PRE,Pre-demographic dividend,2017,
+PRE,Pre-demographic dividend,2016,
+PRE,Pre-demographic dividend,2015,
+PRE,Pre-demographic dividend,2014,
+PRE,Pre-demographic dividend,2013,
+PRE,Pre-demographic dividend,2012,
+PRE,Pre-demographic dividend,2011,
+PRE,Pre-demographic dividend,2010,
+SST,Small states,2025,0.0
+SST,Small states,2024,72.5
+SST,Small states,2023,71.7
+SST,Small states,2022,70.5
+SST,Small states,2021,69.1
+SST,Small states,2020,65.6
+SST,Small states,2019,62.1
+SST,Small states,2018,58.0
+SST,Small states,2017,55.6
+SST,Small states,2016,50.9
+SST,Small states,2015,47.7
+SST,Small states,2014,44.7
+SST,Small states,2013,41.2
+SST,Small states,2012,38.5
+SST,Small states,2011,35.5
+SST,Small states,2010,32.0
+SAS,South Asia,2025,67.8
+SAS,South Asia,2024,62.8
+SAS,South Asia,2023,58.3
+SAS,South Asia,2022,54.2
+SAS,South Asia,2021,48.0
+SAS,South Asia,2020,42.5
+SAS,South Asia,2019,29.7
+SAS,South Asia,2018,20.9
+SAS,South Asia,2017,18.8
+SAS,South Asia,2016,16.7
+SAS,South Asia,2015,14.7
+SAS,South Asia,2014,13.0
+SAS,South Asia,2013,11.7
+SAS,South Asia,2012,10.4
+SAS,South Asia,2011,9.4
+SAS,South Asia,2010,7.1
+TSA,South Asia (IDA & IBRD),2025,67.8
+TSA,South Asia (IDA & IBRD),2024,62.8
+TSA,South Asia (IDA & IBRD),2023,58.3
+TSA,South Asia (IDA & IBRD),2022,54.2
+TSA,South Asia (IDA & IBRD),2021,48.0
+TSA,South Asia (IDA & IBRD),2020,42.5
+TSA,South Asia (IDA & IBRD),2019,29.7
+TSA,South Asia (IDA & IBRD),2018,20.9
+TSA,South Asia (IDA & IBRD),2017,18.8
+TSA,South Asia (IDA & IBRD),2016,16.7
+TSA,South Asia (IDA & IBRD),2015,14.7
+TSA,South Asia (IDA & IBRD),2014,13.0
+TSA,South Asia (IDA & IBRD),2013,11.7
+TSA,South Asia (IDA & IBRD),2012,10.4
+TSA,South Asia (IDA & IBRD),2011,9.4
+TSA,South Asia (IDA & IBRD),2010,7.1
+SSF,Sub-Saharan Africa,2025,35.7
+SSF,Sub-Saharan Africa,2024,33.6
+SSF,Sub-Saharan Africa,2023,32.3
+SSF,Sub-Saharan Africa,2022,31.1
+SSF,Sub-Saharan Africa,2021,29.0
+SSF,Sub-Saharan Africa,2020,26.7
+SSF,Sub-Saharan Africa,2019,24.4
+SSF,Sub-Saharan Africa,2018,22.0
+SSF,Sub-Saharan Africa,2017,20.0
+SSF,Sub-Saharan Africa,2016,18.3
+SSF,Sub-Saharan Africa,2015,16.2
+SSF,Sub-Saharan Africa,2014,13.4
+SSF,Sub-Saharan Africa,2013,11.2
+SSF,Sub-Saharan Africa,2012,9.2
+SSF,Sub-Saharan Africa,2011,7.5
+SSF,Sub-Saharan Africa,2010,6.0
+SSA,Sub-Saharan Africa (excluding high income),2025,36.5
+SSA,Sub-Saharan Africa (excluding high income),2024,34.7
+SSA,Sub-Saharan Africa (excluding high income),2023,33.5
+SSA,Sub-Saharan Africa (excluding high income),2022,32.7
+SSA,Sub-Saharan Africa (excluding high income),2021,30.3
+SSA,Sub-Saharan Africa (excluding high income),2020,28.0
+SSA,Sub-Saharan Africa (excluding high income),2019,25.3
+SSA,Sub-Saharan Africa (excluding high income),2018,22.8
+SSA,Sub-Saharan Africa (excluding high income),2017,20.4
+SSA,Sub-Saharan Africa (excluding high income),2016,18.5
+SSA,Sub-Saharan Africa (excluding high income),2015,16.3
+SSA,Sub-Saharan Africa (excluding high income),2014,13.9
+SSA,Sub-Saharan Africa (excluding high income),2013,11.8
+SSA,Sub-Saharan Africa (excluding high income),2012,9.9
+SSA,Sub-Saharan Africa (excluding high income),2011,8.3
+SSA,Sub-Saharan Africa (excluding high income),2010,6.7
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2025,35.2
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2024,33.3
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2023,32.1
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2022,31.1
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2021,28.9
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2020,26.8
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2019,24.4
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2018,22.1
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2017,19.9
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2016,18.2
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2015,16.1
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2014,13.3
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2013,11.1
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2012,9.2
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2011,7.6
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2010,6.1
+,Upper middle income,2025,88.8
+,Upper middle income,2024,86.9
+,Upper middle income,2023,85.3
+,Upper middle income,2022,82.7
+,Upper middle income,2021,79.4
+,Upper middle income,2020,74.9
+,Upper middle income,2019,67.5
+,Upper middle income,2018,62.2
+,Upper middle income,2017,57.7
+,Upper middle income,2016,53.3
+,Upper middle income,2015,47.9
+,Upper middle income,2014,44.3
+,Upper middle income,2013,41.4
+,Upper middle income,2012,38.3
+,Upper middle income,2011,34.5
+,Upper middle income,2010,30.6
+WLD,World,2025,73.6
+WLD,World,2024,71.2
+WLD,World,2023,69.2
+WLD,World,2022,67.0
+WLD,World,2021,63.8
+WLD,World,2020,60.1
+WLD,World,2019,53.9
+WLD,World,2018,49.4
+WLD,World,2017,46.3
+WLD,World,2016,43.6
+WLD,World,2015,39.9
+WLD,World,2014,37.4
+WLD,World,2013,35.3
+WLD,World,2012,33.3
+WLD,World,2011,30.9
+WLD,World,2010,28.4
+AFG,Afghanistan,2025,
+AFG,Afghanistan,2024,16.09499931
+AFG,Afghanistan,2023,15.92840004
+AFG,Afghanistan,2022,15.86629963
+AFG,Afghanistan,2021,16.51429939
+AFG,Afghanistan,2020,17.04850006
+AFG,Afghanistan,2019,17.60000038
+AFG,Afghanistan,2018,16.79999924
+AFG,Afghanistan,2017,13.5
+AFG,Afghanistan,2016,11.0
+AFG,Afghanistan,2015,8.260000229
+AFG,Afghanistan,2014,7.0
+AFG,Afghanistan,2013,5.900000095
+AFG,Afghanistan,2012,5.454500198
+AFG,Afghanistan,2011,5.0
+AFG,Afghanistan,2010,4.0
+ALB,Albania,2025,
+ALB,Albania,2024,85.86389923
+ALB,Albania,2023,83.13559161
+ALB,Albania,2022,82.61367544
+ALB,Albania,2021,79.32371752
+ALB,Albania,2020,72.23767711
+ALB,Albania,2019,68.5503911218006
+ALB,Albania,2018,65.40000153
+ALB,Albania,2017,62.40000153
+ALB,Albania,2016,59.59999847
+ALB,Albania,2015,56.90000153
+ALB,Albania,2014,54.29999924
+ALB,Albania,2013,51.79999924
+ALB,Albania,2012,49.40000153
+ALB,Albania,2011,47.0
+ALB,Albania,2010,45.0
+DZA,Algeria,2025,
+DZA,Algeria,2024,77.4178009
+DZA,Algeria,2023,76.19760132
+DZA,Algeria,2022,74.78150177
+DZA,Algeria,2021,72.21240234
+DZA,Algeria,2020,63.47269821
+DZA,Algeria,2019,55.79069901
+DZA,Algeria,2018,49.0384680793271
+DZA,Algeria,2017,47.69110107
+DZA,Algeria,2016,42.94549942
+DZA,Algeria,2015,38.20000076
+DZA,Algeria,2014,29.5
+DZA,Algeria,2013,22.5
+DZA,Algeria,2012,18.20000076
+DZA,Algeria,2011,14.89999962
+DZA,Algeria,2010,12.5
+ASM,American Samoa,2025,
+ASM,American Samoa,2024,
+ASM,American Samoa,2023,
+ASM,American Samoa,2022,
+ASM,American Samoa,2021,
+ASM,American Samoa,2020,
+ASM,American Samoa,2019,
+ASM,American Samoa,2018,
+ASM,American Samoa,2017,
+ASM,American Samoa,2016,
+ASM,American Samoa,2015,
+ASM,American Samoa,2014,
+ASM,American Samoa,2013,
+ASM,American Samoa,2012,
+ASM,American Samoa,2011,
+ASM,American Samoa,2010,
+AND,Andorra,2025,
+AND,Andorra,2024,94.39759827
+AND,Andorra,2023,94.21499634
+AND,Andorra,2022,94.05169678
+AND,Andorra,2021,93.89749908
+AND,Andorra,2020,93.20570374
+AND,Andorra,2019,90.71869659
+AND,Andorra,2018,93.5
+AND,Andorra,2017,91.5674670273926
+AND,Andorra,2016,89.69999695
+AND,Andorra,2015,87.90000153
+AND,Andorra,2014,86.09999847
+AND,Andorra,2013,84.40000153
+AND,Andorra,2012,82.69999695
+AND,Andorra,2011,81.0
+AND,Andorra,2010,81.0
+AGO,Angola,2025,
+AGO,Angola,2024,40.70479965
+AGO,Angola,2023,37.88589859
+AGO,Angola,2022,35.83800125
+AGO,Angola,2021,34.55649948
+AGO,Angola,2020,33.32089996
+AGO,Angola,2019,32.12939835
+AGO,Angola,2018,29.0
+AGO,Angola,2017,26.0
+AGO,Angola,2016,23.20000076
+AGO,Angola,2015,22.0
+AGO,Angola,2014,21.3623407584103
+AGO,Angola,2013,13.0
+AGO,Angola,2012,7.699999809
+AGO,Angola,2011,4.699999809
+AGO,Angola,2010,2.799999952
+ATG,Antigua and Barbuda,2025,
+ATG,Antigua and Barbuda,2024,72.73040009
+ATG,Antigua and Barbuda,2023,72.12409973
+ATG,Antigua and Barbuda,2022,71.9233017
+ATG,Antigua and Barbuda,2021,71.64530182
+ATG,Antigua and Barbuda,2020,71.36840057
+ATG,Antigua and Barbuda,2019,71.09259796
+ATG,Antigua and Barbuda,2018,70.81790161
+ATG,Antigua and Barbuda,2017,70.54419708
+ATG,Antigua and Barbuda,2016,70.27159882
+ATG,Antigua and Barbuda,2015,70.0
+ATG,Antigua and Barbuda,2014,67.77999878
+ATG,Antigua and Barbuda,2013,63.40000153
+ATG,Antigua and Barbuda,2012,58.0
+ATG,Antigua and Barbuda,2011,52.0
+ATG,Antigua and Barbuda,2010,47.0
+ARG,Argentina,2025,
+ARG,Argentina,2024,89.66715228
+ARG,Argentina,2023,89.22897166
+ARG,Argentina,2022,88.37535691
+ARG,Argentina,2021,87.15070683
+ARG,Argentina,2020,85.51438646
+ARG,Argentina,2019,79.9469520347551
+ARG,Argentina,2018,77.7
+ARG,Argentina,2017,74.2949068657957
+ARG,Argentina,2016,70.9689808206024
+ARG,Argentina,2015,68.0430641088122
+ARG,Argentina,2014,64.69999695
+ARG,Argentina,2013,59.90000153
+ARG,Argentina,2012,55.79999924
+ARG,Argentina,2011,51.0
+ARG,Argentina,2010,45.0
+ARM,Armenia,2025,
+ARM,Armenia,2024,81.33930206
+ARM,Armenia,2023,79.99663036
+ARM,Armenia,2022,77.02767465
+ARM,Armenia,2021,78.61225758
+ARM,Armenia,2020,76.50770055
+ARM,Armenia,2019,66.5439496866159
+ARM,Armenia,2018,68.2450522610271
+ARM,Armenia,2017,64.7448843250726
+ARM,Armenia,2016,64.3460297653742
+ARM,Armenia,2015,59.1008337674937
+ARM,Armenia,2014,54.6228058583362
+ARM,Armenia,2013,41.9
+ARM,Armenia,2012,37.5
+ARM,Armenia,2011,32.0
+ARM,Armenia,2010,25.0
+ABW,Aruba,2025,
+ABW,Aruba,2024,
+ABW,Aruba,2023,
+ABW,Aruba,2022,
+ABW,Aruba,2021,
+ABW,Aruba,2020,
+ABW,Aruba,2019,
+ABW,Aruba,2018,
+ABW,Aruba,2017,97.17
+ABW,Aruba,2016,93.542453865048
+ABW,Aruba,2015,88.661226932496
+ABW,Aruba,2014,83.78
+ABW,Aruba,2013,78.9
+ABW,Aruba,2012,74.0
+ABW,Aruba,2011,69.0
+ABW,Aruba,2010,62.0
+AUS,Australia,2025,
+AUS,Australia,2024,96.13140106
+AUS,Australia,2023,96.1160965
+AUS,Australia,2022,96.11940002
+AUS,Australia,2021,96.97219849
+AUS,Australia,2020,94.6934967
+AUS,Australia,2019,93.60990143
+AUS,Australia,2018,90.0082016
+AUS,Australia,2017,86.5450488476768
+AUS,Australia,2016,86.54000092
+AUS,Australia,2015,84.5605149091408
+AUS,Australia,2014,84.0
+AUS,Australia,2013,83.453497167
+AUS,Australia,2012,79.0
+AUS,Australia,2011,79.4876977139029
+AUS,Australia,2010,76.0
+AUT,Austria,2025,91.92573373
+AUT,Austria,2024,94.91974877
+AUT,Austria,2023,95.33467117
+AUT,Austria,2022,93.61409139
+AUT,Austria,2021,92.52915104
+AUT,Austria,2020,87.52942813
+AUT,Austria,2019,87.7522047870069
+AUT,Austria,2018,87.4791372262556
+AUT,Austria,2017,87.9355865856062
+AUT,Austria,2016,84.3237425711653
+AUT,Austria,2015,83.9401419315026
+AUT,Austria,2014,80.9958249574764
+AUT,Austria,2013,80.6188
+AUT,Austria,2012,80.0299939169903
+AUT,Austria,2011,78.7399930986888
+AUT,Austria,2010,75.17
+AZE,Azerbaijan,2025,90.80000181
+AZE,Azerbaijan,2024,90.43979645
+AZE,Azerbaijan,2023,89.0
+AZE,Azerbaijan,2022,88.0
+AZE,Azerbaijan,2021,85.99998954
+AZE,Azerbaijan,2020,84.59999573
+AZE,Azerbaijan,2019,81.0999990651547
+AZE,Azerbaijan,2018,79.7999954887896
+AZE,Azerbaijan,2017,79.0
+AZE,Azerbaijan,2016,78.2
+AZE,Azerbaijan,2015,77.0
+AZE,Azerbaijan,2014,75.0000156363396
+AZE,Azerbaijan,2013,73.000001372
+AZE,Azerbaijan,2012,54.20000076
+AZE,Azerbaijan,2011,50.0
+AZE,Azerbaijan,2010,46.0
+BHS,"Bahamas, The",2025,
+BHS,"Bahamas, The",2024,92.47270203
+BHS,"Bahamas, The",2023,92.38729858
+BHS,"Bahamas, The",2022,92.2559967
+BHS,"Bahamas, The",2021,92.34980011
+BHS,"Bahamas, The",2020,92.4437027
+BHS,"Bahamas, The",2019,90.69329834
+BHS,"Bahamas, The",2018,83.0
+BHS,"Bahamas, The",2017,80.59999847
+BHS,"Bahamas, The",2016,80.0
+BHS,"Bahamas, The",2015,78.0
+BHS,"Bahamas, The",2014,76.91999817
+BHS,"Bahamas, The",2013,72.0
+BHS,"Bahamas, The",2012,71.74819946
+BHS,"Bahamas, The",2011,65.0
+BHS,"Bahamas, The",2010,43.0
+BHR,Bahrain,2025,
+BHR,Bahrain,2024,100.0
+BHR,Bahrain,2023,100.0
+BHR,Bahrain,2022,100.0
+BHR,Bahrain,2021,100.0
+BHR,Bahrain,2020,99.67103159
+BHR,Bahrain,2019,99.7015043807778
+BHR,Bahrain,2018,98.6446725799886
+BHR,Bahrain,2017,95.8781357543453
+BHR,Bahrain,2016,97.9999807024146
+BHR,Bahrain,2015,93.4783007986129
+BHR,Bahrain,2014,90.5031334814656
+BHR,Bahrain,2013,90.0000397
+BHR,Bahrain,2012,88.0
+BHR,Bahrain,2011,76.9999665032303
+BHR,Bahrain,2010,55.0
+BGD,Bangladesh,2025,
+BGD,Bangladesh,2024,53.42171316
+BGD,Bangladesh,2023,44.50274195
+BGD,Bangladesh,2022,41.61650085
+BGD,Bangladesh,2021,38.91744466
+BGD,Bangladesh,2020,36.10910034
+BGD,Bangladesh,2019,30.38310051
+BGD,Bangladesh,2018,25.56509972
+BGD,Bangladesh,2017,21.5
+BGD,Bangladesh,2016,16.89909935
+BGD,Bangladesh,2015,12.36880016
+BGD,Bangladesh,2014,9.052900314
+BGD,Bangladesh,2013,6.63
+BGD,Bangladesh,2012,5.0
+BGD,Bangladesh,2011,4.5
+BGD,Bangladesh,2010,3.700000048
+BRB,Barbados,2025,
+BRB,Barbados,2024,70.36470032
+BRB,Barbados,2023,69.67510223
+BRB,Barbados,2022,69.06359863
+BRB,Barbados,2021,69.4756012
+BRB,Barbados,2020,69.89009857
+BRB,Barbados,2019,70.30709839
+BRB,Barbados,2018,70.72650146
+BRB,Barbados,2017,71.14849854
+BRB,Barbados,2016,71.57299805
+BRB,Barbados,2015,72.04940033
+BRB,Barbados,2014,71.92459869
+BRB,Barbados,2013,71.80000305
+BRB,Barbados,2012,71.19999695
+BRB,Barbados,2011,66.5
+BRB,Barbados,2010,65.09999847
+BLR,Belarus,2025,
+BLR,Belarus,2024,94.26182128
+BLR,Belarus,2023,91.51249979
+BLR,Belarus,2022,89.50733148
+BLR,Belarus,2021,86.88841196
+BLR,Belarus,2020,85.08791245
+BLR,Belarus,2019,82.7891520910901
+BLR,Belarus,2018,79.1298866919307
+BLR,Belarus,2017,74.4364454136036
+BLR,Belarus,2016,71.1130457603832
+BLR,Belarus,2015,62.230360906803
+BLR,Belarus,2014,59.0163187101542
+BLR,Belarus,2013,54.17
+BLR,Belarus,2012,46.91
+BLR,Belarus,2011,39.6488956598961
+BLR,Belarus,2010,31.8
+BEL,Belgium,2025,
+BEL,Belgium,2024,95.77579144
+BEL,Belgium,2023,94.62625074
+BEL,Belgium,2022,94.00783071
+BEL,Belgium,2021,92.78867618
+BEL,Belgium,2020,91.52641629
+BEL,Belgium,2019,90.275428012141
+BEL,Belgium,2018,88.6473429951691
+BEL,Belgium,2017,87.6796808175598
+BEL,Belgium,2016,86.5164766644457
+BEL,Belgium,2015,85.0529417508701
+BEL,Belgium,2014,85.0012379539925
+BEL,Belgium,2013,82.1702
+BEL,Belgium,2012,80.7199905482042
+BEL,Belgium,2011,81.6099959955952
+BEL,Belgium,2010,77.6397855126946
+BLZ,Belize,2025,
+BLZ,Belize,2024,80.00582262
+BLZ,Belize,2023,70.18720245
+BLZ,Belize,2022,69.98329926
+BLZ,Belize,2021,70.65370178
+BLZ,Belize,2020,64.43589783
+BLZ,Belize,2019,58.76520157
+BLZ,Belize,2018,53.59360123
+BLZ,Belize,2017,48.8771019
+BLZ,Belize,2016,44.57569885
+BLZ,Belize,2015,41.59000015
+BLZ,Belize,2014,38.70000076
+BLZ,Belize,2013,33.59999847
+BLZ,Belize,2012,31.0
+BLZ,Belize,2011,30.70000076
+BLZ,Belize,2010,28.2
+BEN,Benin,2025,
+BEN,Benin,2024,33.98379898
+BEN,Benin,2023,32.39400101
+BEN,Benin,2022,30.53730011
+BEN,Benin,2021,28.20470047
+BEN,Benin,2020,22.12059975
+BEN,Benin,2019,20.50099945
+BEN,Benin,2018,19.0
+BEN,Benin,2017,18.7
+BEN,Benin,2016,14.5
+BEN,Benin,2015,11.25500011
+BEN,Benin,2014,6.0
+BEN,Benin,2013,4.900000095
+BEN,Benin,2012,4.5
+BEN,Benin,2011,4.14832306562512
+BEN,Benin,2010,3.13
+BMU,Bermuda,2025,
+BMU,Bermuda,2024,
+BMU,Bermuda,2023,
+BMU,Bermuda,2022,
+BMU,Bermuda,2021,
+BMU,Bermuda,2020,
+BMU,Bermuda,2019,
+BMU,Bermuda,2018,
+BMU,Bermuda,2017,98.37
+BMU,Bermuda,2016,98.0
+BMU,Bermuda,2015,98.3236096537251
+BMU,Bermuda,2014,96.8
+BMU,Bermuda,2013,95.3
+BMU,Bermuda,2012,91.2993045243401
+BMU,Bermuda,2011,88.336
+BMU,Bermuda,2010,84.21
+BTN,Bhutan,2025,
+BTN,Bhutan,2024,91.27739716
+BTN,Bhutan,2023,90.02140045
+BTN,Bhutan,2022,88.35620117
+BTN,Bhutan,2021,85.63688389
+BTN,Bhutan,2020,76.85079956
+BTN,Bhutan,2019,74.17939758
+BTN,Bhutan,2018,63.48680115
+BTN,Bhutan,2017,54.33549881
+BTN,Bhutan,2016,46.50320053
+BTN,Bhutan,2015,39.79999924
+BTN,Bhutan,2014,30.29999924
+BTN,Bhutan,2013,22.39999962
+BTN,Bhutan,2012,15.60000038
+BTN,Bhutan,2011,14.39999962
+BTN,Bhutan,2010,13.6
+BOL,Bolivia,2025,
+BOL,Bolivia,2024,79.70469666
+BOL,Bolivia,2023,77.30039978
+BOL,Bolivia,2022,72.62270355
+BOL,Bolivia,2021,65.9773785
+BOL,Bolivia,2020,59.94010155
+BOL,Bolivia,2019,47.4748191121692
+BOL,Bolivia,2018,44.2861422024283
+BOL,Bolivia,2017,43.83229828
+BOL,Bolivia,2016,39.69749832
+BOL,Bolivia,2015,37.4868176324391
+BOL,Bolivia,2014,34.6016202324676
+BOL,Bolivia,2013,36.99
+BOL,Bolivia,2012,35.34
+BOL,Bolivia,2011,30.0
+BOL,Bolivia,2010,22.39999962
+BIH,Bosnia and Herzegovina,2025,
+BIH,Bosnia and Herzegovina,2024,86.10091103
+BIH,Bosnia and Herzegovina,2023,83.3771539
+BIH,Bosnia and Herzegovina,2022,78.8455371
+BIH,Bosnia and Herzegovina,2021,75.67620138
+BIH,Bosnia and Herzegovina,2020,73.21175294
+BIH,Bosnia and Herzegovina,2019,69.9463476317266
+BIH,Bosnia and Herzegovina,2018,70.1201350394885
+BIH,Bosnia and Herzegovina,2017,64.8920205128383
+BIH,Bosnia and Herzegovina,2016,60.2565354318987
+BIH,Bosnia and Herzegovina,2015,52.59999847
+BIH,Bosnia and Herzegovina,2014,49.91770172
+BIH,Bosnia and Herzegovina,2013,48.52130127
+BIH,Bosnia and Herzegovina,2012,45.0644989
+BIH,Bosnia and Herzegovina,2011,43.88769913
+BIH,Bosnia and Herzegovina,2010,42.75
+BWA,Botswana,2025,
+BWA,Botswana,2024,57.45950036
+BWA,Botswana,2023,
+BWA,Botswana,2022,57.9
+BWA,Botswana,2021,54.70069885
+BWA,Botswana,2020,51.67819977
+BWA,Botswana,2019,48.82279968
+BWA,Botswana,2018,46.12509918
+BWA,Botswana,2017,43.57640076
+BWA,Botswana,2016,41.16859818
+BWA,Botswana,2015,38.89379883
+BWA,Botswana,2014,36.74474744423
+BWA,Botswana,2013,30.0
+BWA,Botswana,2012,16.0
+BWA,Botswana,2011,9.0
+BWA,Botswana,2010,6.0
+BRA,Brazil,2025,
+BRA,Brazil,2024,84.46347227
+BRA,Brazil,2023,84.15060238
+BRA,Brazil,2022,80.52775094
+BRA,Brazil,2021,80.68989314
+BRA,Brazil,2020,81.34269353
+BRA,Brazil,2019,73.9124399133589
+BRA,Brazil,2018,70.4342825404361
+BRA,Brazil,2017,67.4712845236305
+BRA,Brazil,2016,60.8725400681261
+BRA,Brazil,2015,58.3279517340924
+BRA,Brazil,2014,54.5510018796392
+BRA,Brazil,2013,51.04
+BRA,Brazil,2012,48.56
+BRA,Brazil,2011,45.69
+BRA,Brazil,2010,40.65
+VGB,British Virgin Islands,2025,
+VGB,British Virgin Islands,2024,
+VGB,British Virgin Islands,2023,
+VGB,British Virgin Islands,2022,
+VGB,British Virgin Islands,2021,
+VGB,British Virgin Islands,2020,
+VGB,British Virgin Islands,2019,
+VGB,British Virgin Islands,2018,
+VGB,British Virgin Islands,2017,77.7042682926829
+VGB,British Virgin Islands,2016,77.7014296797074
+VGB,British Virgin Islands,2015,
+VGB,British Virgin Islands,2014,
+VGB,British Virgin Islands,2013,
+VGB,British Virgin Islands,2012,37.6
+VGB,British Virgin Islands,2011,37.4
+VGB,British Virgin Islands,2010,37.0
+BRN,Brunei Darussalam,2025,
+BRN,Brunei Darussalam,2024,96.29828801
+BRN,Brunei Darussalam,2023,98.97039795
+BRN,Brunei Darussalam,2022,98.97042579
+BRN,Brunei Darussalam,2021,97.62879944
+BRN,Brunei Darussalam,2020,96.30549622
+BRN,Brunei Darussalam,2019,95.0
+BRN,Brunei Darussalam,2018,95.0
+BRN,Brunei Darussalam,2017,94.86669922
+BRN,Brunei Darussalam,2016,90.0
+BRN,Brunei Darussalam,2015,71.19999695
+BRN,Brunei Darussalam,2014,68.76999664
+BRN,Brunei Darussalam,2013,64.5
+BRN,Brunei Darussalam,2012,60.27310181
+BRN,Brunei Darussalam,2011,56.0
+BRN,Brunei Darussalam,2010,53.0
+BGR,Bulgaria,2025,
+BGR,Bulgaria,2024,82.438955
+BGR,Bulgaria,2023,80.38956462
+BGR,Bulgaria,2022,79.12686326
+BGR,Bulgaria,2021,75.27144583
+BGR,Bulgaria,2020,70.16248359
+BGR,Bulgaria,2019,67.9469809417603
+BGR,Bulgaria,2018,64.78201069118
+BGR,Bulgaria,2017,63.4101013837926
+BGR,Bulgaria,2016,59.825547661014
+BGR,Bulgaria,2015,56.6562516053086
+BGR,Bulgaria,2014,55.4903766299262
+BGR,Bulgaria,2013,53.0615
+BGR,Bulgaria,2012,51.8999876658503
+BGR,Bulgaria,2011,47.9799930506026
+BGR,Bulgaria,2010,46.23
+BFA,Burkina Faso,2025,
+BFA,Burkina Faso,2024,28.25270081
+BFA,Burkina Faso,2023,25.36120033
+BFA,Burkina Faso,2022,25.3987999
+BFA,Burkina Faso,2021,18.1522007
+BFA,Burkina Faso,2020,12.97319984
+BFA,Burkina Faso,2019,9.27180600953186
+BFA,Burkina Faso,2018,8.498900414
+BFA,Burkina Faso,2017,7.790400028
+BFA,Burkina Faso,2016,7.140999794
+BFA,Burkina Faso,2015,6.545700073
+BFA,Burkina Faso,2014,6.0
+BFA,Burkina Faso,2013,5.0
+BFA,Burkina Faso,2012,3.724999905
+BFA,Burkina Faso,2011,3.0
+BFA,Burkina Faso,2010,2.400000095
+BDI,Burundi,2025,
+BDI,Burundi,2024,8.595999718
+BDI,Burundi,2023,7.172299862
+BDI,Burundi,2022,7.144800186
+BDI,Burundi,2021,6.777999878
+BDI,Burundi,2020,6.430099964
+BDI,Burundi,2019,6.072199821
+BDI,Burundi,2018,4.019499779
+BDI,Burundi,2017,2.6607485347534
+BDI,Burundi,2016,2.200000048
+BDI,Burundi,2015,2.0
+BDI,Burundi,2014,1.04239212643994
+BDI,Burundi,2013,1.2642181112
+BDI,Burundi,2012,1.220000029
+BDI,Burundi,2011,1.110000014
+BDI,Burundi,2010,1.0
+CPV,Cabo Verde,2025,
+CPV,Cabo Verde,2024,74.73519897
+CPV,Cabo Verde,2023,74.59919739
+CPV,Cabo Verde,2022,73.32740021
+CPV,Cabo Verde,2021,70.28250122
+CPV,Cabo Verde,2020,69.37339783
+CPV,Cabo Verde,2019,61.9433977593088
+CPV,Cabo Verde,2018,59.5
+CPV,Cabo Verde,2017,57.1621463484891
+CPV,Cabo Verde,2016,50.3228178676892
+CPV,Cabo Verde,2015,42.6830141582781
+CPV,Cabo Verde,2014,40.25999832
+CPV,Cabo Verde,2013,37.5
+CPV,Cabo Verde,2012,34.74
+CPV,Cabo Verde,2011,32.0
+CPV,Cabo Verde,2010,30.0
+KHM,Cambodia,2025,
+KHM,Cambodia,2024,68.47530365
+KHM,Cambodia,2023,68.92549896
+KHM,Cambodia,2022,65.49079895
+KHM,Cambodia,2021,60.76269913
+KHM,Cambodia,2020,56.37590027
+KHM,Cambodia,2019,52.305878224498
+KHM,Cambodia,2018,65.0
+KHM,Cambodia,2017,32.9002785437986
+KHM,Cambodia,2016,32.3984517141849
+KHM,Cambodia,2015,6.43319107021405
+KHM,Cambodia,2014,14.0
+KHM,Cambodia,2013,6.0
+KHM,Cambodia,2012,4.94
+KHM,Cambodia,2011,3.099999905
+KHM,Cambodia,2010,1.26
+CMR,Cameroon,2025,
+CMR,Cameroon,2024,46.25880051
+CMR,Cameroon,2023,42.24380112
+CMR,Cameroon,2022,40.12559891
+CMR,Cameroon,2021,38.89260101
+CMR,Cameroon,2020,37.69749832
+CMR,Cameroon,2019,36.53919983
+CMR,Cameroon,2018,29.70000076
+CMR,Cameroon,2017,23.2029719748646
+CMR,Cameroon,2016,20.60000038
+CMR,Cameroon,2015,18.29999924
+CMR,Cameroon,2014,16.2148722257524
+CMR,Cameroon,2013,10.0
+CMR,Cameroon,2012,7.5
+CMR,Cameroon,2011,5.0
+CMR,Cameroon,2010,4.300000191
+CAN,Canada,2025,
+CAN,Canada,2024,94.353302
+CAN,Canada,2023,94.14530182
+CAN,Canada,2022,94.0
+CAN,Canada,2021,93.93710327
+CAN,Canada,2020,92.3
+CAN,Canada,2019,91.91290283
+CAN,Canada,2018,94.64
+CAN,Canada,2017,92.70140076
+CAN,Canada,2016,91.16000366
+CAN,Canada,2015,90.0
+CAN,Canada,2014,87.12000275
+CAN,Canada,2013,85.80000305
+CAN,Canada,2012,83.0
+CAN,Canada,2011,83.0
+CAN,Canada,2010,80.3
+CYM,Cayman Islands,2025,
+CYM,Cayman Islands,2024,
+CYM,Cayman Islands,2023,
+CYM,Cayman Islands,2022,
+CYM,Cayman Islands,2021,
+CYM,Cayman Islands,2020,
+CYM,Cayman Islands,2019,
+CYM,Cayman Islands,2018,
+CYM,Cayman Islands,2017,81.0676932508161
+CYM,Cayman Islands,2016,79.0
+CYM,Cayman Islands,2015,77.0
+CYM,Cayman Islands,2014,74.1
+CYM,Cayman Islands,2013,71.4
+CYM,Cayman Islands,2012,69.7
+CYM,Cayman Islands,2011,69.46594499
+CYM,Cayman Islands,2010,66.0
+CAF,Central African Republic,2025,
+CAF,Central African Republic,2024,13.78250027
+CAF,Central African Republic,2023,13.8416996
+CAF,Central African Republic,2022,13.75360012
+CAF,Central African Republic,2021,
+CAF,Central African Republic,2020,
+CAF,Central African Republic,2019,7.509200096
+CAF,Central African Republic,2018,5.099999905
+CAF,Central African Republic,2017,4.0
+CAF,Central African Republic,2016,3.099999905
+CAF,Central African Republic,2015,2.900000095
+CAF,Central African Republic,2014,2.700000048
+CAF,Central African Republic,2013,2.5
+CAF,Central African Republic,2012,2.400000095
+CAF,Central African Republic,2011,2.200000048
+CAF,Central African Republic,2010,2.0
+TCD,Chad,2025,
+TCD,Chad,2024,12.62689972
+TCD,Chad,2023,12.03590012
+TCD,Chad,2022,11.17029953
+TCD,Chad,2021,9.653699875
+TCD,Chad,2020,8.343099594
+TCD,Chad,2019,7.618199825
+TCD,Chad,2018,6.956299782
+TCD,Chad,2017,6.351900101
+TCD,Chad,2016,5.800000191
+TCD,Chad,2015,3.5
+TCD,Chad,2014,2.900000095
+TCD,Chad,2013,2.5
+TCD,Chad,2012,2.099999905
+TCD,Chad,2011,1.899999976
+TCD,Chad,2010,1.700000048
+CHI,Channel Islands,2025,
+CHI,Channel Islands,2024,
+CHI,Channel Islands,2023,
+CHI,Channel Islands,2022,
+CHI,Channel Islands,2021,
+CHI,Channel Islands,2020,
+CHI,Channel Islands,2019,
+CHI,Channel Islands,2018,
+CHI,Channel Islands,2017,
+CHI,Channel Islands,2016,
+CHI,Channel Islands,2015,
+CHI,Channel Islands,2014,
+CHI,Channel Islands,2013,
+CHI,Channel Islands,2012,
+CHI,Channel Islands,2011,
+CHI,Channel Islands,2010,
+CHL,Chile,2025,
+CHL,Chile,2024,95.590243
+CHL,Chile,2023,94.45742345
+CHL,Chile,2022,92.31819916
+CHL,Chile,2021,90.23280334
+CHL,Chile,2020,87.45929718
+CHL,Chile,2019,85.01760101
+CHL,Chile,2018,84.90000153
+CHL,Chile,2017,82.3274869338464
+CHL,Chile,2016,83.5585860244169
+CHL,Chile,2015,76.6295919508796
+CHL,Chile,2014,61.11000061
+CHL,Chile,2013,58.0
+CHL,Chile,2012,55.04999924
+CHL,Chile,2011,52.2496072877744
+CHL,Chile,2010,45.0
+CHN,China,2025,91.6
+CHN,China,2024,92.0
+CHN,China,2023,90.6
+CHN,China,2022,75.61131603
+CHN,China,2021,73.05323517
+CHN,China,2020,70.05275998
+CHN,China,2019,64.080881297515
+CHN,China,2018,65.35839844
+CHN,China,2017,54.3
+CHN,China,2016,53.2
+CHN,China,2015,50.29999924
+CHN,China,2014,47.90000153
+CHN,China,2013,45.79999924
+CHN,China,2012,42.30009842
+CHN,China,2011,38.3
+CHN,China,2010,34.3
+COL,Colombia,2025,
+COL,Colombia,2024,79.34543299
+COL,Colombia,2023,77.33686322
+COL,Colombia,2022,72.79637855
+COL,Colombia,2021,73.02837449
+COL,Colombia,2020,69.79533474
+COL,Colombia,2019,65.0069007159493
+COL,Colombia,2018,64.1263768204459
+COL,Colombia,2017,62.2598803162841
+COL,Colombia,2016,58.1364935728703
+COL,Colombia,2015,55.9049725142924
+COL,Colombia,2014,52.568136539247
+COL,Colombia,2013,51.7
+COL,Colombia,2012,48.98
+COL,Colombia,2011,40.3509157546318
+COL,Colombia,2010,36.5
+COM,Comoros,2025,
+COM,Comoros,2024,32.51750183
+COM,Comoros,2023,31.92749977
+COM,Comoros,2022,31.37409973
+COM,Comoros,2021,30.68120003
+COM,Comoros,2020,22.42040062
+COM,Comoros,2019,16.38380051
+COM,Comoros,2018,
+COM,Comoros,2017,8.478199959
+COM,Comoros,2016,7.938300133
+COM,Comoros,2015,7.459199905
+COM,Comoros,2014,6.980000019
+COM,Comoros,2013,6.5
+COM,Comoros,2012,5.975299835
+COM,Comoros,2011,5.5
+COM,Comoros,2010,5.099999905
+COD,"Congo, Dem. Rep.",2025,
+COD,"Congo, Dem. Rep.",2024,19.67350006
+COD,"Congo, Dem. Rep.",2023,18.96789932
+COD,"Congo, Dem. Rep.",2022,17.99620056
+COD,"Congo, Dem. Rep.",2021,16.1595993
+COD,"Congo, Dem. Rep.",2020,14.51049995
+COD,"Congo, Dem. Rep.",2019,13.02970028
+COD,"Congo, Dem. Rep.",2018,11.69999981
+COD,"Congo, Dem. Rep.",2017,
+COD,"Congo, Dem. Rep.",2016,10.1
+COD,"Congo, Dem. Rep.",2015,3.799999952
+COD,"Congo, Dem. Rep.",2014,3.0
+COD,"Congo, Dem. Rep.",2013,2.200000048
+COD,"Congo, Dem. Rep.",2012,1.679999948
+COD,"Congo, Dem. Rep.",2011,1.200000048
+COD,"Congo, Dem. Rep.",2010,0.72
+COG,"Congo, Rep.",2025,
+COG,"Congo, Rep.",2024,47.25159836
+COG,"Congo, Rep.",2023,43.15039825
+COG,"Congo, Rep.",2022,40.98669815
+COG,"Congo, Rep.",2021,30.02739906
+COG,"Congo, Rep.",2020,21.99850082
+COG,"Congo, Rep.",2019,16.11639977
+COG,"Congo, Rep.",2018,11.8071003
+COG,"Congo, Rep.",2017,8.649999619
+COG,"Congo, Rep.",2016,8.121899605
+COG,"Congo, Rep.",2015,7.616000175
+COG,"Congo, Rep.",2014,7.110000134
+COG,"Congo, Rep.",2013,6.599999905
+COG,"Congo, Rep.",2012,6.106699944
+COG,"Congo, Rep.",2011,5.6
+COG,"Congo, Rep.",2010,5.0
+CRI,Costa Rica,2025,
+CRI,Costa Rica,2024,87.17019653
+CRI,Costa Rica,2023,85.39514799
+CRI,Costa Rica,2022,82.59801121
+CRI,Costa Rica,2021,82.74901607
+CRI,Costa Rica,2020,80.53018608
+CRI,Costa Rica,2019,81.2025964435269
+CRI,Costa Rica,2018,73.4797284369906
+CRI,Costa Rica,2017,71.5816646195022
+CRI,Costa Rica,2016,65.8804491942718
+CRI,Costa Rica,2015,59.7629501371681
+CRI,Costa Rica,2014,53.0
+CRI,Costa Rica,2013,45.96
+CRI,Costa Rica,2012,47.5
+CRI,Costa Rica,2011,39.2121959961842
+CRI,Costa Rica,2010,36.5
+CIV,Cote d'Ivoire,2025,
+CIV,Cote d'Ivoire,2024,41.43219902
+CIV,Cote d'Ivoire,2023,40.65284979
+CIV,Cote d'Ivoire,2022,38.41328122
+CIV,Cote d'Ivoire,2021,35.95069885
+CIV,Cote d'Ivoire,2020,36.01660156
+CIV,Cote d'Ivoire,2019,36.2889545655205
+CIV,Cote d'Ivoire,2018,37.5465361301281
+CIV,Cote d'Ivoire,2017,43.8399208514876
+CIV,Cote d'Ivoire,2016,41.2078149304414
+CIV,Cote d'Ivoire,2015,38.4400001654616
+CIV,Cote d'Ivoire,2014,10.0
+CIV,Cote d'Ivoire,2013,6.599999905
+CIV,Cote d'Ivoire,2012,4.400000095
+CIV,Cote d'Ivoire,2011,2.900000095
+CIV,Cote d'Ivoire,2010,2.700000048
+HRV,Croatia,2025,
+HRV,Croatia,2024,83.63240029
+HRV,Croatia,2023,83.24117599
+HRV,Croatia,2022,82.07155532
+HRV,Croatia,2021,81.25396608
+HRV,Croatia,2020,78.32090004
+HRV,Croatia,2019,79.0797836757554
+HRV,Croatia,2018,75.2946259897258
+HRV,Croatia,2017,67.0961920368478
+HRV,Croatia,2016,72.6972696701463
+HRV,Croatia,2015,69.8450359238281
+HRV,Croatia,2014,68.5678992528467
+HRV,Croatia,2013,66.7476
+HRV,Croatia,2012,61.9399731527956
+HRV,Croatia,2011,57.7899789891444
+HRV,Croatia,2010,56.55
+CUB,Cuba,2025,
+CUB,Cuba,2024,70.47699738
+CUB,Cuba,2023,69.55580139
+CUB,Cuba,2022,67.88410187
+CUB,Cuba,2021,67.64354869
+CUB,Cuba,2020,71.11907507
+CUB,Cuba,2019,67.9708086565152
+CUB,Cuba,2018,62.6789236230601
+CUB,Cuba,2017,57.1484043170788
+CUB,Cuba,2016,42.9786751910106
+CUB,Cuba,2015,37.3050974155373
+CUB,Cuba,2014,29.0701843656523
+CUB,Cuba,2013,27.93
+CUB,Cuba,2012,21.20000076
+CUB,Cuba,2011,16.0172907996413
+CUB,Cuba,2010,15.9
+CUW,Curacao,2025,
+CUW,Curacao,2024,
+CUW,Curacao,2023,
+CUW,Curacao,2022,
+CUW,Curacao,2021,
+CUW,Curacao,2020,
+CUW,Curacao,2019,
+CUW,Curacao,2018,
+CUW,Curacao,2017,68.1272162511339
+CUW,Curacao,2016,61.855510740634
+CUW,Curacao,2015,
+CUW,Curacao,2014,
+CUW,Curacao,2013,
+CUW,Curacao,2012,
+CUW,Curacao,2011,
+CUW,Curacao,2010,
+CYP,Cyprus,2025,
+CYP,Cyprus,2024,89.60099246
+CYP,Cyprus,2023,91.22110357
+CYP,Cyprus,2022,89.60099194
+CYP,Cyprus,2021,90.75951564
+CYP,Cyprus,2020,90.80194644
+CYP,Cyprus,2019,86.0636299618935
+CYP,Cyprus,2018,84.4335825186889
+CYP,Cyprus,2017,80.743188971932
+CYP,Cyprus,2016,75.9002054030125
+CYP,Cyprus,2015,71.7157409175171
+CYP,Cyprus,2014,69.3286967086473
+CYP,Cyprus,2013,65.4548
+CYP,Cyprus,2012,60.6898684001903
+CYP,Cyprus,2011,56.8598923503507
+CYP,Cyprus,2010,52.99
+CZE,Czechia,2025,
+CZE,Czechia,2024,87.68776014
+CZE,Czechia,2023,85.99404818
+CZE,Czechia,2022,84.54009378
+CZE,Czechia,2021,82.67062427
+CZE,Czechia,2020,81.33889705
+CZE,Czechia,2019,80.8669444139622
+CZE,Czechia,2018,80.6881675434288
+CZE,Czechia,2017,78.7191728513432
+CZE,Czechia,2016,76.4811986951838
+CZE,Czechia,2015,75.668838699279
+CZE,Czechia,2014,74.2317116367383
+CZE,Czechia,2013,74.1104
+CZE,Czechia,2012,73.4300078241036
+CZE,Czechia,2011,70.49
+CZE,Czechia,2010,68.82
+DNK,Denmark,2025,
+DNK,Denmark,2024,99.76915157
+DNK,Denmark,2023,98.77559197
+DNK,Denmark,2022,97.86011812
+DNK,Denmark,2021,98.8658506
+DNK,Denmark,2020,96.54914573
+DNK,Denmark,2019,98.0464347521549
+DNK,Denmark,2018,97.3192043651002
+DNK,Denmark,2017,97.0993621555621
+DNK,Denmark,2016,96.9677852516645
+DNK,Denmark,2015,96.3305016195436
+DNK,Denmark,2014,95.9935053764454
+DNK,Denmark,2013,94.6297
+DNK,Denmark,2012,92.2600117153012
+DNK,Denmark,2011,89.8100133895232
+DNK,Denmark,2010,88.72
+DJI,Djibouti,2025,
+DJI,Djibouti,2024,65.29889679
+DJI,Djibouti,2023,64.75869751
+DJI,Djibouti,2022,63.77600098
+DJI,Djibouti,2021,61.41120148
+DJI,Djibouti,2020,59.92570114
+DJI,Djibouti,2019,58.4762001
+DJI,Djibouti,2018,57.06169891
+DJI,Djibouti,2017,55.6814092453962
+DJI,Djibouti,2016,30.79999924
+DJI,Djibouti,2015,22.89999962
+DJI,Djibouti,2014,17.0
+DJI,Djibouti,2013,12.69999981
+DJI,Djibouti,2012,9.399999619
+DJI,Djibouti,2011,7.0
+DJI,Djibouti,2010,6.5
+DMA,Dominica,2025,
+DMA,Dominica,2024,82.04689789
+DMA,Dominica,2023,81.33650208
+DMA,Dominica,2022,80.57980347
+DMA,Dominica,2021,78.07949829
+DMA,Dominica,2020,75.65670013
+DMA,Dominica,2019,73.38200378
+DMA,Dominica,2018,
+DMA,Dominica,2017,69.61969757
+DMA,Dominica,2016,67.02999878
+DMA,Dominica,2015,65.0
+DMA,Dominica,2014,57.5
+DMA,Dominica,2013,51.0
+DMA,Dominica,2012,49.79999924
+DMA,Dominica,2011,48.59999847
+DMA,Dominica,2010,47.45
+DOM,Dominican Republic,2025,
+DOM,Dominican Republic,2024,91.0022446
+DOM,Dominican Republic,2023,86.12689972
+DOM,Dominican Republic,2022,81.51269675
+DOM,Dominican Republic,2021,85.24298638
+DOM,Dominican Republic,2020,81.61730194
+DOM,Dominican Republic,2019,79.71549988
+DOM,Dominican Republic,2018,74.8220483597284
+DOM,Dominican Republic,2017,67.5712453277737
+DOM,Dominican Republic,2016,63.8708647408206
+DOM,Dominican Republic,2015,54.2157663369785
+DOM,Dominican Republic,2014,49.58000183
+DOM,Dominican Republic,2013,45.9
+DOM,Dominican Republic,2012,42.32
+DOM,Dominican Republic,2011,38.0
+DOM,Dominican Republic,2010,31.39999962
+ECU,Ecuador,2025,
+ECU,Ecuador,2024,77.17273115
+ECU,Ecuador,2023,72.6943146
+ECU,Ecuador,2022,69.71811356
+ECU,Ecuador,2021,69.1147995
+ECU,Ecuador,2020,70.7
+ECU,Ecuador,2019,59.2
+ECU,Ecuador,2018,57.5
+ECU,Ecuador,2017,55.79999924
+ECU,Ecuador,2016,54.0629247288864
+ECU,Ecuador,2015,48.9404337892669
+ECU,Ecuador,2014,45.5903906666095
+ECU,Ecuador,2013,40.279121941
+ECU,Ecuador,2012,35.1351464545516
+ECU,Ecuador,2011,31.3668083587433
+ECU,Ecuador,2010,29.03
+EGY,"Egypt, Arab Rep.",2025,
+EGY,"Egypt, Arab Rep.",2024,74.64839935
+EGY,"Egypt, Arab Rep.",2023,74.01190186
+EGY,"Egypt, Arab Rep.",2022,72.19806556
+EGY,"Egypt, Arab Rep.",2021,72.05599976
+EGY,"Egypt, Arab Rep.",2020,71.91420096
+EGY,"Egypt, Arab Rep.",2019,57.2828663990195
+EGY,"Egypt, Arab Rep.",2018,46.92433676792
+EGY,"Egypt, Arab Rep.",2017,44.9502042452857
+EGY,"Egypt, Arab Rep.",2016,41.2480670885772
+EGY,"Egypt, Arab Rep.",2015,37.8193834276939
+EGY,"Egypt, Arab Rep.",2014,33.8946039115275
+EGY,"Egypt, Arab Rep.",2013,29.4
+EGY,"Egypt, Arab Rep.",2012,26.4
+EGY,"Egypt, Arab Rep.",2011,25.6
+EGY,"Egypt, Arab Rep.",2010,21.6
+SLV,El Salvador,2025,
+SLV,El Salvador,2024,66.47769928
+SLV,El Salvador,2023,62.61989975
+SLV,El Salvador,2022,60.05609894
+SLV,El Salvador,2021,57.26380157
+SLV,El Salvador,2020,54.60136976
+SLV,El Salvador,2019,50.4911940673888
+SLV,El Salvador,2018,43.79999924
+SLV,El Salvador,2017,33.8207289048526
+SLV,El Salvador,2016,28.99710083
+SLV,El Salvador,2015,26.8026049600572
+SLV,El Salvador,2014,24.7617121459061
+SLV,El Salvador,2013,23.1093
+SLV,El Salvador,2012,20.3213877242007
+SLV,El Salvador,2011,18.89999962
+SLV,El Salvador,2010,15.9
+GNQ,Equatorial Guinea,2025,
+GNQ,Equatorial Guinea,2024,63.29930115
+GNQ,Equatorial Guinea,2023,63.51950073
+GNQ,Equatorial Guinea,2022,63.65950012
+GNQ,Equatorial Guinea,2021,58.71730042
+GNQ,Equatorial Guinea,2020,55.00130081
+GNQ,Equatorial Guinea,2019,49.13370132
+GNQ,Equatorial Guinea,2018,29.39999962
+GNQ,Equatorial Guinea,2017,26.23999977
+GNQ,Equatorial Guinea,2016,23.78000069
+GNQ,Equatorial Guinea,2015,21.31999969
+GNQ,Equatorial Guinea,2014,18.86000061
+GNQ,Equatorial Guinea,2013,16.39999962
+GNQ,Equatorial Guinea,2012,13.94320011
+GNQ,Equatorial Guinea,2011,11.5
+GNQ,Equatorial Guinea,2010,6.0
+ERI,Eritrea,2025,
+ERI,Eritrea,2024,
+ERI,Eritrea,2023,
+ERI,Eritrea,2022,
+ERI,Eritrea,2021,
+ERI,Eritrea,2020,14.34939957
+ERI,Eritrea,2019,11.22379971
+ERI,Eritrea,2018,5.293000221
+ERI,Eritrea,2017,2.496099949
+ERI,Eritrea,2016,1.177099943
+ERI,Eritrea,2015,1.083699942
+ERI,Eritrea,2014,0.99000001
+ERI,Eritrea,2013,0.899999976
+ERI,Eritrea,2012,0.800000012
+ERI,Eritrea,2011,0.699999988
+ERI,Eritrea,2010,0.610000014
+EST,Estonia,2025,
+EST,Estonia,2024,92.23796204
+EST,Estonia,2023,93.18342241
+EST,Estonia,2022,91.52016546
+EST,Estonia,2021,90.97970174
+EST,Estonia,2020,89.05828666
+EST,Estonia,2019,90.2289281997919
+EST,Estonia,2018,89.3570077747426
+EST,Estonia,2017,88.1024568740199
+EST,Estonia,2016,87.2402327514547
+EST,Estonia,2015,88.4097035040431
+EST,Estonia,2014,84.2415280294352
+EST,Estonia,2013,80.0043
+EST,Estonia,2012,78.3899259259259
+EST,Estonia,2011,76.5
+EST,Estonia,2010,74.1
+SWZ,Eswatini,2025,
+SWZ,Eswatini,2024,63.40309906
+SWZ,Eswatini,2023,61.33330154
+SWZ,Eswatini,2022,57.34370041
+SWZ,Eswatini,2021,53.99530029
+SWZ,Eswatini,2020,49.01300049
+SWZ,Eswatini,2019,43.93389893
+SWZ,Eswatini,2018,39.38100052
+SWZ,Eswatini,2017,35.33160019
+SWZ,Eswatini,2016,28.56999969
+SWZ,Eswatini,2015,25.64299965
+SWZ,Eswatini,2014,25.0
+SWZ,Eswatini,2013,24.70000076
+SWZ,Eswatini,2012,20.78179932
+SWZ,Eswatini,2011,18.13
+SWZ,Eswatini,2010,11.04
+ETH,Ethiopia,2025,
+ETH,Ethiopia,2024,21.94129944
+ETH,Ethiopia,2023,20.33749962
+ETH,Ethiopia,2022,17.9836998
+ETH,Ethiopia,2021,16.6981031
+ETH,Ethiopia,2020,16.06959915
+ETH,Ethiopia,2019,15.98460007
+ETH,Ethiopia,2018,15.88619995
+ETH,Ethiopia,2017,15.62440014
+ETH,Ethiopia,2016,15.3669238595896
+ETH,Ethiopia,2015,13.8551755555556
+ETH,Ethiopia,2014,7.699999809
+ETH,Ethiopia,2013,4.599999905
+ETH,Ethiopia,2012,2.900000095
+ETH,Ethiopia,2011,1.100000024
+ETH,Ethiopia,2010,0.75
+FRO,Faroe Islands,2025,
+FRO,Faroe Islands,2024,
+FRO,Faroe Islands,2023,
+FRO,Faroe Islands,2022,
+FRO,Faroe Islands,2021,
+FRO,Faroe Islands,2020,
+FRO,Faroe Islands,2019,
+FRO,Faroe Islands,2018,
+FRO,Faroe Islands,2017,97.5819589384468
+FRO,Faroe Islands,2016,95.1086816720257
+FRO,Faroe Islands,2015,94.2
+FRO,Faroe Islands,2014,93.3
+FRO,Faroe Islands,2013,90.0
+FRO,Faroe Islands,2012,85.3351892392109
+FRO,Faroe Islands,2011,80.7321728
+FRO,Faroe Islands,2010,75.2
+FJI,Fiji,2025,
+FJI,Fiji,2024,74.7052002
+FJI,Fiji,2023,74.1160965
+FJI,Fiji,2022,72.56549835
+FJI,Fiji,2021,70.56800079
+FJI,Fiji,2020,68.62560272
+FJI,Fiji,2019,63.21789932
+FJI,Fiji,2018,58.2364006
+FJI,Fiji,2017,53.6473999
+FJI,Fiji,2016,49.41999817
+FJI,Fiji,2015,42.5
+FJI,Fiji,2014,37.40000153
+FJI,Fiji,2013,35.20000076
+FJI,Fiji,2012,33.74240112
+FJI,Fiji,2011,28.0
+FJI,Fiji,2010,20.0
+FIN,Finland,2025,
+FIN,Finland,2024,93.72405196
+FIN,Finland,2023,93.51385075
+FIN,Finland,2022,92.98879471
+FIN,Finland,2021,92.80806082
+FIN,Finland,2020,92.17027106
+FIN,Finland,2019,89.6073851129779
+FIN,Finland,2018,88.8899599985585
+FIN,Finland,2017,87.4689290730615
+FIN,Finland,2016,87.7036499599455
+FIN,Finland,2015,86.4221333325445
+FIN,Finland,2014,86.5303927529377
+FIN,Finland,2013,91.5144
+FIN,Finland,2012,89.879997974222
+FIN,Finland,2011,88.70999491353
+FIN,Finland,2010,86.89
+FRA,France,2025,
+FRA,France,2024,88.65381638
+FRA,France,2023,86.83635789
+FRA,France,2022,85.33331734
+FRA,France,2021,86.09548575
+FRA,France,2020,84.70639801
+FRA,France,2019,83.3397440866883
+FRA,France,2018,82.0431867788484
+FRA,France,2017,80.5024597243607
+FRA,France,2016,79.2698113207547
+FRA,France,2015,78.0060377071902
+FRA,France,2014,83.7510996681821
+FRA,France,2013,81.9198
+FRA,France,2012,81.44
+FRA,France,2011,77.8199989926706
+FRA,France,2010,77.28
+PYF,French Polynesia,2025,
+PYF,French Polynesia,2024,
+PYF,French Polynesia,2023,
+PYF,French Polynesia,2022,
+PYF,French Polynesia,2021,
+PYF,French Polynesia,2020,
+PYF,French Polynesia,2019,
+PYF,French Polynesia,2018,
+PYF,French Polynesia,2017,72.7038953132942
+PYF,French Polynesia,2016,68.440419493378
+PYF,French Polynesia,2015,64.560209747212
+PYF,French Polynesia,2014,60.68
+PYF,French Polynesia,2013,56.8
+PYF,French Polynesia,2012,52.8766305867993
+PYF,French Polynesia,2011,49.0
+PYF,French Polynesia,2010,49.0
+GAB,Gabon,2025,
+GAB,Gabon,2024,68.72090149
+GAB,Gabon,2023,68.19789886
+GAB,Gabon,2022,67.67169952
+GAB,Gabon,2021,65.76809692
+GAB,Gabon,2020,63.91790009
+GAB,Gabon,2019,59.51760101
+GAB,Gabon,2018,55.42020035
+GAB,Gabon,2017,51.60490036
+GAB,Gabon,2016,48.0522995
+GAB,Gabon,2015,45.78450012
+GAB,Gabon,2014,38.07120132
+GAB,Gabon,2013,30.53800011
+GAB,Gabon,2012,24.0
+GAB,Gabon,2011,18.0
+GAB,Gabon,2010,13.0
+GMB,"Gambia, The",2025,
+GMB,"Gambia, The",2024,49.49430084
+GMB,"Gambia, The",2023,48.72829819
+GMB,"Gambia, The",2022,48.22539902
+GMB,"Gambia, The",2021,41.67309952
+GMB,"Gambia, The",2020,36.01100159
+GMB,"Gambia, The",2019,31.11829948
+GMB,"Gambia, The",2018,28.30900002
+GMB,"Gambia, The",2017,22.5156002
+GMB,"Gambia, The",2016,19.90640068
+GMB,"Gambia, The",2015,17.59950066
+GMB,"Gambia, The",2014,15.56000042
+GMB,"Gambia, The",2013,14.0
+GMB,"Gambia, The",2012,12.44919968
+GMB,"Gambia, The",2011,10.87030029
+GMB,"Gambia, The",2010,9.2
+GEO,Georgia,2025,
+GEO,Georgia,2024,83.79855689
+GEO,Georgia,2023,81.88425624
+GEO,Georgia,2022,78.71127536
+GEO,Georgia,2021,76.4427093
+GEO,Georgia,2020,72.53157487
+GEO,Georgia,2019,68.8467135616978
+GEO,Georgia,2018,62.7179081974285
+GEO,Georgia,2017,59.7055045962571
+GEO,Georgia,2016,58.4592896118725
+GEO,Georgia,2015,47.5697596438736
+GEO,Georgia,2014,49.1024547144647
+GEO,Georgia,2013,43.3
+GEO,Georgia,2012,36.93999863
+GEO,Georgia,2011,31.52000046
+GEO,Georgia,2010,26.9
+DEU,Germany,2025,
+DEU,Germany,2024,93.49999579
+DEU,Germany,2023,92.4763763
+DEU,Germany,2022,91.62984383
+DEU,Germany,2021,91.43060973
+DEU,Germany,2020,89.81294133
+DEU,Germany,2019,88.1345169091916
+DEU,Germany,2018,87.037112092841
+DEU,Germany,2017,84.3941537010844
+DEU,Germany,2016,84.1652066441212
+DEU,Germany,2015,87.5897993525767
+DEU,Germany,2014,86.1937006578756
+DEU,Germany,2013,84.17
+DEU,Germany,2012,82.3499984738392
+DEU,Germany,2011,81.26999953602
+DEU,Germany,2010,82.0
+GHA,Ghana,2025,
+GHA,Ghana,2024,72.17569733
+GHA,Ghana,2023,70.67430115
+GHA,Ghana,2022,69.91329956
+GHA,Ghana,2021,68.6
+GHA,Ghana,2020,62.51760101
+GHA,Ghana,2019,22.0732
+GHA,Ghana,2018,43.0
+GHA,Ghana,2017,37.88420105
+GHA,Ghana,2016,28.0
+GHA,Ghana,2015,23.0
+GHA,Ghana,2014,19.0
+GHA,Ghana,2013,15.0
+GHA,Ghana,2012,10.6
+GHA,Ghana,2011,9.0
+GHA,Ghana,2010,7.8
+GIB,Gibraltar,2025,
+GIB,Gibraltar,2024,
+GIB,Gibraltar,2023,
+GIB,Gibraltar,2022,
+GIB,Gibraltar,2021,
+GIB,Gibraltar,2020,
+GIB,Gibraltar,2019,
+GIB,Gibraltar,2018,
+GIB,Gibraltar,2017,
+GIB,Gibraltar,2016,94.4444715818151
+GIB,Gibraltar,2015,
+GIB,Gibraltar,2014,
+GIB,Gibraltar,2013,
+GIB,Gibraltar,2012,65.017
+GIB,Gibraltar,2011,65.0
+GIB,Gibraltar,2010,65.0
+GRC,Greece,2025,
+GRC,Greece,2024,86.26968886
+GRC,Greece,2023,85.0102229
+GRC,Greece,2022,83.17066333
+GRC,Greece,2021,78.49426371
+GRC,Greece,2020,78.11584474
+GRC,Greece,2019,75.6712066931757
+GRC,Greece,2018,72.2383733920483
+GRC,Greece,2017,69.8929706543154
+GRC,Greece,2016,69.0879154723892
+GRC,Greece,2015,66.8349594911035
+GRC,Greece,2014,63.2073404784561
+GRC,Greece,2013,59.8663
+GRC,Greece,2012,55.0699934418411
+GRC,Greece,2011,51.6499951676815
+GRC,Greece,2010,44.4
+GRL,Greenland,2025,
+GRL,Greenland,2024,
+GRL,Greenland,2023,
+GRL,Greenland,2022,
+GRL,Greenland,2021,
+GRL,Greenland,2020,
+GRL,Greenland,2019,
+GRL,Greenland,2018,
+GRL,Greenland,2017,69.4824617821988
+GRL,Greenland,2016,68.500873675421
+GRL,Greenland,2015,67.600443481006
+GRL,Greenland,2014,66.7
+GRL,Greenland,2013,65.8
+GRL,Greenland,2012,64.8960100995989
+GRL,Greenland,2011,64.0
+GRL,Greenland,2010,63.0
+GRD,Grenada,2025,
+GRD,Grenada,2024,70.16159821
+GRD,Grenada,2023,69.4131012
+GRD,Grenada,2022,68.42030334
+GRD,Grenada,2021,67.02279663
+GRD,Grenada,2020,65.65380096
+GRD,Grenada,2019,64.31279755
+GRD,Grenada,2018,61.42459869
+GRD,Grenada,2017,54.20000076
+GRD,Grenada,2016,53.29999924
+GRD,Grenada,2015,52.5
+GRD,Grenada,2014,51.6
+GRD,Grenada,2013,35.0
+GRD,Grenada,2012,32.0
+GRD,Grenada,2011,30.0
+GRD,Grenada,2010,27.0
+GUM,Guam,2025,
+GUM,Guam,2024,
+GUM,Guam,2023,
+GUM,Guam,2022,
+GUM,Guam,2021,
+GUM,Guam,2020,
+GUM,Guam,2019,
+GUM,Guam,2018,
+GUM,Guam,2017,80.5054655600831
+GUM,Guam,2016,77.009999893206
+GUM,Guam,2015,73.139999947043
+GUM,Guam,2014,69.27
+GUM,Guam,2013,65.4
+GUM,Guam,2012,61.5341593079002
+GUM,Guam,2011,57.7
+GUM,Guam,2010,54.04
+GTM,Guatemala,2025,
+GTM,Guatemala,2024,60.22140121
+GTM,Guatemala,2023,56.72669983
+GTM,Guatemala,2022,54.40430069
+GTM,Guatemala,2021,50.84164945
+GTM,Guatemala,2020,47.51229858
+GTM,Guatemala,2019,44.401049838502
+GTM,Guatemala,2018,41.5
+GTM,Guatemala,2017,37.90000153
+GTM,Guatemala,2016,34.50930023
+GTM,Guatemala,2015,28.80590057
+GTM,Guatemala,2014,23.39999962
+GTM,Guatemala,2013,19.70000076
+GTM,Guatemala,2012,16.0
+GTM,Guatemala,2011,12.30000019
+GTM,Guatemala,2010,10.5
+GIN,Guinea,2025,
+GIN,Guinea,2024,33.30469894
+GIN,Guinea,2023,32.31560135
+GIN,Guinea,2022,31.31399918
+GIN,Guinea,2021,28.61330032
+GIN,Guinea,2020,26.14550018
+GIN,Guinea,2019,23.89049911
+GIN,Guinea,2018,21.8300230430563
+GIN,Guinea,2017,18.70000076
+GIN,Guinea,2016,13.10000038
+GIN,Guinea,2015,9.199999809
+GIN,Guinea,2014,6.400000095
+GIN,Guinea,2013,4.5
+GIN,Guinea,2012,3.099999905
+GIN,Guinea,2011,2.0
+GIN,Guinea,2010,1.0
+GNB,Guinea-Bissau,2025,
+GNB,Guinea-Bissau,2024,29.77739906
+GNB,Guinea-Bissau,2023,28.71240044
+GNB,Guinea-Bissau,2022,27.67379951
+GNB,Guinea-Bissau,2021,23.3519001
+GNB,Guinea-Bissau,2020,20.45730019
+GNB,Guinea-Bissau,2019,17.92149925
+GNB,Guinea-Bissau,2018,15.69999981
+GNB,Guinea-Bissau,2017,14.80000019
+GNB,Guinea-Bissau,2016,13.80000019
+GNB,Guinea-Bissau,2015,6.099999905
+GNB,Guinea-Bissau,2014,3.319999933
+GNB,Guinea-Bissau,2013,3.099999905
+GNB,Guinea-Bissau,2012,2.894000053
+GNB,Guinea-Bissau,2011,2.671999931
+GNB,Guinea-Bissau,2010,2.450000048
+GUY,Guyana,2025,
+GUY,Guyana,2024,83.00080109
+GUY,Guyana,2023,79.3553009
+GUY,Guyana,2022,76.56240082
+GUY,Guyana,2021,71.65090179
+GUY,Guyana,2020,62.95399857
+GUY,Guyana,2019,55.31269836
+GUY,Guyana,2018,48.59889984
+GUY,Guyana,2017,42.6753006
+GUY,Guyana,2016,35.65999985
+GUY,Guyana,2015,34.0
+GUY,Guyana,2014,32.0
+GUY,Guyana,2013,31.0
+GUY,Guyana,2012,30.5
+GUY,Guyana,2011,30.0
+GUY,Guyana,2010,29.9
+HTI,Haiti,2025,
+HTI,Haiti,2024,47.8614006
+HTI,Haiti,2023,47.99269867
+HTI,Haiti,2022,47.77470016
+HTI,Haiti,2021,43.37919998
+HTI,Haiti,2020,39.38809967
+HTI,Haiti,2019,35.76409912
+HTI,Haiti,2018,32.4736271300557
+HTI,Haiti,2017,27.20000076
+HTI,Haiti,2016,22.79999924
+HTI,Haiti,2015,14.19999981
+HTI,Haiti,2014,11.39999962
+HTI,Haiti,2013,10.60000038
+HTI,Haiti,2012,9.800000191
+HTI,Haiti,2011,9.0
+HTI,Haiti,2010,8.369999886
+HND,Honduras,2025,
+HND,Honduras,2024,58.62269974
+HND,Honduras,2023,58.0685997
+HND,Honduras,2022,56.88069916
+HND,Honduras,2021,51.95159912
+HND,Honduras,2020,45.24829865
+HND,Honduras,2019,39.3883521850111
+HND,Honduras,2018,36.0400608231468
+HND,Honduras,2017,31.7357924661485
+HND,Honduras,2016,29.5282180796457
+HND,Honduras,2015,27.1395454833776
+HND,Honduras,2014,23.0
+HND,Honduras,2013,17.8
+HND,Honduras,2012,18.12
+HND,Honduras,2011,15.9
+HND,Honduras,2010,11.09
+HKG,"Hong Kong SAR, China",2025,
+HKG,"Hong Kong SAR, China",2024,95.75536971
+HKG,"Hong Kong SAR, China",2023,95.97781908
+HKG,"Hong Kong SAR, China",2022,95.61357052
+HKG,"Hong Kong SAR, China",2021,93.08715788
+HKG,"Hong Kong SAR, China",2020,92.41313602
+HKG,"Hong Kong SAR, China",2019,91.7434003891587
+HKG,"Hong Kong SAR, China",2018,90.5073953294283
+HKG,"Hong Kong SAR, China",2017,89.4159446487565
+HKG,"Hong Kong SAR, China",2016,87.47941467087
+HKG,"Hong Kong SAR, China",2015,84.9483529634062
+HKG,"Hong Kong SAR, China",2014,79.8662704309064
+HKG,"Hong Kong SAR, China",2013,74.2
+HKG,"Hong Kong SAR, China",2012,72.9
+HKG,"Hong Kong SAR, China",2011,72.19999695
+HKG,"Hong Kong SAR, China",2010,72.0
+HUN,Hungary,2025,
+HUN,Hungary,2024,93.77898628
+HUN,Hungary,2023,91.4500713
+HUN,Hungary,2022,89.14282688
+HUN,Hungary,2021,88.64083466
+HUN,Hungary,2020,84.77115202
+HUN,Hungary,2019,80.3716936050482
+HUN,Hungary,2018,76.0743606365063
+HUN,Hungary,2017,76.7505471201922
+HUN,Hungary,2016,79.2594121273057
+HUN,Hungary,2015,72.8347370323805
+HUN,Hungary,2014,75.6531974544103
+HUN,Hungary,2013,72.6439
+HUN,Hungary,2012,70.579998153838
+HUN,Hungary,2011,68.0199878861296
+HUN,Hungary,2010,65.0
+ISL,Iceland,2025,
+ISL,Iceland,2024,98.209198
+ISL,Iceland,2023,97.94860077
+ISL,Iceland,2022,97.58339691
+ISL,Iceland,2021,99.68701957
+ISL,Iceland,2020,99.5327519
+ISL,Iceland,2019,99.5049411693787
+ISL,Iceland,2018,99.0109539916991
+ISL,Iceland,2017,98.2552011867973
+ISL,Iceland,2016,98.23999786
+ISL,Iceland,2015,98.19999695
+ISL,Iceland,2014,98.1580233097118
+ISL,Iceland,2013,96.5468
+ISL,Iceland,2012,96.2097995545657
+ISL,Iceland,2011,94.8196868008949
+ISL,Iceland,2010,93.39
+IND,India,2025,70.0
+IND,India,2024,64.9434967
+IND,India,2023,60.25230026
+IND,India,2022,55.9
+IND,India,2021,49.2580986
+IND,India,2020,43.40544313
+IND,India,2019,29.52350044
+IND,India,2018,20.0813000379384
+IND,India,2017,18.20000076
+IND,India,2016,16.5
+IND,India,2015,14.89999962
+IND,India,2014,13.5
+IND,India,2013,12.30000019
+IND,India,2012,11.10000038
+IND,India,2011,10.07
+IND,India,2010,7.5
+IDN,Indonesia,2025,
+IDN,Indonesia,2024,72.78075544
+IDN,Indonesia,2023,69.20836554
+IDN,Indonesia,2022,66.48461277
+IDN,Indonesia,2021,62.10447842
+IDN,Indonesia,2020,53.72649449
+IDN,Indonesia,2019,47.6906489788375
+IDN,Indonesia,2018,39.9046386385762
+IDN,Indonesia,2017,32.335806250688
+IDN,Indonesia,2016,25.447353701827
+IDN,Indonesia,2015,22.062742603379
+IDN,Indonesia,2014,17.1431598350566
+IDN,Indonesia,2013,14.94
+IDN,Indonesia,2012,14.52
+IDN,Indonesia,2011,12.28
+IDN,Indonesia,2010,10.92
+IRN,"Iran, Islamic Rep.",2025,
+IRN,"Iran, Islamic Rep.",2024,85.3404007
+IRN,"Iran, Islamic Rep.",2023,83.71050262
+IRN,"Iran, Islamic Rep.",2022,81.71649933
+IRN,"Iran, Islamic Rep.",2021,78.5957366
+IRN,"Iran, Islamic Rep.",2020,75.56986637
+IRN,"Iran, Islamic Rep.",2019,72.4509047672065
+IRN,"Iran, Islamic Rep.",2018,70.2005650008363
+IRN,"Iran, Islamic Rep.",2017,64.0439736249513
+IRN,"Iran, Islamic Rep.",2016,53.2267716709857
+IRN,"Iran, Islamic Rep.",2015,45.3349761533285
+IRN,"Iran, Islamic Rep.",2014,39.353614505223
+IRN,"Iran, Islamic Rep.",2013,29.95
+IRN,"Iran, Islamic Rep.",2012,22.73
+IRN,"Iran, Islamic Rep.",2011,19.0
+IRN,"Iran, Islamic Rep.",2010,15.9
+IRQ,Iraq,2025,
+IRQ,Iraq,2024,81.47450256
+IRQ,Iraq,2023,81.80889893
+IRQ,Iraq,2022,78.71560926
+IRQ,Iraq,2021,65.00219727
+IRQ,Iraq,2020,53.67779922
+IRQ,Iraq,2019,44.3263465511579
+IRQ,Iraq,2018,33.92810059
+IRQ,Iraq,2017,25.96920013
+IRQ,Iraq,2016,19.87719917
+IRQ,Iraq,2015,15.21440029
+IRQ,Iraq,2014,11.6453267304545
+IRQ,Iraq,2013,9.199999809
+IRQ,Iraq,2012,7.099999905
+IRQ,Iraq,2011,5.0
+IRQ,Iraq,2010,2.5
+IRL,Ireland,2025,
+IRL,Ireland,2024,97.18769836
+IRL,Ireland,2023,96.8660965
+IRL,Ireland,2022,95.03690338
+IRL,Ireland,2021,93.50610352
+IRL,Ireland,2020,91.99989097
+IRL,Ireland,2019,87.0000552425146
+IRL,Ireland,2018,87.0001401148942
+IRL,Ireland,2017,84.1140070623844
+IRL,Ireland,2016,83.5
+IRL,Ireland,2015,83.4947916666667
+IRL,Ireland,2014,83.4917223351728
+IRL,Ireland,2013,78.2477
+IRL,Ireland,2012,76.919992540097
+IRL,Ireland,2011,74.8899729670944
+IRL,Ireland,2010,69.85
+IMN,Isle of Man,2025,
+IMN,Isle of Man,2024,
+IMN,Isle of Man,2023,
+IMN,Isle of Man,2022,
+IMN,Isle of Man,2021,
+IMN,Isle of Man,2020,
+IMN,Isle of Man,2019,
+IMN,Isle of Man,2018,
+IMN,Isle of Man,2017,
+IMN,Isle of Man,2016,
+IMN,Isle of Man,2015,
+IMN,Isle of Man,2014,
+IMN,Isle of Man,2013,
+IMN,Isle of Man,2012,
+IMN,Isle of Man,2011,
+IMN,Isle of Man,2010,
+ISR,Israel,2025,
+ISR,Israel,2024,88.18242225
+ISR,Israel,2023,87.03842615
+ISR,Israel,2022,91.85079615
+ISR,Israel,2021,90.29689758
+ISR,Israel,2020,90.12734091
+ISR,Israel,2019,86.7878776180583
+ISR,Israel,2018,83.7331569615326
+ISR,Israel,2017,81.5811835871611
+ISR,Israel,2016,79.6531241815281
+ISR,Israel,2015,77.3520896572253
+ISR,Israel,2014,75.0177531628076
+ISR,Israel,2013,70.250311945
+ISR,Israel,2012,70.8
+ISR,Israel,2011,68.8738779907441
+ISR,Israel,2010,67.5
+ITA,Italy,2025,
+ITA,Italy,2024,89.2207202
+ITA,Italy,2023,87.0278292
+ITA,Italy,2022,85.06074504
+ITA,Italy,2021,74.8623274
+ITA,Italy,2020,70.48342785
+ITA,Italy,2019,67.8507102874836
+ITA,Italy,2018,74.3871829234822
+ITA,Italy,2017,63.0773469984291
+ITA,Italy,2016,61.3242527666303
+ITA,Italy,2015,58.1417349568747
+ITA,Italy,2014,55.6384602242293
+ITA,Italy,2013,58.4593
+ITA,Italy,2012,55.829997993283
+ITA,Italy,2011,54.3899983018814
+ITA,Italy,2010,53.68
+JAM,Jamaica,2025,
+JAM,Jamaica,2024,90.10870361
+JAM,Jamaica,2023,89.47304282
+JAM,Jamaica,2022,85.84329987
+JAM,Jamaica,2021,82.36071561
+JAM,Jamaica,2020,76.38400269
+JAM,Jamaica,2019,70.8410169743356
+JAM,Jamaica,2018,68.2145170876072
+JAM,Jamaica,2017,55.0720670507751
+JAM,Jamaica,2016,44.3668563671334
+JAM,Jamaica,2015,42.2212211907441
+JAM,Jamaica,2014,40.4027351046672
+JAM,Jamaica,2013,37.1
+JAM,Jamaica,2012,33.79
+JAM,Jamaica,2011,37.438613414848
+JAM,Jamaica,2010,27.67
+JPN,Japan,2025,
+JPN,Japan,2024,85.54153081
+JPN,Japan,2023,85.00990295
+JPN,Japan,2022,84.92343147
+JPN,Japan,2021,82.91407928
+JPN,Japan,2020,90.21945812
+JPN,Japan,2019,92.7303978145525
+JPN,Japan,2018,88.7463508901772
+JPN,Japan,2017,91.7265472366635
+JPN,Japan,2016,93.1827212821617
+JPN,Japan,2015,91.0580283929962
+JPN,Japan,2014,89.1068330166075
+JPN,Japan,2013,88.219428911
+JPN,Japan,2012,79.4964
+JPN,Japan,2011,79.0541135244739
+JPN,Japan,2010,78.21
+JOR,Jordan,2025,
+JOR,Jordan,2024,95.62244985
+JOR,Jordan,2023,92.53443944
+JOR,Jordan,2022,90.4999984
+JOR,Jordan,2021,85.999997
+JOR,Jordan,2020,78.4178009
+JOR,Jordan,2019,70.08470154
+JOR,Jordan,2018,65.2
+JOR,Jordan,2017,64.5
+JOR,Jordan,2016,56.15000153
+JOR,Jordan,2015,54.22000122
+JOR,Jordan,2014,46.2
+JOR,Jordan,2013,41.4
+JOR,Jordan,2012,37.0
+JOR,Jordan,2011,34.9
+JOR,Jordan,2010,27.2
+KAZ,Kazakhstan,2025,
+KAZ,Kazakhstan,2024,93.39167254
+KAZ,Kazakhstan,2023,92.87846096
+KAZ,Kazakhstan,2022,92.29685266
+KAZ,Kazakhstan,2021,90.9239507
+KAZ,Kazakhstan,2020,85.94259898
+KAZ,Kazakhstan,2019,81.8776204746284
+KAZ,Kazakhstan,2018,78.9039190578816
+KAZ,Kazakhstan,2017,76.4267482325439
+KAZ,Kazakhstan,2016,74.5877264735738
+KAZ,Kazakhstan,2015,70.82993359566
+KAZ,Kazakhstan,2014,66.0
+KAZ,Kazakhstan,2013,63.30422443
+KAZ,Kazakhstan,2012,61.9066274652008
+KAZ,Kazakhstan,2011,50.6
+KAZ,Kazakhstan,2010,31.6
+KEN,Kenya,2025,
+KEN,Kenya,2024,34.97622513
+KEN,Kenya,2023,32.07040024
+KEN,Kenya,2022,29.40589905
+KEN,Kenya,2021,26.96290016
+KEN,Kenya,2020,24.7227993
+KEN,Kenya,2019,22.6687733618171
+KEN,Kenya,2018,19.5
+KEN,Kenya,2017,17.82710075
+KEN,Kenya,2016,16.6
+KEN,Kenya,2015,16.5878548475992
+KEN,Kenya,2014,16.5
+KEN,Kenya,2013,13.0
+KEN,Kenya,2012,10.5
+KEN,Kenya,2011,8.800000191
+KEN,Kenya,2010,7.2
+KIR,Kiribati,2025,
+KIR,Kiribati,2024,89.44029999
+KIR,Kiribati,2023,88.0
+KIR,Kiribati,2022,84.99849701
+KIR,Kiribati,2021,67.08760071
+KIR,Kiribati,2020,52.95090103
+KIR,Kiribati,2019,41.79299927
+KIR,Kiribati,2018,32.9864006
+KIR,Kiribati,2017,25.30960083
+KIR,Kiribati,2016,19.41939926
+KIR,Kiribati,2015,14.89999962
+KIR,Kiribati,2014,12.25
+KIR,Kiribati,2013,11.5
+KIR,Kiribati,2012,10.74680042
+KIR,Kiribati,2011,10.0
+KIR,Kiribati,2010,9.07
+PRK,"Korea, Dem. People's Rep.",2025,
+PRK,"Korea, Dem. People's Rep.",2024,
+PRK,"Korea, Dem. People's Rep.",2023,
+PRK,"Korea, Dem. People's Rep.",2022,
+PRK,"Korea, Dem. People's Rep.",2021,
+PRK,"Korea, Dem. People's Rep.",2020,
+PRK,"Korea, Dem. People's Rep.",2019,
+PRK,"Korea, Dem. People's Rep.",2018,
+PRK,"Korea, Dem. People's Rep.",2017,
+PRK,"Korea, Dem. People's Rep.",2016,
+PRK,"Korea, Dem. People's Rep.",2015,
+PRK,"Korea, Dem. People's Rep.",2014,
+PRK,"Korea, Dem. People's Rep.",2013,
+PRK,"Korea, Dem. People's Rep.",2012,
+PRK,"Korea, Dem. People's Rep.",2011,
+PRK,"Korea, Dem. People's Rep.",2010,
+KOR,"Korea, Rep.",2025,
+KOR,"Korea, Rep.",2024,97.89563777
+KOR,"Korea, Rep.",2023,97.41597478
+KOR,"Korea, Rep.",2022,97.16855335
+KOR,"Korea, Rep.",2021,97.57132698
+KOR,"Korea, Rep.",2020,96.50506052
+KOR,"Korea, Rep.",2019,96.157579184239
+KOR,"Korea, Rep.",2018,96.0228595797887
+KOR,"Korea, Rep.",2017,95.0694218761004
+KOR,"Korea, Rep.",2016,92.8430256796075
+KOR,"Korea, Rep.",2015,89.8962557995106
+KOR,"Korea, Rep.",2014,87.5568264944747
+KOR,"Korea, Rep.",2013,84.77
+KOR,"Korea, Rep.",2012,84.07
+KOR,"Korea, Rep.",2011,83.7591201534472
+KOR,"Korea, Rep.",2010,83.7
+XKX,Kosovo,2025,
+XKX,Kosovo,2024,
+XKX,Kosovo,2023,
+XKX,Kosovo,2022,
+XKX,Kosovo,2021,
+XKX,Kosovo,2020,
+XKX,Kosovo,2019,
+XKX,Kosovo,2018,89.4430319734879
+XKX,Kosovo,2017,83.8935968102791
+XKX,Kosovo,2016,
+XKX,Kosovo,2015,
+XKX,Kosovo,2014,
+XKX,Kosovo,2013,
+XKX,Kosovo,2012,
+XKX,Kosovo,2011,
+XKX,Kosovo,2010,
+KWT,Kuwait,2025,100.0
+KWT,Kuwait,2024,99.74729919
+KWT,Kuwait,2023,99.74731125
+KWT,Kuwait,2022,99.74729919
+KWT,Kuwait,2021,99.7
+KWT,Kuwait,2020,99.10587017
+KWT,Kuwait,2019,99.5426764518489
+KWT,Kuwait,2018,99.5988495907557
+KWT,Kuwait,2017,97.9999893344615
+KWT,Kuwait,2016,85.59999847
+KWT,Kuwait,2015,82.0
+KWT,Kuwait,2014,78.69999695
+KWT,Kuwait,2013,75.45999908
+KWT,Kuwait,2012,70.44999695
+KWT,Kuwait,2011,65.7690706867398
+KWT,Kuwait,2010,61.40000153
+KGZ,Kyrgyz Republic,2025,
+KGZ,Kyrgyz Republic,2024,92.0286026
+KGZ,Kyrgyz Republic,2023,91.04440308
+KGZ,Kyrgyz Republic,2022,84.1937027
+KGZ,Kyrgyz Republic,2021,77.11769867
+KGZ,Kyrgyz Republic,2020,72.0
+KGZ,Kyrgyz Republic,2019,64.1
+KGZ,Kyrgyz Republic,2018,62.8
+KGZ,Kyrgyz Republic,2017,50.80530167
+KGZ,Kyrgyz Republic,2016,40.52619934
+KGZ,Kyrgyz Republic,2015,30.24699974
+KGZ,Kyrgyz Republic,2014,28.29999924
+KGZ,Kyrgyz Republic,2013,23.0
+KGZ,Kyrgyz Republic,2012,19.79999924
+KGZ,Kyrgyz Republic,2011,17.5
+KGZ,Kyrgyz Republic,2010,16.29999924
+LAO,Lao PDR,2025,
+LAO,Lao PDR,2024,65.59269714
+LAO,Lao PDR,2023,64.39800262
+LAO,Lao PDR,2022,64.54000092
+LAO,Lao PDR,2021,62.0
+LAO,Lao PDR,2020,54.0
+LAO,Lao PDR,2019,47.03229904
+LAO,Lao PDR,2018,36.27130127
+LAO,Lao PDR,2017,25.51040077
+LAO,Lao PDR,2016,21.87000084
+LAO,Lao PDR,2015,18.20000076
+LAO,Lao PDR,2014,14.26000023
+LAO,Lao PDR,2013,12.5
+LAO,Lao PDR,2012,10.74769974
+LAO,Lao PDR,2011,9.0
+LAO,Lao PDR,2010,7.0
+LVA,Latvia,2025,
+LVA,Latvia,2024,92.70757011
+LVA,Latvia,2023,92.18791291
+LVA,Latvia,2022,91.03009059
+LVA,Latvia,2021,91.17964988
+LVA,Latvia,2020,88.89796078
+LVA,Latvia,2019,86.13545644343
+LVA,Latvia,2018,83.5771748630956
+LVA,Latvia,2017,80.1140770037369
+LVA,Latvia,2016,79.8420977843089
+LVA,Latvia,2015,79.2005829239344
+LVA,Latvia,2014,75.8261041383556
+LVA,Latvia,2013,75.2344
+LVA,Latvia,2012,73.1199437663748
+LVA,Latvia,2011,69.7499545592245
+LVA,Latvia,2010,68.42
+LBN,Lebanon,2025,
+LBN,Lebanon,2024,80.63400269
+LBN,Lebanon,2023,81.7059021
+LBN,Lebanon,2022,81.46479797
+LBN,Lebanon,2021,82.65599823
+LBN,Lebanon,2020,82.0664978
+LBN,Lebanon,2019,81.48120117
+LBN,Lebanon,2018,80.90000153
+LBN,Lebanon,2017,78.18080139
+LBN,Lebanon,2016,76.11000061
+LBN,Lebanon,2015,74.0
+LBN,Lebanon,2014,73.0
+LBN,Lebanon,2013,70.5
+LBN,Lebanon,2012,61.24980164
+LBN,Lebanon,2011,52.0
+LBN,Lebanon,2010,43.68000031
+LSO,Lesotho,2025,
+LSO,Lesotho,2024,51.79660034
+LSO,Lesotho,2023,48.98590088
+LSO,Lesotho,2022,48.06959915
+LSO,Lesotho,2021,45.05670166
+LSO,Lesotho,2020,43.65750122
+LSO,Lesotho,2019,42.301733569273
+LSO,Lesotho,2018,40.79999924
+LSO,Lesotho,2017,39.0
+LSO,Lesotho,2016,32.4538569477365
+LSO,Lesotho,2015,25.0
+LSO,Lesotho,2014,22.0
+LSO,Lesotho,2013,15.0
+LSO,Lesotho,2012,10.0
+LSO,Lesotho,2011,7.0
+LSO,Lesotho,2010,3.859999895
+LBR,Liberia,2025,
+LBR,Liberia,2024,32.23360062
+LBR,Liberia,2023,31.22410011
+LBR,Liberia,2022,30.38010025
+LBR,Liberia,2021,26.38229942
+LBR,Liberia,2020,22.91069984
+LBR,Liberia,2019,19.89579964
+LBR,Liberia,2018,17.27770042
+LBR,Liberia,2017,16.29999924
+LBR,Liberia,2016,15.69999981
+LBR,Liberia,2015,10.0
+LBR,Liberia,2014,5.409999847
+LBR,Liberia,2013,3.200000048
+LBR,Liberia,2012,2.599999905
+LBR,Liberia,2011,2.5
+LBR,Liberia,2010,2.3
+LBY,Libya,2025,
+LBY,Libya,2024,81.95449829
+LBY,Libya,2023,82.10469818
+LBY,Libya,2022,80.64720154
+LBY,Libya,2021,77.438797
+LBY,Libya,2020,74.35810089
+LBY,Libya,2019,71.40409851
+LBY,Libya,2018,47.5
+LBY,Libya,2017,47.5
+LBY,Libya,2016,35.0
+LBY,Libya,2015,25.0
+LBY,Libya,2014,17.76000023
+LBY,Libya,2013,16.5
+LBY,Libya,2012,15.19999981
+LBY,Libya,2011,14.0
+LBY,Libya,2010,14.0
+LIE,Liechtenstein,2025,
+LIE,Liechtenstein,2024,98.2641983
+LIE,Liechtenstein,2023,98.13230133
+LIE,Liechtenstein,2022,97.88069916
+LIE,Liechtenstein,2021,95.56939697
+LIE,Liechtenstein,2020,94.34999847
+LIE,Liechtenstein,2019,93.14610291
+LIE,Liechtenstein,2018,
+LIE,Liechtenstein,2017,99.54660034
+LIE,Liechtenstein,2016,98.09390259
+LIE,Liechtenstein,2015,96.6411972
+LIE,Liechtenstein,2014,95.20999908
+LIE,Liechtenstein,2013,93.80000305
+LIE,Liechtenstein,2012,89.40769958
+LIE,Liechtenstein,2011,85.0
+LIE,Liechtenstein,2010,80.0
+LTU,Lithuania,2025,
+LTU,Lithuania,2024,89.16116293
+LTU,Lithuania,2023,88.50287484
+LTU,Lithuania,2022,87.72420219
+LTU,Lithuania,2021,86.93054425
+LTU,Lithuania,2020,83.05554724
+LTU,Lithuania,2019,81.5818683764046
+LTU,Lithuania,2018,79.7225827680518
+LTU,Lithuania,2017,77.6152565124514
+LTU,Lithuania,2016,74.3766455618662
+LTU,Lithuania,2015,71.3780590101754
+LTU,Lithuania,2014,72.1335378644566
+LTU,Lithuania,2013,68.4529
+LTU,Lithuania,2012,67.2299893276414
+LTU,Lithuania,2011,63.6399774002179
+LTU,Lithuania,2010,62.12
+LUX,Luxembourg,2025,99.12902211
+LUX,Luxembourg,2024,98.7606147
+LUX,Luxembourg,2023,99.34785707
+LUX,Luxembourg,2022,98.24203749
+LUX,Luxembourg,2021,98.66086333
+LUX,Luxembourg,2020,98.45962893
+LUX,Luxembourg,2019,97.120635693272
+LUX,Luxembourg,2018,97.061298705829
+LUX,Luxembourg,2017,97.3629603241751
+LUX,Luxembourg,2016,98.1366986657616
+LUX,Luxembourg,2015,96.3767141704759
+LUX,Luxembourg,2014,94.6702052774766
+LUX,Luxembourg,2013,93.7765
+LUX,Luxembourg,2012,91.9499237417387
+LUX,Luxembourg,2011,90.0298585646936
+LUX,Luxembourg,2010,90.62
+MAC,"Macao SAR, China",2025,
+MAC,"Macao SAR, China",2024,89.82640076
+MAC,"Macao SAR, China",2023,89.82640076
+MAC,"Macao SAR, China",2022,89.48549652
+MAC,"Macao SAR, China",2021,88.46810492
+MAC,"Macao SAR, China",2020,87.46230316
+MAC,"Macao SAR, China",2019,86.4679257062588
+MAC,"Macao SAR, China",2018,83.7940896091516
+MAC,"Macao SAR, China",2017,83.1740890688259
+MAC,"Macao SAR, China",2016,81.6429854646415
+MAC,"Macao SAR, China",2015,77.6001318608868
+MAC,"Macao SAR, China",2014,69.7809492200465
+MAC,"Macao SAR, China",2013,65.8
+MAC,"Macao SAR, China",2012,61.31
+MAC,"Macao SAR, China",2011,60.2036967182195
+MAC,"Macao SAR, China",2010,55.198
+MDG,Madagascar,2025,
+MDG,Madagascar,2024,18.67790031
+MDG,Madagascar,2023,18.24080086
+MDG,Madagascar,2022,17.81170082
+MDG,Madagascar,2021,13.74590015
+MDG,Madagascar,2020,11.35470009
+MDG,Madagascar,2019,9.379400253
+MDG,Madagascar,2018,7.747799873
+MDG,Madagascar,2017,6.406000137
+MDG,Madagascar,2016,4.713699818
+MDG,Madagascar,2015,4.173999786
+MDG,Madagascar,2014,3.700000048
+MDG,Madagascar,2013,3.0
+MDG,Madagascar,2012,2.299999952
+MDG,Madagascar,2011,1.899999976
+MDG,Madagascar,2010,1.700000048
+MWI,Malawi,2025,
+MWI,Malawi,2024,18.96159935
+MWI,Malawi,2023,17.98810346
+MWI,Malawi,2022,16.84830093
+MWI,Malawi,2021,15.30300045
+MWI,Malawi,2020,13.89949989
+MWI,Malawi,2019,11.05860043
+MWI,Malawi,2018,8.798299789
+MWI,Malawi,2017,7.0
+MWI,Malawi,2016,6.300000191
+MWI,Malawi,2015,6.0
+MWI,Malawi,2014,5.829999924
+MWI,Malawi,2013,5.050000191
+MWI,Malawi,2012,4.350599766
+MWI,Malawi,2011,3.33
+MWI,Malawi,2010,2.26
+MYS,Malaysia,2025,
+MYS,Malaysia,2024,98.0206059
+MYS,Malaysia,2023,97.69272633
+MYS,Malaysia,2022,97.3986404
+MYS,Malaysia,2021,96.7514278
+MYS,Malaysia,2020,89.55501192
+MYS,Malaysia,2019,84.1871450078281
+MYS,Malaysia,2018,81.2010486181174
+MYS,Malaysia,2017,80.1404790103961
+MYS,Malaysia,2016,78.7883099275229
+MYS,Malaysia,2015,71.0640678111957
+MYS,Malaysia,2014,63.6654258813225
+MYS,Malaysia,2013,57.05751226
+MYS,Malaysia,2012,65.8
+MYS,Malaysia,2011,61.0
+MYS,Malaysia,2010,56.3
+MDV,Maldives,2025,
+MDV,Maldives,2024,85.23999786
+MDV,Maldives,2023,84.55290222
+MDV,Maldives,2022,83.91189054
+MDV,Maldives,2021,81.95760345
+MDV,Maldives,2020,79.09780121
+MDV,Maldives,2019,77.46970367
+MDV,Maldives,2018,70.93689728
+MDV,Maldives,2017,64.95500183
+MDV,Maldives,2016,59.47750092
+MDV,Maldives,2015,54.4620018
+MDV,Maldives,2014,49.27999878
+MDV,Maldives,2013,44.09999847
+MDV,Maldives,2012,38.93009949
+MDV,Maldives,2011,34.0
+MDV,Maldives,2010,26.53
+MLI,Mali,2025,
+MLI,Mali,2024,36.80149841
+MLI,Mali,2023,36.03879929
+MLI,Mali,2022,35.19919968
+MLI,Mali,2021,33.95650101
+MLI,Mali,2020,29.11300087
+MLI,Mali,2019,24.96030045
+MLI,Mali,2018,21.39999962
+MLI,Mali,2017,18.89999962
+MLI,Mali,2016,14.0
+MLI,Mali,2015,10.32999992
+MLI,Mali,2014,7.0
+MLI,Mali,2013,3.5
+MLI,Mali,2012,2.799999952
+MLI,Mali,2011,2.2
+MLI,Mali,2010,2.0
+MLT,Malta,2025,
+MLT,Malta,2024,93.86029816
+MLT,Malta,2023,92.07266941
+MLT,Malta,2022,91.54062209
+MLT,Malta,2021,87.46977742
+MLT,Malta,2020,86.85876183
+MLT,Malta,2019,85.7785963798031
+MLT,Malta,2018,81.6580442928014
+MLT,Malta,2017,81.0119110762945
+MLT,Malta,2016,78.0751488032182
+MLT,Malta,2015,75.9600189752747
+MLT,Malta,2014,73.1141157845193
+MLT,Malta,2013,68.9138
+MLT,Malta,2012,68.1998742928975
+MLT,Malta,2011,68.0198237885462
+MLT,Malta,2010,63.0
+MHL,Marshall Islands,2025,
+MHL,Marshall Islands,2024,65.915802
+MHL,Marshall Islands,2023,64.07589722
+MHL,Marshall Islands,2022,64.26719666
+MHL,Marshall Islands,2021,63.97259903
+MHL,Marshall Islands,2020,56.41910172
+MHL,Marshall Islands,2019,49.75749969
+MHL,Marshall Islands,2018,43.88249969
+MHL,Marshall Islands,2017,38.70119858
+MHL,Marshall Islands,2016,29.78779984
+MHL,Marshall Islands,2015,19.28240013
+MHL,Marshall Islands,2014,16.79999924
+MHL,Marshall Islands,2013,14.0
+MHL,Marshall Islands,2012,12.5
+MHL,Marshall Islands,2011,10.0
+MHL,Marshall Islands,2010,7.0
+MRT,Mauritania,2025,
+MRT,Mauritania,2024,45.77939987
+MRT,Mauritania,2023,44.95629883
+MRT,Mauritania,2022,42.46450043
+MRT,Mauritania,2021,35.63660049
+MRT,Mauritania,2020,29.90649986
+MRT,Mauritania,2019,25.0977993
+MRT,Mauritania,2018,22.96699905
+MRT,Mauritania,2017,21.01720047
+MRT,Mauritania,2016,19.23279953
+MRT,Mauritania,2015,17.60000038
+MRT,Mauritania,2014,11.80000019
+MRT,Mauritania,2013,6.199999809
+MRT,Mauritania,2012,5.0
+MRT,Mauritania,2011,4.5
+MRT,Mauritania,2010,4.0
+MUS,Mauritius,2025,
+MUS,Mauritius,2024,73.30793533
+MUS,Mauritius,2023,79.5
+MUS,Mauritius,2022,75.5
+MUS,Mauritius,2021,71.59999847
+MUS,Mauritius,2020,67.73290684
+MUS,Mauritius,2019,61.7299551453346
+MUS,Mauritius,2018,58.596169704299
+MUS,Mauritius,2017,55.4032403002657
+MUS,Mauritius,2016,52.19129944
+MUS,Mauritius,2015,50.1393184766711
+MUS,Mauritius,2014,44.8032753683379
+MUS,Mauritius,2013,40.116825135
+MUS,Mauritius,2012,35.42
+MUS,Mauritius,2011,34.95000076
+MUS,Mauritius,2010,28.33
+MEX,Mexico,2025,
+MEX,Mexico,2024,83.12233799
+MEX,Mexico,2023,81.18318755
+MEX,Mexico,2022,78.63217894
+MEX,Mexico,2021,75.62650476
+MEX,Mexico,2020,71.49017499
+MEX,Mexico,2019,69.6321092705209
+MEX,Mexico,2018,56.6595667981289
+MEX,Mexico,2017,53.0317886110982
+MEX,Mexico,2016,59.5404459967255
+MEX,Mexico,2015,57.4310429923633
+MEX,Mexico,2014,44.3856962723411
+MEX,Mexico,2013,43.46
+MEX,Mexico,2012,39.75
+MEX,Mexico,2011,37.1762954125184
+MEX,Mexico,2010,31.05
+FSM,"Micronesia, Fed. Sts.",2025,
+FSM,"Micronesia, Fed. Sts.",2024,39.52360153
+FSM,"Micronesia, Fed. Sts.",2023,39.39889908
+FSM,"Micronesia, Fed. Sts.",2022,39.0279007
+FSM,"Micronesia, Fed. Sts.",2021,
+FSM,"Micronesia, Fed. Sts.",2020,39.38330078
+FSM,"Micronesia, Fed. Sts.",2019,37.97370148
+FSM,"Micronesia, Fed. Sts.",2018,36.61460114
+FSM,"Micronesia, Fed. Sts.",2017,35.30410004
+FSM,"Micronesia, Fed. Sts.",2016,33.35219955
+FSM,"Micronesia, Fed. Sts.",2015,31.50110054
+FSM,"Micronesia, Fed. Sts.",2014,29.64999962
+FSM,"Micronesia, Fed. Sts.",2013,27.79999924
+FSM,"Micronesia, Fed. Sts.",2012,25.97439957
+FSM,"Micronesia, Fed. Sts.",2011,22.79999924
+FSM,"Micronesia, Fed. Sts.",2010,20.0
+MDA,Moldova,2025,
+MDA,Moldova,2024,77.3687973
+MDA,Moldova,2023,76.50330353
+MDA,Moldova,2022,74.91899872
+MDA,Moldova,2021,74.91899872
+MDA,Moldova,2020,74.11830139
+MDA,Moldova,2019,73.32610321
+MDA,Moldova,2018,72.54239655
+MDA,Moldova,2017,71.76709747
+MDA,Moldova,2016,70.9999991066624
+MDA,Moldova,2015,69.0000044661932
+MDA,Moldova,2014,66.9999982002077
+MDA,Moldova,2013,37.43999863
+MDA,Moldova,2012,34.65000153
+MDA,Moldova,2011,32.06999969
+MDA,Moldova,2010,29.68000031
+MCO,Monaco,2025,
+MCO,Monaco,2024,99.04489899
+MCO,Monaco,2023,98.87049866
+MCO,Monaco,2022,98.75189972
+MCO,Monaco,2021,99.07759857
+MCO,Monaco,2020,98.57080078
+MCO,Monaco,2019,98.0
+MCO,Monaco,2018,
+MCO,Monaco,2017,97.0530014
+MCO,Monaco,2016,95.20819855
+MCO,Monaco,2015,93.36329651
+MCO,Monaco,2014,92.40000153
+MCO,Monaco,2013,90.69999695
+MCO,Monaco,2012,87.0
+MCO,Monaco,2011,80.30000305
+MCO,Monaco,2010,75.0
+MNG,Mongolia,2025,
+MNG,Mongolia,2024,85.12349701
+MNG,Mongolia,2023,83.74320221
+MNG,Mongolia,2022,81.07720184
+MNG,Mongolia,2021,81.60682285
+MNG,Mongolia,2020,62.50002848
+MNG,Mongolia,2019,51.079994082603
+MNG,Mongolia,2018,47.1300018848989
+MNG,Mongolia,2017,23.71430016
+MNG,Mongolia,2016,22.2657705007562
+MNG,Mongolia,2015,22.5000041337688
+MNG,Mongolia,2014,19.9424474349209
+MNG,Mongolia,2013,17.699984237
+MNG,Mongolia,2012,16.4
+MNG,Mongolia,2011,12.4999911084745
+MNG,Mongolia,2010,10.2
+MNE,Montenegro,2025,
+MNE,Montenegro,2024,88.88258428
+MNE,Montenegro,2023,88.5515976
+MNE,Montenegro,2022,88.22192026
+MNE,Montenegro,2021,82.21969752
+MNE,Montenegro,2020,77.60879306
+MNE,Montenegro,2019,73.4766657478691
+MNE,Montenegro,2018,71.5171004874886
+MNE,Montenegro,2017,71.2723325399382
+MNE,Montenegro,2016,69.8816468416779
+MNE,Montenegro,2015,68.1197860085679
+MNE,Montenegro,2014,63.8868840056697
+MNE,Montenegro,2013,60.31
+MNE,Montenegro,2012,56.8387825490631
+MNE,Montenegro,2011,35.6115412460109
+MNE,Montenegro,2010,37.5
+MAR,Morocco,2025,
+MAR,Morocco,2024,91.2
+MAR,Morocco,2023,91.0
+MAR,Morocco,2022,89.9
+MAR,Morocco,2021,88.13031937
+MAR,Morocco,2020,84.12036305
+MAR,Morocco,2019,84.1203630467602
+MAR,Morocco,2018,64.8038651924043
+MAR,Morocco,2017,61.7622120123071
+MAR,Morocco,2016,58.271236420398
+MAR,Morocco,2015,57.0799993486116
+MAR,Morocco,2014,56.7746379160074
+MAR,Morocco,2013,56.0
+MAR,Morocco,2012,55.4160531914894
+MAR,Morocco,2011,46.107482597
+MAR,Morocco,2010,52.0
+MOZ,Mozambique,2025,
+MOZ,Mozambique,2024,20.52729988
+MOZ,Mozambique,2023,19.94560051
+MOZ,Mozambique,2022,18.96220016
+MOZ,Mozambique,2021,16.35759926
+MOZ,Mozambique,2020,14.28740025
+MOZ,Mozambique,2019,12.47929955
+MOZ,Mozambique,2018,10.89999962
+MOZ,Mozambique,2017,7.7963266079129
+MOZ,Mozambique,2016,7.0
+MOZ,Mozambique,2015,6.5
+MOZ,Mozambique,2014,6.0
+MOZ,Mozambique,2013,5.5
+MOZ,Mozambique,2012,5.0
+MOZ,Mozambique,2011,4.599999905
+MOZ,Mozambique,2010,4.17
+MMR,Myanmar,2025,
+MMR,Myanmar,2024,
+MMR,Myanmar,2023,
+MMR,Myanmar,2022,
+MMR,Myanmar,2021,
+MMR,Myanmar,2020,45.4477005
+MMR,Myanmar,2019,36.54050064
+MMR,Myanmar,2018,29.37899971
+MMR,Myanmar,2017,23.621081950267
+MMR,Myanmar,2016,16.0
+MMR,Myanmar,2015,10.89999962
+MMR,Myanmar,2014,7.400000095
+MMR,Myanmar,2013,1.799999952
+MMR,Myanmar,2012,1.399999976
+MMR,Myanmar,2011,0.98
+MMR,Myanmar,2010,0.25
+NAM,Namibia,2025,
+NAM,Namibia,2024,64.87460327
+NAM,Namibia,2023,63.69549942
+NAM,Namibia,2022,62.99720001
+NAM,Namibia,2021,60.25999832
+NAM,Namibia,2020,57.8608017
+NAM,Namibia,2019,49.77590179
+NAM,Namibia,2018,42.8207016
+NAM,Namibia,2017,36.83739853
+NAM,Namibia,2016,31.0333004
+NAM,Namibia,2015,25.68790054
+NAM,Namibia,2014,14.84000015
+NAM,Namibia,2013,13.89999962
+NAM,Namibia,2012,12.94139957
+NAM,Namibia,2011,12.0
+NAM,Namibia,2010,11.6
+NRU,Naoero,2025,
+NRU,Naoero,2024,83.01170349
+NRU,Naoero,2023,83.03970337
+NRU,Naoero,2022,83.22660065
+NRU,Naoero,2021,80.29499817
+NRU,Naoero,2020,77.46659851
+NRU,Naoero,2019,74.73789978
+NRU,Naoero,2018,
+NRU,Naoero,2017,62.38510132
+NRU,Naoero,2016,
+NRU,Naoero,2015,
+NRU,Naoero,2014,
+NRU,Naoero,2013,
+NRU,Naoero,2012,
+NRU,Naoero,2011,54.0
+NRU,Naoero,2010,
+NPL,Nepal,2025,
+NPL,Nepal,2024,46.32189941
+NPL,Nepal,2023,45.80680084
+NPL,Nepal,2022,45.45080185
+NPL,Nepal,2021,40.98910141
+NPL,Nepal,2020,36.96530151
+NPL,Nepal,2019,33.33660126
+NPL,Nepal,2018,28.60000038
+NPL,Nepal,2017,24.3
+NPL,Nepal,2016,20.70000076
+NPL,Nepal,2015,17.58160019
+NPL,Nepal,2014,15.43999958
+NPL,Nepal,2013,13.30000019
+NPL,Nepal,2012,11.14929962
+NPL,Nepal,2011,9.0
+NPL,Nepal,2010,7.93
+NLD,Netherlands,2025,
+NLD,Netherlands,2024,97.00679779
+NLD,Netherlands,2023,97.00680272
+NLD,Netherlands,2022,92.51968504
+NLD,Netherlands,2021,92.05298013
+NLD,Netherlands,2020,91.33333333
+NLD,Netherlands,2019,93.2885906040269
+NLD,Netherlands,2018,91.8918918918919
+NLD,Netherlands,2017,93.1972789115646
+NLD,Netherlands,2016,90.4109589041096
+NLD,Netherlands,2015,91.7241379310345
+NLD,Netherlands,2014,91.6666666666667
+NLD,Netherlands,2013,93.9564
+NLD,Netherlands,2012,92.859992359525
+NLD,Netherlands,2011,91.4199957622284
+NLD,Netherlands,2010,90.72
+NCL,New Caledonia,2025,
+NCL,New Caledonia,2024,
+NCL,New Caledonia,2023,
+NCL,New Caledonia,2022,
+NCL,New Caledonia,2021,
+NCL,New Caledonia,2020,
+NCL,New Caledonia,2019,
+NCL,New Caledonia,2018,
+NCL,New Caledonia,2017,82.0058408035186
+NCL,New Caledonia,2016,
+NCL,New Caledonia,2015,74.00175279141
+NCL,New Caledonia,2014,70.0
+NCL,New Caledonia,2013,66.0
+NCL,New Caledonia,2012,58.0
+NCL,New Caledonia,2011,50.0
+NCL,New Caledonia,2010,42.0
+NZL,New Zealand,2025,
+NZL,New Zealand,2024,93.51930237
+NZL,New Zealand,2023,93.32610321
+NZL,New Zealand,2022,93.07289886
+NZL,New Zealand,2021,91.99060059
+NZL,New Zealand,2020,90.92099762
+NZL,New Zealand,2019,89.86370087
+NZL,New Zealand,2018,89.0
+NZL,New Zealand,2017,87.69999695
+NZL,New Zealand,2016,86.5
+NZL,New Zealand,2015,85.19999695
+NZL,New Zealand,2014,84.0
+NZL,New Zealand,2013,82.77999878
+NZL,New Zealand,2012,81.644470179502
+NZL,New Zealand,2011,81.23000336
+NZL,New Zealand,2010,80.45999908
+NIC,Nicaragua,2025,
+NIC,Nicaragua,2024,61.39550018
+NIC,Nicaragua,2023,60.30120087
+NIC,Nicaragua,2022,59.38000107
+NIC,Nicaragua,2021,51.62039948
+NIC,Nicaragua,2020,44.87490082
+NIC,Nicaragua,2019,39.01079941
+NIC,Nicaragua,2018,33.9129982
+NIC,Nicaragua,2017,30.39999962
+NIC,Nicaragua,2016,24.57180023
+NIC,Nicaragua,2015,19.70429993
+NIC,Nicaragua,2014,17.60000038
+NIC,Nicaragua,2013,15.5
+NIC,Nicaragua,2012,13.5
+NIC,Nicaragua,2011,10.6
+NIC,Nicaragua,2010,10.0
+NER,Niger,2025,
+NER,Niger,2024,15.55760002
+NER,Niger,2023,12.98079967
+NER,Niger,2022,13.08749962
+NER,Niger,2021,12.45689964
+NER,Niger,2020,11.85680008
+NER,Niger,2019,11.28549957
+NER,Niger,2018,10.74180031
+NER,Niger,2017,10.2243115586561
+NER,Niger,2016,4.322800159
+NER,Niger,2015,2.476200104
+NER,Niger,2014,1.24867568902241
+NER,Niger,2013,1.149999976
+NER,Niger,2012,1.049999952
+NER,Niger,2011,0.9
+NER,Niger,2010,0.829999983
+NGA,Nigeria,2025,
+NGA,Nigeria,2024,41.21139908
+NGA,Nigeria,2023,40.06399918
+NGA,Nigeria,2022,39.14720154
+NGA,Nigeria,2021,35.50979996
+NGA,Nigeria,2020,31.88879967
+NGA,Nigeria,2019,29.74410057
+NGA,Nigeria,2018,27.74370003
+NGA,Nigeria,2017,25.87789917
+NGA,Nigeria,2016,24.13750076
+NGA,Nigeria,2015,22.51420021
+NGA,Nigeria,2014,21.0
+NGA,Nigeria,2013,19.10000038
+NGA,Nigeria,2012,16.10000038
+NGA,Nigeria,2011,13.80000019
+NGA,Nigeria,2010,11.5
+MKD,North Macedonia,2025,93.1
+MKD,North Macedonia,2024,93.6
+MKD,North Macedonia,2023,88.5
+MKD,North Macedonia,2022,83.85030365
+MKD,North Macedonia,2021,81.873703
+MKD,North Macedonia,2020,81.40553811
+MKD,North Macedonia,2019,81.4128827618364
+MKD,North Macedonia,2018,79.1677551850871
+MKD,North Macedonia,2017,74.5168241807954
+MKD,North Macedonia,2016,72.1568144676058
+MKD,North Macedonia,2015,70.3802030766689
+MKD,North Macedonia,2014,68.0584815397496
+MKD,North Macedonia,2013,65.24
+MKD,North Macedonia,2012,57.449947312961
+MKD,North Macedonia,2011,56.7
+MKD,North Macedonia,2010,51.9
+MNP,Northern Mariana Islands,2025,
+MNP,Northern Mariana Islands,2024,
+MNP,Northern Mariana Islands,2023,
+MNP,Northern Mariana Islands,2022,
+MNP,Northern Mariana Islands,2021,
+MNP,Northern Mariana Islands,2020,
+MNP,Northern Mariana Islands,2019,
+MNP,Northern Mariana Islands,2018,
+MNP,Northern Mariana Islands,2017,
+MNP,Northern Mariana Islands,2016,
+MNP,Northern Mariana Islands,2015,
+MNP,Northern Mariana Islands,2014,
+MNP,Northern Mariana Islands,2013,
+MNP,Northern Mariana Islands,2012,
+MNP,Northern Mariana Islands,2011,
+MNP,Northern Mariana Islands,2010,
+NOR,Norway,2025,
+NOR,Norway,2024,99.0
+NOR,Norway,2023,99.00000258
+NOR,Norway,2022,98.99997764
+NOR,Norway,2021,99.0000036
+NOR,Norway,2020,94.60755647
+NOR,Norway,2019,98.0000043853142
+NOR,Norway,2018,96.4916579887094
+NOR,Norway,2017,96.3576012951191
+NOR,Norway,2016,97.2982036675068
+NOR,Norway,2015,96.810325691365
+NOR,Norway,2014,96.3005098242892
+NOR,Norway,2013,95.0534
+NOR,Norway,2012,94.6499780533304
+NOR,Norway,2011,93.4899826515194
+NOR,Norway,2010,93.39
+OMN,Oman,2025,
+OMN,Oman,2024,95.25174678
+OMN,Oman,2023,95.25170135
+OMN,Oman,2022,95.24530029
+OMN,Oman,2021,95.23880005
+OMN,Oman,2020,95.23229321
+OMN,Oman,2019,90.25939941
+OMN,Oman,2018,85.5
+OMN,Oman,2017,80.18560028
+OMN,Oman,2016,76.8453904741456
+OMN,Oman,2015,73.52999878
+OMN,Oman,2014,70.22000122
+OMN,Oman,2013,66.45
+OMN,Oman,2012,60.0
+OMN,Oman,2011,48.0
+OMN,Oman,2010,35.8278
+PAK,Pakistan,2025,
+PAK,Pakistan,2024,57.253
+PAK,Pakistan,2023,
+PAK,Pakistan,2022,
+PAK,Pakistan,2021,
+PAK,Pakistan,2020,18.935
+PAK,Pakistan,2019,17.070901719916
+PAK,Pakistan,2018,15.34000015
+PAK,Pakistan,2017,13.77999973
+PAK,Pakistan,2016,12.385446763381
+PAK,Pakistan,2015,11.0
+PAK,Pakistan,2014,10.0
+PAK,Pakistan,2013,9.0
+PAK,Pakistan,2012,8.100000381
+PAK,Pakistan,2011,8.0
+PAK,Pakistan,2010,8.0
+PLW,Palau,2025,
+PLW,Palau,2024,83.92549896
+PLW,Palau,2023,82.91629791
+PLW,Palau,2022,82.56749725
+PLW,Palau,2021,
+PLW,Palau,2020,
+PLW,Palau,2019,
+PLW,Palau,2018,
+PLW,Palau,2017,
+PLW,Palau,2016,
+PLW,Palau,2015,
+PLW,Palau,2014,
+PLW,Palau,2013,
+PLW,Palau,2012,
+PLW,Palau,2011,
+PLW,Palau,2010,
+PAN,Panama,2025,
+PAN,Panama,2024,72.77149963
+PAN,Panama,2023,68.54851592
+PAN,Panama,2022,67.2838974
+PAN,Panama,2021,66.04270172
+PAN,Panama,2020,64.82430267
+PAN,Panama,2019,63.6284147731451
+PAN,Panama,2018,61.8055313202468
+PAN,Panama,2017,59.9506309038683
+PAN,Panama,2016,54.0
+PAN,Panama,2015,51.2054249948687
+PAN,Panama,2014,44.9238152577893
+PAN,Panama,2013,44.03
+PAN,Panama,2012,40.3018952210488
+PAN,Panama,2011,42.7
+PAN,Panama,2010,40.1
+PNG,Papua New Guinea,2025,
+PNG,Papua New Guinea,2024,18.81159973
+PNG,Papua New Guinea,2023,18.56130028
+PNG,Papua New Guinea,2022,18.25659943
+PNG,Papua New Guinea,2021,16.55960083
+PNG,Papua New Guinea,2020,15.02040005
+PNG,Papua New Guinea,2019,13.62419987
+PNG,Papua New Guinea,2018,12.35789967
+PNG,Papua New Guinea,2017,11.20919991
+PNG,Papua New Guinea,2016,9.601499557
+PNG,Papua New Guinea,2015,7.900000095
+PNG,Papua New Guinea,2014,6.5
+PNG,Papua New Guinea,2013,5.099999905
+PNG,Papua New Guinea,2012,3.5
+PNG,Papua New Guinea,2011,2.0
+PNG,Papua New Guinea,2010,1.28
+PRY,Paraguay,2025,
+PRY,Paraguay,2024,81.57806793
+PRY,Paraguay,2023,78.09481878
+PRY,Paraguay,2022,76.25916611
+PRY,Paraguay,2021,77.01838621
+PRY,Paraguay,2020,73.95751114
+PRY,Paraguay,2019,68.5176284222264
+PRY,Paraguay,2018,64.9935430235756
+PRY,Paraguay,2017,61.0757562215797
+PRY,Paraguay,2016,53.4041274791009
+PRY,Paraguay,2015,49.716304663966
+PRY,Paraguay,2014,43.0073750122614
+PRY,Paraguay,2013,36.9
+PRY,Paraguay,2012,29.34
+PRY,Paraguay,2011,24.7635158793993
+PRY,Paraguay,2010,19.8
+PER,Peru,2025,
+PER,Peru,2024,81.95705992
+PER,Peru,2023,79.48484477
+PER,Peru,2022,74.67495213
+PER,Peru,2021,71.10782643
+PER,Peru,2020,65.25179796
+PER,Peru,2019,59.9505036049006
+PER,Peru,2018,55.0543342443197
+PER,Peru,2017,50.4504121848143
+PER,Peru,2016,45.4617406869459
+PER,Peru,2015,40.8526009090468
+PER,Peru,2014,40.2446560091704
+PER,Peru,2013,39.2
+PER,Peru,2012,38.2
+PER,Peru,2011,36.01
+PER,Peru,2010,34.77
+PHL,Philippines,2025,
+PHL,Philippines,2024,67.26300914
+PHL,Philippines,2023,77.86699677
+PHL,Philippines,2022,75.21114422
+PHL,Philippines,2021,66.90779877
+PHL,Philippines,2020,53.76490021
+PHL,Philippines,2019,43.0266118680279
+PHL,Philippines,2018,44.09999847
+PHL,Philippines,2017,41.59999847
+PHL,Philippines,2016,39.20000076
+PHL,Philippines,2015,36.90000153
+PHL,Philippines,2014,34.70000076
+PHL,Philippines,2013,32.70000076
+PHL,Philippines,2012,30.79999924
+PHL,Philippines,2011,29.0
+PHL,Philippines,2010,25.0
+POL,Poland,2025,
+POL,Poland,2024,88.58496367
+POL,Poland,2023,86.414744
+POL,Poland,2022,86.94113479
+POL,Poland,2021,85.37490906
+POL,Poland,2020,83.18488715
+POL,Poland,2019,80.4359068768673
+POL,Poland,2018,77.5417345350006
+POL,Poland,2017,75.9853659493832
+POL,Poland,2016,73.3007040962669
+POL,Poland,2015,67.9969871556415
+POL,Poland,2014,66.5987360557248
+POL,Poland,2013,62.8492
+POL,Poland,2012,62.3099972714691
+POL,Poland,2011,61.94999896898
+POL,Poland,2010,62.32
+PRT,Portugal,2025,
+PRT,Portugal,2024,88.48704454
+PRT,Portugal,2023,85.79012676
+PRT,Portugal,2022,84.49690644
+PRT,Portugal,2021,82.30902804
+PRT,Portugal,2020,78.26166044
+PRT,Portugal,2019,75.3463779408712
+PRT,Portugal,2018,74.6609681487507
+PRT,Portugal,2017,73.7912139515729
+PRT,Portugal,2016,70.423567088723
+PRT,Portugal,2015,68.6328614804299
+PRT,Portugal,2014,64.5924200648949
+PRT,Portugal,2013,62.0956
+PRT,Portugal,2012,60.3399974868057
+PRT,Portugal,2011,55.2499968797194
+PRT,Portugal,2010,53.3
+PRI,Puerto Rico (US),2025,
+PRI,Puerto Rico (US),2024,
+PRI,Puerto Rico (US),2023,
+PRI,Puerto Rico (US),2022,87.29178106
+PRI,Puerto Rico (US),2021,84.78666399
+PRI,Puerto Rico (US),2020,
+PRI,Puerto Rico (US),2019,77.7364393708352
+PRI,Puerto Rico (US),2018,70.8563997424362
+PRI,Puerto Rico (US),2017,68.7407731407209
+PRI,Puerto Rico (US),2016,68.6438071976518
+PRI,Puerto Rico (US),2015,63.4663353848474
+PRI,Puerto Rico (US),2014,76.1338597201667
+PRI,Puerto Rico (US),2013,68.999990004
+PRI,Puerto Rico (US),2012,68.9999826014151
+PRI,Puerto Rico (US),2011,48.0
+PRI,Puerto Rico (US),2010,45.3
+QAT,Qatar,2025,
+QAT,Qatar,2024,98.08540344
+QAT,Qatar,2023,98.15229797
+QAT,Qatar,2022,98.03800201
+QAT,Qatar,2021,99.65280151
+QAT,Qatar,2020,99.65284913
+QAT,Qatar,2019,99.6528042086389
+QAT,Qatar,2018,99.6528491261175
+QAT,Qatar,2017,97.3888491654164
+QAT,Qatar,2016,95.1246621661148
+QAT,Qatar,2015,92.8848264535481
+QAT,Qatar,2014,91.48999786
+QAT,Qatar,2013,85.3
+QAT,Qatar,2012,69.3
+QAT,Qatar,2011,69.0
+QAT,Qatar,2010,69.0
+ROU,Romania,2025,
+ROU,Romania,2024,91.29048551
+ROU,Romania,2023,89.20335498
+ROU,Romania,2022,85.50309124
+ROU,Romania,2021,83.5904265
+ROU,Romania,2020,78.45526895
+ROU,Romania,2019,73.6574757545465
+ROU,Romania,2018,70.6812779273268
+ROU,Romania,2017,63.7472821822484
+ROU,Romania,2016,59.5039512852713
+ROU,Romania,2015,55.7631556336233
+ROU,Romania,2014,54.0783206550943
+ROU,Romania,2013,49.7645
+ROU,Romania,2012,45.8799942529424
+ROU,Romania,2011,40.0099967810008
+ROU,Romania,2010,39.93
+RUS,Russian Federation,2025,
+RUS,Russian Federation,2024,94.36495368
+RUS,Russian Federation,2023,92.24496346
+RUS,Russian Federation,2022,90.41799163
+RUS,Russian Federation,2021,88.21384578
+RUS,Russian Federation,2020,84.99466978
+RUS,Russian Federation,2019,82.6421618670668
+RUS,Russian Federation,2018,80.8647218726954
+RUS,Russian Federation,2017,76.0081385339105
+RUS,Russian Federation,2016,73.091434617897
+RUS,Russian Federation,2015,70.0992412263947
+RUS,Russian Federation,2014,70.5175682574413
+RUS,Russian Federation,2013,67.97
+RUS,Russian Federation,2012,66.0
+RUS,Russian Federation,2011,58.0
+RUS,Russian Federation,2010,49.0
+RWA,Rwanda,2025,
+RWA,Rwanda,2024,31.70330048
+RWA,Rwanda,2023,28.80579948
+RWA,Rwanda,2022,28.01679993
+RWA,Rwanda,2021,24.4416008
+RWA,Rwanda,2020,23.8
+RWA,Rwanda,2019,21.3579998
+RWA,Rwanda,2018,19.16659927
+RWA,Rwanda,2017,17.2
+RWA,Rwanda,2016,14.63710022
+RWA,Rwanda,2015,12.45600033
+RWA,Rwanda,2014,10.60000038
+RWA,Rwanda,2013,9.0
+RWA,Rwanda,2012,8.023900032
+RWA,Rwanda,2011,7.0
+RWA,Rwanda,2010,8.0
+WSM,Samoa,2025,
+WSM,Samoa,2024,
+WSM,Samoa,2023,
+WSM,Samoa,2022,
+WSM,Samoa,2021,
+WSM,Samoa,2020,
+WSM,Samoa,2019,
+WSM,Samoa,2018,
+WSM,Samoa,2017,
+WSM,Samoa,2016,
+WSM,Samoa,2015,
+WSM,Samoa,2014,21.20000076
+WSM,Samoa,2013,15.30000019
+WSM,Samoa,2012,12.92249966
+WSM,Samoa,2011,11.0
+WSM,Samoa,2010,7.0
+SMR,San Marino,2025,
+SMR,San Marino,2024,97.35220337
+SMR,San Marino,2023,97.33640289
+SMR,San Marino,2022,97.32790375
+SMR,San Marino,2021,81.66999817
+SMR,San Marino,2020,77.94999695
+SMR,San Marino,2019,67.85070038
+SMR,San Marino,2018,
+SMR,San Marino,2017,60.18230057
+SMR,San Marino,2016,55.0
+SMR,San Marino,2015,
+SMR,San Marino,2014,
+SMR,San Marino,2013,
+SMR,San Marino,2012,
+SMR,San Marino,2011,49.6
+SMR,San Marino,2010,
+STP,Sao Tome and Principe,2025,
+STP,Sao Tome and Principe,2024,59.11759949
+STP,Sao Tome and Principe,2023,58.70130157
+STP,Sao Tome and Principe,2022,58.56779861
+STP,Sao Tome and Principe,2021,54.94950104
+STP,Sao Tome and Principe,2020,51.55469894
+STP,Sao Tome and Principe,2019,44.25790024
+STP,Sao Tome and Principe,2018,37.99380112
+STP,Sao Tome and Principe,2017,32.61640167
+STP,Sao Tome and Principe,2016,28.0
+STP,Sao Tome and Principe,2015,25.81999969
+STP,Sao Tome and Principe,2014,24.40999985
+STP,Sao Tome and Principe,2013,23.0
+STP,Sao Tome and Principe,2012,21.57239914
+STP,Sao Tome and Principe,2011,20.16119957
+STP,Sao Tome and Principe,2010,18.75
+SAU,Saudi Arabia,2025,
+SAU,Saudi Arabia,2024,100.0
+SAU,Saudi Arabia,2023,100.0
+SAU,Saudi Arabia,2022,100.0
+SAU,Saudi Arabia,2021,100.0
+SAU,Saudi Arabia,2020,97.8623325
+SAU,Saudi Arabia,2019,95.7247355953812
+SAU,Saudi Arabia,2018,93.3100018480347
+SAU,Saudi Arabia,2017,94.1755996113911
+SAU,Saudi Arabia,2016,74.8792746891625
+SAU,Saudi Arabia,2015,69.6162358014004
+SAU,Saudi Arabia,2014,64.713657369019
+SAU,Saudi Arabia,2013,60.5
+SAU,Saudi Arabia,2012,54.0
+SAU,Saudi Arabia,2011,47.5
+SAU,Saudi Arabia,2010,41.0
+SEN,Senegal,2025,
+SEN,Senegal,2024,60.11780167
+SEN,Senegal,2023,59.18740082
+SEN,Senegal,2022,56.82830048
+SEN,Senegal,2021,55.04040146
+SEN,Senegal,2020,53.30879974
+SEN,Senegal,2019,43.37969971
+SEN,Senegal,2018,35.29999924
+SEN,Senegal,2017,29.64310074
+SEN,Senegal,2016,25.66480064
+SEN,Senegal,2015,21.70000076
+SEN,Senegal,2014,17.70000076
+SEN,Senegal,2013,13.10000038
+SEN,Senegal,2012,10.80000019
+SEN,Senegal,2011,9.800000191
+SEN,Senegal,2010,8.0
+SRB,Serbia,2025,
+SRB,Serbia,2024,87.69071294
+SRB,Serbia,2023,85.35746686
+SRB,Serbia,2022,83.53825397
+SRB,Serbia,2021,81.16588116
+SRB,Serbia,2020,78.36804864
+SRB,Serbia,2019,77.4167736219802
+SRB,Serbia,2018,73.360709154564
+SRB,Serbia,2017,70.3308355269141
+SRB,Serbia,2016,67.0568413716938
+SRB,Serbia,2015,65.3170254003801
+SRB,Serbia,2014,62.0750804639377
+SRB,Serbia,2013,53.450364175
+SRB,Serbia,2012,48.09999847
+SRB,Serbia,2011,42.2
+SRB,Serbia,2010,40.9
+SYC,Seychelles,2025,
+SYC,Seychelles,2024,87.81800079
+SYC,Seychelles,2023,86.001297
+SYC,Seychelles,2022,84.83380127
+SYC,Seychelles,2021,81.99530029
+SYC,Seychelles,2020,79.25170135
+SYC,Seychelles,2019,76.63420105
+SYC,Seychelles,2018,69.23660278
+SYC,Seychelles,2017,62.55310059
+SYC,Seychelles,2016,56.51470184
+SYC,Seychelles,2015,54.25960159
+SYC,Seychelles,2014,51.25469971
+SYC,Seychelles,2013,50.40000153
+SYC,Seychelles,2012,47.07600021
+SYC,Seychelles,2011,43.16400146
+SYC,Seychelles,2010,41.0
+SLE,Sierra Leone,2025,
+SLE,Sierra Leone,2024,25.10499954
+SLE,Sierra Leone,2023,23.71360016
+SLE,Sierra Leone,2022,21.50880051
+SLE,Sierra Leone,2021,18.65390015
+SLE,Sierra Leone,2020,17.12080002
+SLE,Sierra Leone,2019,15.71370029
+SLE,Sierra Leone,2018,14.42230034
+SLE,Sierra Leone,2017,9.297100067
+SLE,Sierra Leone,2016,7.680099964
+SLE,Sierra Leone,2015,6.344399929
+SLE,Sierra Leone,2014,6.057300091
+SLE,Sierra Leone,2013,4.0
+SLE,Sierra Leone,2012,2.5
+SLE,Sierra Leone,2011,0.899999976
+SLE,Sierra Leone,2010,0.579999983
+SGP,Singapore,2025,
+SGP,Singapore,2024,94.37757178
+SGP,Singapore,2023,94.28518987
+SGP,Singapore,2022,95.95386476
+SGP,Singapore,2021,96.92468156
+SGP,Singapore,2020,92.00434653
+SGP,Singapore,2019,88.9492526850762
+SGP,Singapore,2018,88.1656360313447
+SGP,Singapore,2017,84.4522678893074
+SGP,Singapore,2016,84.4522678893074
+SGP,Singapore,2015,79.0129570025584
+SGP,Singapore,2014,79.0292358633435
+SGP,Singapore,2013,80.90209961
+SGP,Singapore,2012,72.0
+SGP,Singapore,2011,71.0
+SGP,Singapore,2010,71.0
+SXM,Sint Maarten (Dutch part),2025,
+SXM,Sint Maarten (Dutch part),2024,
+SXM,Sint Maarten (Dutch part),2023,
+SXM,Sint Maarten (Dutch part),2022,
+SXM,Sint Maarten (Dutch part),2021,
+SXM,Sint Maarten (Dutch part),2020,
+SXM,Sint Maarten (Dutch part),2019,
+SXM,Sint Maarten (Dutch part),2018,
+SXM,Sint Maarten (Dutch part),2017,
+SXM,Sint Maarten (Dutch part),2016,
+SXM,Sint Maarten (Dutch part),2015,
+SXM,Sint Maarten (Dutch part),2014,
+SXM,Sint Maarten (Dutch part),2013,
+SXM,Sint Maarten (Dutch part),2012,
+SXM,Sint Maarten (Dutch part),2011,
+SXM,Sint Maarten (Dutch part),2010,
+SVK,Slovak Republic,2025,
+SVK,Slovak Republic,2024,89.82507032
+SVK,Slovak Republic,2023,87.2131343
+SVK,Slovak Republic,2022,89.06766196
+SVK,Slovak Republic,2021,88.92560523
+SVK,Slovak Republic,2020,89.92090413
+SVK,Slovak Republic,2019,82.8536605021784
+SVK,Slovak Republic,2018,80.4489224826099
+SVK,Slovak Republic,2017,81.6256675172655
+SVK,Slovak Republic,2016,80.475857275668
+SVK,Slovak Republic,2015,77.6346820339875
+SVK,Slovak Republic,2014,79.9843017656729
+SVK,Slovak Republic,2013,77.8826
+SVK,Slovak Republic,2012,76.7099901181121
+SVK,Slovak Republic,2011,74.4399971746757
+SVK,Slovak Republic,2010,75.71
+SVN,Slovenia,2025,
+SVN,Slovenia,2024,90.76355487
+SVN,Slovenia,2023,90.37794678
+SVN,Slovenia,2022,88.91248552
+SVN,Slovenia,2021,89.00399524
+SVN,Slovenia,2020,86.60130109
+SVN,Slovenia,2019,83.1083578026717
+SVN,Slovenia,2018,79.7499765956562
+SVN,Slovenia,2017,78.8854263554775
+SVN,Slovenia,2016,75.4985042610791
+SVN,Slovenia,2015,73.0986599745829
+SVN,Slovenia,2014,71.5862515855601
+SVN,Slovenia,2013,72.6756
+SVN,Slovenia,2012,68.3499745287825
+SVN,Slovenia,2011,67.3399948092396
+SVN,Slovenia,2010,70.0
+SLB,Solomon Islands,2025,
+SLB,Solomon Islands,2024,29.04070091
+SLB,Solomon Islands,2023,28.67239952
+SLB,Solomon Islands,2022,28.01729965
+SLB,Solomon Islands,2021,26.03790092
+SLB,Solomon Islands,2020,24.1984005
+SLB,Solomon Islands,2019,22.48880005
+SLB,Solomon Islands,2018,20.8593998
+SLB,Solomon Islands,2017,15.14840031
+SLB,Solomon Islands,2016,11.00090027
+SLB,Solomon Islands,2015,10.00049973
+SLB,Solomon Islands,2014,9.0
+SLB,Solomon Islands,2013,8.0
+SLB,Solomon Islands,2012,6.997399807
+SLB,Solomon Islands,2011,6.0
+SLB,Solomon Islands,2010,5.0
+SOM,"Somalia, Fed. Rep.",2025,
+SOM,"Somalia, Fed. Rep.",2024,27.94020081
+SOM,"Somalia, Fed. Rep.",2023,26.12010002
+SOM,"Somalia, Fed. Rep.",2022,27.6
+SOM,"Somalia, Fed. Rep.",2021,23.87479973
+SOM,"Somalia, Fed. Rep.",2020,15.02369976
+SOM,"Somalia, Fed. Rep.",2019,2.731400013
+SOM,"Somalia, Fed. Rep.",2018,
+SOM,"Somalia, Fed. Rep.",2017,
+SOM,"Somalia, Fed. Rep.",2016,1.879999995
+SOM,"Somalia, Fed. Rep.",2015,1.75999999
+SOM,"Somalia, Fed. Rep.",2014,1.629999995
+SOM,"Somalia, Fed. Rep.",2013,1.5
+SOM,"Somalia, Fed. Rep.",2012,1.376700044
+SOM,"Somalia, Fed. Rep.",2011,1.25
+SOM,"Somalia, Fed. Rep.",2010,
+ZAF,South Africa,2025,
+ZAF,South Africa,2024,78.35759735
+ZAF,South Africa,2023,78.33670044
+ZAF,South Africa,2022,78.29319763
+ZAF,South Africa,2021,74.96859741
+ZAF,South Africa,2020,72.1128006
+ZAF,South Africa,2019,69.69689941
+ZAF,South Africa,2018,62.40000153
+ZAF,South Africa,2017,56.16740036
+ZAF,South Africa,2016,54.0
+ZAF,South Africa,2015,51.91910172
+ZAF,South Africa,2014,49.0
+ZAF,South Africa,2013,46.5
+ZAF,South Africa,2012,41.0
+ZAF,South Africa,2011,33.97
+ZAF,South Africa,2010,24.0
+SSD,South Sudan,2025,
+SSD,South Sudan,2024,
+SSD,South Sudan,2023,
+SSD,South Sudan,2022,
+SSD,South Sudan,2021,
+SSD,South Sudan,2020,
+SSD,South Sudan,2019,6.671000004
+SSD,South Sudan,2018,4.800000191
+SSD,South Sudan,2017,4.1
+SSD,South Sudan,2016,3.5
+SSD,South Sudan,2015,3.0
+SSD,South Sudan,2014,2.599999905
+SSD,South Sudan,2013,2.200000048
+SSD,South Sudan,2012,1.5
+SSD,South Sudan,2011,
+SSD,South Sudan,2010,
+ESP,Spain,2025,
+ESP,Spain,2024,95.7574516
+ESP,Spain,2023,95.44564516
+ESP,Spain,2022,94.4855432
+ESP,Spain,2021,93.89752157
+ESP,Spain,2020,93.20564892
+ESP,Spain,2019,90.718665325267
+ESP,Spain,2018,86.107235525659
+ESP,Spain,2017,84.6022457016524
+ESP,Spain,2016,80.5613329432179
+ESP,Spain,2015,78.6896318703515
+ESP,Spain,2014,76.1867089778712
+ESP,Spain,2013,71.635
+ESP,Spain,2012,69.8099999420024
+ESP,Spain,2011,67.0899993926581
+ESP,Spain,2010,65.8
+LKA,Sri Lanka,2025,
+LKA,Sri Lanka,2024,54.59
+LKA,Sri Lanka,2023,51.2
+LKA,Sri Lanka,2022,48.3
+LKA,Sri Lanka,2021,44.45308724
+LKA,Sri Lanka,2020,36.18473435
+LKA,Sri Lanka,2019,32.02090073
+LKA,Sri Lanka,2018,28.33620071
+LKA,Sri Lanka,2017,25.07550049
+LKA,Sri Lanka,2016,22.19
+LKA,Sri Lanka,2015,15.26249981
+LKA,Sri Lanka,2014,10.5000026214106
+LKA,Sri Lanka,2013,10.04440022
+LKA,Sri Lanka,2012,9.00039959
+LKA,Sri Lanka,2011,7.956399918
+LKA,Sri Lanka,2010,6.912399769
+KNA,St. Kitts and Nevis,2025,
+KNA,St. Kitts and Nevis,2024,76.88400269
+KNA,St. Kitts and Nevis,2023,76.58950043
+KNA,St. Kitts and Nevis,2022,75.76229858
+KNA,St. Kitts and Nevis,2021,74.37159729
+KNA,St. Kitts and Nevis,2020,70.27529907
+KNA,St. Kitts and Nevis,2019,69.43499756
+KNA,St. Kitts and Nevis,2018,68.60479736
+KNA,St. Kitts and Nevis,2017,67.78440094
+KNA,St. Kitts and Nevis,2016,66.97389984
+KNA,St. Kitts and Nevis,2015,66.17310333
+KNA,St. Kitts and Nevis,2014,65.38179779
+KNA,St. Kitts and Nevis,2013,64.59999847
+KNA,St. Kitts and Nevis,2012,64.0
+KNA,St. Kitts and Nevis,2011,63.20000076
+KNA,St. Kitts and Nevis,2010,63.0
+LCA,St. Lucia,2025,
+LCA,St. Lucia,2024,68.20500183
+LCA,St. Lucia,2023,67.44390106
+LCA,St. Lucia,2022,66.95159912
+LCA,St. Lucia,2021,63.06330109
+LCA,St. Lucia,2020,62.06399918
+LCA,St. Lucia,2019,61.08050156
+LCA,St. Lucia,2018,60.11259842
+LCA,St. Lucia,2017,59.16009903
+LCA,St. Lucia,2016,58.22259903
+LCA,St. Lucia,2015,57.26330185
+LCA,St. Lucia,2014,53.17969894
+LCA,St. Lucia,2013,49.3871994
+LCA,St. Lucia,2012,45.865
+LCA,St. Lucia,2011,34.0
+LCA,St. Lucia,2010,32.5
+MAF,St. Martin (French part),2025,
+MAF,St. Martin (French part),2024,
+MAF,St. Martin (French part),2023,
+MAF,St. Martin (French part),2022,
+MAF,St. Martin (French part),2021,
+MAF,St. Martin (French part),2020,
+MAF,St. Martin (French part),2019,
+MAF,St. Martin (French part),2018,
+MAF,St. Martin (French part),2017,
+MAF,St. Martin (French part),2016,
+MAF,St. Martin (French part),2015,
+MAF,St. Martin (French part),2014,
+MAF,St. Martin (French part),2013,
+MAF,St. Martin (French part),2012,
+MAF,St. Martin (French part),2011,
+MAF,St. Martin (French part),2010,
+VCT,St. Vincent and the Grenadines,2025,
+VCT,St. Vincent and the Grenadines,2024,76.19010162
+VCT,St. Vincent and the Grenadines,2023,75.53679657
+VCT,St. Vincent and the Grenadines,2022,74.75479889
+VCT,St. Vincent and the Grenadines,2021,68.83339691
+VCT,St. Vincent and the Grenadines,2020,63.38100052
+VCT,St. Vincent and the Grenadines,2019,59.57630157
+VCT,St. Vincent and the Grenadines,2018,56.0
+VCT,St. Vincent and the Grenadines,2017,53.70000076
+VCT,St. Vincent and the Grenadines,2016,51.5
+VCT,St. Vincent and the Grenadines,2015,49.40000153
+VCT,St. Vincent and the Grenadines,2014,47.4
+VCT,St. Vincent and the Grenadines,2013,43.5
+VCT,St. Vincent and the Grenadines,2012,40.0
+VCT,St. Vincent and the Grenadines,2011,36.70000076
+VCT,St. Vincent and the Grenadines,2010,33.70000076
+SDN,Sudan,2025,
+SDN,Sudan,2024,
+SDN,Sudan,2023,
+SDN,Sudan,2022,
+SDN,Sudan,2021,
+SDN,Sudan,2020,
+SDN,Sudan,2019,
+SDN,Sudan,2018,
+SDN,Sudan,2017,18.60000038
+SDN,Sudan,2016,14.0999999446534
+SDN,Sudan,2015,12.0
+SDN,Sudan,2014,
+SDN,Sudan,2013,
+SDN,Sudan,2012,
+SDN,Sudan,2011,
+SDN,Sudan,2010,
+SUR,Suriname,2025,
+SUR,Suriname,2024,
+SUR,Suriname,2023,87.4
+SUR,Suriname,2022,
+SUR,Suriname,2021,
+SUR,Suriname,2020,
+SUR,Suriname,2019,62.03350067
+SUR,Suriname,2018,55.10210037
+SUR,Suriname,2017,48.94520187
+SUR,Suriname,2016,45.40000153
+SUR,Suriname,2015,42.76380157
+SUR,Suriname,2014,40.08000183
+SUR,Suriname,2013,37.40000153
+SUR,Suriname,2012,34.68119812
+SUR,Suriname,2011,32.0
+SUR,Suriname,2010,31.59
+SWE,Sweden,2025,95.76629783
+SWE,Sweden,2024,95.52930428
+SWE,Sweden,2023,95.70327461
+SWE,Sweden,2022,95.00970335
+SWE,Sweden,2021,94.6703163
+SWE,Sweden,2020,94.53943122
+SWE,Sweden,2019,94.4934434072202
+SWE,Sweden,2018,89.2469631588137
+SWE,Sweden,2017,93.0062669652127
+SWE,Sweden,2016,89.6509476102355
+SWE,Sweden,2015,90.6101966398616
+SWE,Sweden,2014,92.5236065037579
+SWE,Sweden,2013,94.7836
+SWE,Sweden,2012,93.1799880065108
+SWE,Sweden,2011,92.7699860554046
+SWE,Sweden,2010,90.0
+CHE,Switzerland,2025,97.32103855
+CHE,Switzerland,2024,97.3443985
+CHE,Switzerland,2023,97.34436623
+CHE,Switzerland,2022,96.45279694
+CHE,Switzerland,2021,95.56937154
+CHE,Switzerland,2020,94.34999847
+CHE,Switzerland,2019,93.1460869535177
+CHE,Switzerland,2018,91.80000305
+CHE,Switzerland,2017,89.6861476710225
+CHE,Switzerland,2016,89.1346877351392
+CHE,Switzerland,2015,87.4790555978675
+CHE,Switzerland,2014,83.6172512621702
+CHE,Switzerland,2013,86.34
+CHE,Switzerland,2012,85.2
+CHE,Switzerland,2011,85.1930281804854
+CHE,Switzerland,2010,83.9
+SYR,Syrian Arab Republic,2025,
+SYR,Syrian Arab Republic,2024,
+SYR,Syrian Arab Republic,2023,
+SYR,Syrian Arab Republic,2022,
+SYR,Syrian Arab Republic,2021,
+SYR,Syrian Arab Republic,2020,
+SYR,Syrian Arab Republic,2019,
+SYR,Syrian Arab Republic,2018,33.77000046
+SYR,Syrian Arab Republic,2017,32.70000076
+SYR,Syrian Arab Republic,2016,31.8696003
+SYR,Syrian Arab Republic,2015,29.97979927
+SYR,Syrian Arab Republic,2014,28.09000015
+SYR,Syrian Arab Republic,2013,26.20000076
+SYR,Syrian Arab Republic,2012,24.30010033
+SYR,Syrian Arab Republic,2011,22.5
+SYR,Syrian Arab Republic,2010,20.7
+TJK,Tajikistan,2025,
+TJK,Tajikistan,2024,55.79339981
+TJK,Tajikistan,2023,54.41550064
+TJK,Tajikistan,2022,48.91429901
+TJK,Tajikistan,2021,36.70560074
+TJK,Tajikistan,2020,27.54409981
+TJK,Tajikistan,2019,22.68630028
+TJK,Tajikistan,2018,32.59999847
+TJK,Tajikistan,2017,21.95999908
+TJK,Tajikistan,2016,20.46999931
+TJK,Tajikistan,2015,18.97999954
+TJK,Tajikistan,2014,17.48999977
+TJK,Tajikistan,2013,16.0
+TJK,Tajikistan,2012,14.51000023
+TJK,Tajikistan,2011,13.02999973
+TJK,Tajikistan,2010,11.55000019
+TZA,Tanzania,2025,
+TZA,Tanzania,2024,31.16209984
+TZA,Tanzania,2023,28.43190002
+TZA,Tanzania,2022,26.86059952
+TZA,Tanzania,2021,22.87540054
+TZA,Tanzania,2020,19.48139954
+TZA,Tanzania,2019,16.59090042
+TZA,Tanzania,2018,15.49069977
+TZA,Tanzania,2017,14.46339989
+TZA,Tanzania,2016,13.5042328468919
+TZA,Tanzania,2015,10.0
+TZA,Tanzania,2014,7.0
+TZA,Tanzania,2013,4.400000095
+TZA,Tanzania,2012,3.950000048
+TZA,Tanzania,2011,3.200000048
+TZA,Tanzania,2010,2.900000095
+THA,Thailand,2025,
+THA,Thailand,2024,90.86718789
+THA,Thailand,2023,89.53525238
+THA,Thailand,2022,87.97724503
+THA,Thailand,2021,85.26956666
+THA,Thailand,2020,77.84374066
+THA,Thailand,2019,66.6524194587528
+THA,Thailand,2018,56.8174809301456
+THA,Thailand,2017,52.8919293439676
+THA,Thailand,2016,47.5049656215909
+THA,Thailand,2015,39.3161267365004
+THA,Thailand,2014,34.8860535783465
+THA,Thailand,2013,28.94
+THA,Thailand,2012,26.46
+THA,Thailand,2011,23.669925618731
+THA,Thailand,2010,22.4
+TLS,Timor-Leste,2025,
+TLS,Timor-Leste,2024,
+TLS,Timor-Leste,2023,
+TLS,Timor-Leste,2022,
+TLS,Timor-Leste,2021,35.04199982
+TLS,Timor-Leste,2020,32.01269913
+TLS,Timor-Leste,2019,28.00460052
+TLS,Timor-Leste,2018,27.60000038
+TLS,Timor-Leste,2017,24.20000076
+TLS,Timor-Leste,2016,21.20000076
+TLS,Timor-Leste,2015,18.60000038
+TLS,Timor-Leste,2014,17.5
+TLS,Timor-Leste,2013,11.0
+TLS,Timor-Leste,2012,7.0
+TLS,Timor-Leste,2011,4.0
+TLS,Timor-Leste,2010,3.0
+TGO,Togo,2025,
+TGO,Togo,2024,39.48320007
+TGO,Togo,2023,37.57020187
+TGO,Togo,2022,35.60749817
+TGO,Togo,2021,30.33839989
+TGO,Togo,2020,29.02370071
+TGO,Togo,2019,20.72730064
+TGO,Togo,2018,15.5
+TGO,Togo,2017,12.3602249692905
+TGO,Togo,2016,11.31000042
+TGO,Togo,2015,7.119999886
+TGO,Togo,2014,5.699999809
+TGO,Togo,2013,4.5
+TGO,Togo,2012,4.0
+TGO,Togo,2011,3.5
+TGO,Togo,2010,3.0
+TON,Tonga,2025,
+TON,Tonga,2024,67.4417038
+TON,Tonga,2023,64.13140106
+TON,Tonga,2022,61.60739899
+TON,Tonga,2021,57.549
+TON,Tonga,2020,54.47370148
+TON,Tonga,2019,51.56299973
+TON,Tonga,2018,48.80789948
+TON,Tonga,2017,46.20080185
+TON,Tonga,2016,39.95000076
+TON,Tonga,2015,38.65129852
+TON,Tonga,2014,35.95439911
+TON,Tonga,2013,32.75400162
+TON,Tonga,2012,30.0
+TON,Tonga,2011,25.0
+TON,Tonga,2010,16.0
+TTO,Trinidad and Tobago,2025,
+TTO,Trinidad and Tobago,2024,82.15989685
+TTO,Trinidad and Tobago,2023,81.9681015
+TTO,Trinidad and Tobago,2022,81.69760132
+TTO,Trinidad and Tobago,2021,84.36576986
+TTO,Trinidad and Tobago,2020,77.28130341
+TTO,Trinidad and Tobago,2019,74.98670197
+TTO,Trinidad and Tobago,2018,72.76029968
+TTO,Trinidad and Tobago,2017,70.59999847
+TTO,Trinidad and Tobago,2016,67.80000305
+TTO,Trinidad and Tobago,2015,65.09999847
+TTO,Trinidad and Tobago,2014,62.40000153
+TTO,Trinidad and Tobago,2013,59.90000153
+TTO,Trinidad and Tobago,2012,57.5
+TTO,Trinidad and Tobago,2011,55.2
+TTO,Trinidad and Tobago,2010,48.5
+TUN,Tunisia,2025,
+TUN,Tunisia,2024,76.5
+TUN,Tunisia,2023,
+TUN,Tunisia,2022,
+TUN,Tunisia,2021,68.31552226
+TUN,Tunisia,2020,68.55639648
+TUN,Tunisia,2019,66.6999983024144
+TUN,Tunisia,2018,64.1908102327387
+TUN,Tunisia,2017,55.5001550633671
+TUN,Tunisia,2016,49.5999948415756
+TUN,Tunisia,2015,46.4999943435776
+TUN,Tunisia,2014,46.15999985
+TUN,Tunisia,2013,43.79999924
+TUN,Tunisia,2012,41.4416008
+TUN,Tunisia,2011,39.1
+TUN,Tunisia,2010,36.8
+TUR,Turkiye,2025,89.77024003
+TUR,Turkiye,2024,87.3078767
+TUR,Turkiye,2023,85.96074155
+TUR,Turkiye,2022,83.43716576
+TUR,Turkiye,2021,81.40843745
+TUR,Turkiye,2020,77.6695605
+TUR,Turkiye,2019,73.9767022871511
+TUR,Turkiye,2018,71.0427608433809
+TUR,Turkiye,2017,64.6846176835371
+TUR,Turkiye,2016,58.3477340145685
+TUR,Turkiye,2015,53.7449791423583
+TUR,Turkiye,2014,51.0373665521645
+TUR,Turkiye,2013,46.25
+TUR,Turkiye,2012,45.13
+TUR,Turkiye,2011,43.065710430925
+TUR,Turkiye,2010,39.82
+TKM,Turkmenistan,2025,
+TKM,Turkmenistan,2024,
+TKM,Turkmenistan,2023,
+TKM,Turkmenistan,2022,
+TKM,Turkmenistan,2021,
+TKM,Turkmenistan,2020,
+TKM,Turkmenistan,2019,
+TKM,Turkmenistan,2018,
+TKM,Turkmenistan,2017,
+TKM,Turkmenistan,2016,17.99029922
+TKM,Turkmenistan,2015,14.99680042
+TKM,Turkmenistan,2014,12.19999981
+TKM,Turkmenistan,2013,9.600000381
+TKM,Turkmenistan,2012,7.195799828
+TKM,Turkmenistan,2011,5.0
+TKM,Turkmenistan,2010,3.0
+TCA,Turks and Caicos Islands,2025,
+TCA,Turks and Caicos Islands,2024,
+TCA,Turks and Caicos Islands,2023,
+TCA,Turks and Caicos Islands,2022,
+TCA,Turks and Caicos Islands,2021,
+TCA,Turks and Caicos Islands,2020,
+TCA,Turks and Caicos Islands,2019,
+TCA,Turks and Caicos Islands,2018,
+TCA,Turks and Caicos Islands,2017,
+TCA,Turks and Caicos Islands,2016,
+TCA,Turks and Caicos Islands,2015,
+TCA,Turks and Caicos Islands,2014,
+TCA,Turks and Caicos Islands,2013,
+TCA,Turks and Caicos Islands,2012,
+TCA,Turks and Caicos Islands,2011,
+TCA,Turks and Caicos Islands,2010,
+TUV,Tuvalu,2025,
+TUV,Tuvalu,2024,
+TUV,Tuvalu,2023,
+TUV,Tuvalu,2022,
+TUV,Tuvalu,2021,
+TUV,Tuvalu,2020,
+TUV,Tuvalu,2019,
+TUV,Tuvalu,2018,
+TUV,Tuvalu,2017,35.20000076
+TUV,Tuvalu,2016,31.0
+TUV,Tuvalu,2015,27.29999924
+TUV,Tuvalu,2014,24.10000038
+TUV,Tuvalu,2013,21.20000076
+TUV,Tuvalu,2012,18.70000076
+TUV,Tuvalu,2011,16.5
+TUV,Tuvalu,2010,14.60000038
+UGA,Uganda,2025,
+UGA,Uganda,2024,8.949831061
+UGA,Uganda,2023,9.286999702
+UGA,Uganda,2022,9.636899948
+UGA,Uganda,2021,10.0
+UGA,Uganda,2020,7.4
+UGA,Uganda,2019,11.72579956
+UGA,Uganda,2018,9.326299667
+UGA,Uganda,2017,7.417900085
+UGA,Uganda,2016,5.9
+UGA,Uganda,2015,5.699999809
+UGA,Uganda,2014,5.400000095
+UGA,Uganda,2013,5.099999905
+UGA,Uganda,2012,4.800000191
+UGA,Uganda,2011,4.599999905
+UGA,Uganda,2010,4.300000191
+UKR,Ukraine,2025,
+UKR,Ukraine,2024,82.47489929
+UKR,Ukraine,2023,81.58059692
+UKR,Ukraine,2022,80.47429657
+UKR,Ukraine,2021,79.21829353
+UKR,Ukraine,2020,75.03790912
+UKR,Ukraine,2019,70.1248442995263
+UKR,Ukraine,2018,62.5531553933869
+UKR,Ukraine,2017,58.8894794459775
+UKR,Ukraine,2016,53.0009695981884
+UKR,Ukraine,2015,48.8846436813218
+UKR,Ukraine,2014,46.2359754571651
+UKR,Ukraine,2013,40.954128997
+UKR,Ukraine,2012,35.27
+UKR,Ukraine,2011,28.7082628400713
+UKR,Ukraine,2010,23.3
+ARE,United Arab Emirates,2025,
+ARE,United Arab Emirates,2024,100.0
+ARE,United Arab Emirates,2023,100.0
+ARE,United Arab Emirates,2022,100.0
+ARE,United Arab Emirates,2021,100.0
+ARE,United Arab Emirates,2020,100.0
+ARE,United Arab Emirates,2019,99.1499979561243
+ARE,United Arab Emirates,2018,98.4500017817194
+ARE,United Arab Emirates,2017,94.8199225383446
+ARE,United Arab Emirates,2016,90.6000073180483
+ARE,United Arab Emirates,2015,90.5
+ARE,United Arab Emirates,2014,90.4000107121939
+ARE,United Arab Emirates,2013,88.0
+ARE,United Arab Emirates,2012,84.9999915049492
+ARE,United Arab Emirates,2011,78.0
+ARE,United Arab Emirates,2010,68.0
+GBR,United Kingdom,2025,
+GBR,United Kingdom,2024,95.4720993
+GBR,United Kingdom,2023,95.44719696
+GBR,United Kingdom,2022,95.46530151
+GBR,United Kingdom,2021,96.19650269
+GBR,United Kingdom,2020,94.81820132
+GBR,United Kingdom,2019,92.5166285497138
+GBR,United Kingdom,2018,90.692008988783
+GBR,United Kingdom,2017,90.4245504868553
+GBR,United Kingdom,2016,94.7758006318882
+GBR,United Kingdom,2015,92.0002998740234
+GBR,United Kingdom,2014,91.6133009176453
+GBR,United Kingdom,2013,89.8441
+GBR,United Kingdom,2012,87.4799984242111
+GBR,United Kingdom,2011,85.3799985496322
+GBR,United Kingdom,2010,85.0
+USA,United States,2025,
+USA,United States,2024,94.69380188
+USA,United States,2023,93.52559662
+USA,United States,2022,92.72850037
+USA,United States,2021,91.2684021
+USA,United States,2020,90.34470367
+USA,United States,2019,89.4302848575712
+USA,United States,2018,88.498903165152
+USA,United States,2017,87.2748891687657
+USA,United States,2016,85.5444212887222
+USA,United States,2015,74.5542024462761
+USA,United States,2014,73.0
+USA,United States,2013,71.4
+USA,United States,2012,74.7
+USA,United States,2011,69.7294607619268
+USA,United States,2010,71.69
+URY,Uruguay,2025,
+URY,Uruguay,2024,91.99109007
+URY,Uruguay,2023,90.92590332
+URY,Uruguay,2022,89.87304314
+URY,Uruguay,2021,87.64440155
+URY,Uruguay,2020,85.47100067
+URY,Uruguay,2019,83.3515337667548
+URY,Uruguay,2018,80.7268428795854
+URY,Uruguay,2017,70.3223543994698
+URY,Uruguay,2016,66.40000153
+URY,Uruguay,2015,64.5707870971624
+URY,Uruguay,2014,61.4624951684405
+URY,Uruguay,2013,57.69
+URY,Uruguay,2012,54.453768680746
+URY,Uruguay,2011,51.4046610563616
+URY,Uruguay,2010,46.4
+UZB,Uzbekistan,2025,
+UZB,Uzbekistan,2024,89.50550079
+UZB,Uzbekistan,2023,89.01361047
+UZB,Uzbekistan,2022,83.90000012
+UZB,Uzbekistan,2021,76.59043014
+UZB,Uzbekistan,2020,71.09999824
+UZB,Uzbekistan,2019,70.3999986481458
+UZB,Uzbekistan,2018,55.2000006732722
+UZB,Uzbekistan,2017,48.6999988524556
+UZB,Uzbekistan,2016,46.79130173
+UZB,Uzbekistan,2015,42.79999924
+UZB,Uzbekistan,2014,35.5
+UZB,Uzbekistan,2013,26.79999924
+UZB,Uzbekistan,2012,23.60000038
+UZB,Uzbekistan,2011,18.6
+UZB,Uzbekistan,2010,15.89999962
+VUT,Vanuatu,2025,
+VUT,Vanuatu,2024,
+VUT,Vanuatu,2023,
+VUT,Vanuatu,2022,
+VUT,Vanuatu,2021,
+VUT,Vanuatu,2020,
+VUT,Vanuatu,2019,
+VUT,Vanuatu,2018,
+VUT,Vanuatu,2017,
+VUT,Vanuatu,2016,
+VUT,Vanuatu,2015,22.35140038
+VUT,Vanuatu,2014,18.79999924
+VUT,Vanuatu,2013,11.30000019
+VUT,Vanuatu,2012,10.59799957
+VUT,Vanuatu,2011,9.199999809
+VUT,Vanuatu,2010,8.0
+VEN,"Venezuela, RB",2025,
+VEN,"Venezuela, RB",2024,76.67890167
+VEN,"Venezuela, RB",2023,76.33190155
+VEN,"Venezuela, RB",2022,75.82180023
+VEN,"Venezuela, RB",2021,74.11219788
+VEN,"Venezuela, RB",2020,72.44110107
+VEN,"Venezuela, RB",2019,49.05009842
+VEN,"Venezuela, RB",2018,
+VEN,"Venezuela, RB",2017,
+VEN,"Venezuela, RB",2016,60.0
+VEN,"Venezuela, RB",2015,58.0
+VEN,"Venezuela, RB",2014,57.0
+VEN,"Venezuela, RB",2013,54.90000153
+VEN,"Venezuela, RB",2012,49.0500830729861
+VEN,"Venezuela, RB",2011,40.22
+VEN,"Venezuela, RB",2010,37.37
+VNM,Viet Nam,2025,
+VNM,Viet Nam,2024,84.15
+VNM,Viet Nam,2023,78.08
+VNM,Viet Nam,2022,78.58999918
+VNM,Viet Nam,2021,74.20999985
+VNM,Viet Nam,2020,70.30000012
+VNM,Viet Nam,2019,68.6615802057338
+VNM,Viet Nam,2018,69.8479286837965
+VNM,Viet Nam,2017,58.1400000036297
+VNM,Viet Nam,2016,53.0
+VNM,Viet Nam,2015,45.0
+VNM,Viet Nam,2014,41.0
+VNM,Viet Nam,2013,38.5
+VNM,Viet Nam,2012,36.79999924
+VNM,Viet Nam,2011,35.07
+VNM,Viet Nam,2010,30.65
+VIR,Virgin Islands (U.S.),2025,
+VIR,Virgin Islands (U.S.),2024,
+VIR,Virgin Islands (U.S.),2023,
+VIR,Virgin Islands (U.S.),2022,
+VIR,Virgin Islands (U.S.),2021,
+VIR,Virgin Islands (U.S.),2020,
+VIR,Virgin Islands (U.S.),2019,
+VIR,Virgin Islands (U.S.),2018,
+VIR,Virgin Islands (U.S.),2017,64.3774942980087
+VIR,Virgin Islands (U.S.),2016,59.60831579895
+VIR,Virgin Islands (U.S.),2015,54.839137296
+VIR,Virgin Islands (U.S.),2014,50.07
+VIR,Virgin Islands (U.S.),2013,45.3
+VIR,Virgin Islands (U.S.),2012,40.5479
+VIR,Virgin Islands (U.S.),2011,35.6
+VIR,Virgin Islands (U.S.),2010,31.22
+PSE,West Bank and Gaza,2025,
+PSE,West Bank and Gaza,2024,
+PSE,West Bank and Gaza,2023,86.63765334
+PSE,West Bank and Gaza,2022,88.64690554
+PSE,West Bank and Gaza,2021,
+PSE,West Bank and Gaza,2020,76.18160248
+PSE,West Bank and Gaza,2019,70.6225837001758
+PSE,West Bank and Gaza,2018,64.3999937114499
+PSE,West Bank and Gaza,2017,63.29999924
+PSE,West Bank and Gaza,2016,59.90000153
+PSE,West Bank and Gaza,2015,56.70000076
+PSE,West Bank and Gaza,2014,53.6651997924171
+PSE,West Bank and Gaza,2013,46.59999847
+PSE,West Bank and Gaza,2012,43.4
+PSE,West Bank and Gaza,2011,41.08000183
+PSE,West Bank and Gaza,2010,37.40000153
+YEM,"Yemen, Rep.",2025,
+YEM,"Yemen, Rep.",2024,
+YEM,"Yemen, Rep.",2023,
+YEM,"Yemen, Rep.",2022,
+YEM,"Yemen, Rep.",2021,
+YEM,"Yemen, Rep.",2020,
+YEM,"Yemen, Rep.",2019,17.49099922
+YEM,"Yemen, Rep.",2018,
+YEM,"Yemen, Rep.",2017,
+YEM,"Yemen, Rep.",2016,24.57920074
+YEM,"Yemen, Rep.",2015,24.08539963
+YEM,"Yemen, Rep.",2014,22.54999924
+YEM,"Yemen, Rep.",2013,20.0
+YEM,"Yemen, Rep.",2012,17.44650078
+YEM,"Yemen, Rep.",2011,14.90499973
+YEM,"Yemen, Rep.",2010,12.35
+ZMB,Zambia,2025,
+ZMB,Zambia,2024,17.10099983
+ZMB,Zambia,2023,16.45070076
+ZMB,Zambia,2022,15.0
+ZMB,Zambia,2021,14.82190037
+ZMB,Zambia,2020,14.64579964
+ZMB,Zambia,2019,14.47189999
+ZMB,Zambia,2018,14.2999970950012
+ZMB,Zambia,2017,12.19999981
+ZMB,Zambia,2016,10.30000019
+ZMB,Zambia,2015,8.8
+ZMB,Zambia,2014,6.5
+ZMB,Zambia,2013,4.8
+ZMB,Zambia,2012,4.099999905
+ZMB,Zambia,2011,3.5
+ZMB,Zambia,2010,3.0
+ZWE,Zimbabwe,2025,
+ZWE,Zimbabwe,2024,41.64279938
+ZWE,Zimbabwe,2023,38.67480087
+ZWE,Zimbabwe,2022,36.25650024
+ZWE,Zimbabwe,2021,32.5923996
+ZWE,Zimbabwe,2020,29.29856532
+ZWE,Zimbabwe,2019,26.5883007
+ZWE,Zimbabwe,2018,25.0
+ZWE,Zimbabwe,2017,24.39999962
+ZWE,Zimbabwe,2016,23.12000084
+ZWE,Zimbabwe,2015,22.74279976
+ZWE,Zimbabwe,2014,16.3647399572904
+ZWE,Zimbabwe,2013,15.5
+ZWE,Zimbabwe,2012,12.0
+ZWE,Zimbabwe,2011,8.399999619
+ZWE,Zimbabwe,2010,6.400000095

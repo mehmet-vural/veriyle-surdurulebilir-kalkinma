@@ -1,0 +1,1597 @@
+ulke_kodu,ulke,yil,deger
+AFE,Africa Eastern and Southern,2025,156474545.0
+AFE,Africa Eastern and Southern,2024,153663348.0
+AFE,Africa Eastern and Southern,2023,150938679.0
+AFE,Africa Eastern and Southern,2022,148202066.0
+AFE,Africa Eastern and Southern,2021,145374111.0
+AFE,Africa Eastern and Southern,2020,142528422.0
+AFW,Africa Western and Central,2025,107434249.0
+AFW,Africa Western and Central,2024,106051903.0
+AFW,Africa Western and Central,2023,104586929.0
+AFW,Africa Western and Central,2022,103126083.0
+AFW,Africa Western and Central,2021,101661407.0
+AFW,Africa Western and Central,2020,100118721.0
+ARB,Arab World,2025,78745372.0
+ARB,Arab World,2024,77939181.0
+ARB,Arab World,2023,77207256.0
+ARB,Arab World,2022,76469619.0
+ARB,Arab World,2021,75539112.0
+ARB,Arab World,2020,74785104.0
+CSS,Caribbean small states,2025,483831.0
+CSS,Caribbean small states,2024,487831.0
+CSS,Caribbean small states,2023,491852.0
+CSS,Caribbean small states,2022,495378.0
+CSS,Caribbean small states,2021,498749.0
+CSS,Caribbean small states,2020,501282.0
+CEB,Central Europe and the Baltics,2025,7179135.0
+CEB,Central Europe and the Baltics,2024,7317486.0
+CEB,Central Europe and the Baltics,2023,7433880.0
+CEB,Central Europe and the Baltics,2022,7509623.0
+CEB,Central Europe and the Baltics,2021,7560964.0
+CEB,Central Europe and the Baltics,2020,7637114.0
+EAR,Early-demographic dividend,2025,469550087.0
+EAR,Early-demographic dividend,2024,470669658.0
+EAR,Early-demographic dividend,2023,471575810.0
+EAR,Early-demographic dividend,2022,472249468.0
+EAR,Early-demographic dividend,2021,472680201.0
+EAR,Early-demographic dividend,2020,473135263.0
+EAS,East Asia & Pacific,2025,200363248.0
+EAS,East Asia & Pacific,2024,205381885.0
+EAS,East Asia & Pacific,2023,210201882.0
+EAS,East Asia & Pacific,2022,214600721.0
+EAS,East Asia & Pacific,2021,218379107.0
+EAS,East Asia & Pacific,2020,221310202.0
+EAP,East Asia & Pacific (excluding high income),2025,185997545.0
+EAP,East Asia & Pacific (excluding high income),2024,190755713.0
+EAP,East Asia & Pacific (excluding high income),2023,195316126.0
+EAP,East Asia & Pacific (excluding high income),2022,199476659.0
+EAP,East Asia & Pacific (excluding high income),2021,202959798.0
+EAP,East Asia & Pacific (excluding high income),2020,205601657.0
+TEA,East Asia & Pacific (IDA & IBRD countries),2025,183553547.0
+TEA,East Asia & Pacific (IDA & IBRD countries),2024,188315368.0
+TEA,East Asia & Pacific (IDA & IBRD countries),2023,192878501.0
+TEA,East Asia & Pacific (IDA & IBRD countries),2022,197041520.0
+TEA,East Asia & Pacific (IDA & IBRD countries),2021,200529020.0
+TEA,East Asia & Pacific (IDA & IBRD countries),2020,203176867.0
+EMU,Euro area,2025,24422650.0
+EMU,Euro area,2024,24683988.0
+EMU,Euro area,2023,24927477.0
+EMU,Euro area,2022,25126184.0
+EMU,Euro area,2021,25287170.0
+EMU,Euro area,2020,25463707.0
+ECS,Europe & Central Asia,2025,78009615.0
+ECS,Europe & Central Asia,2024,78648074.0
+ECS,Europe & Central Asia,2023,79269074.0
+ECS,Europe & Central Asia,2022,79978619.0
+ECS,Europe & Central Asia,2021,80357339.0
+ECS,Europe & Central Asia,2020,80398741.0
+ECA,Europe & Central Asia (excluding high income),2025,28040387.0
+ECA,Europe & Central Asia (excluding high income),2024,28039730.0
+ECA,Europe & Central Asia (excluding high income),2023,28114185.0
+ECA,Europe & Central Asia (excluding high income),2022,28393270.0
+ECA,Europe & Central Asia (excluding high income),2021,28487335.0
+ECA,Europe & Central Asia (excluding high income),2020,28251304.0
+TEC,Europe & Central Asia (IDA & IBRD countries),2025,44637323.0
+TEC,Europe & Central Asia (IDA & IBRD countries),2024,44924346.0
+TEC,Europe & Central Asia (IDA & IBRD countries),2023,45265305.0
+TEC,Europe & Central Asia (IDA & IBRD countries),2022,45771595.0
+TEC,Europe & Central Asia (IDA & IBRD countries),2021,45988416.0
+TEC,Europe & Central Asia (IDA & IBRD countries),2020,45824556.0
+EUU,European Union,2025,31207789.0
+EUU,European Union,2024,31596581.0
+EUU,European Union,2023,31949823.0
+EUU,European Union,2022,32225049.0
+EUU,European Union,2021,32435207.0
+EUU,European Union,2020,32683939.0
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2025,202744605.0
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2024,199758728.0
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2023,196911778.0
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2022,194382626.0
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2021,191784960.0
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2020,188811841.0
+HPC,Heavily indebted poor countries (HIPC),2025,196517979.0
+HPC,Heavily indebted poor countries (HIPC),2024,192832867.0
+HPC,Heavily indebted poor countries (HIPC),2023,189230326.0
+HPC,Heavily indebted poor countries (HIPC),2022,185727596.0
+HPC,Heavily indebted poor countries (HIPC),2021,182179310.0
+HPC,Heavily indebted poor countries (HIPC),2020,178474441.0
+,High income,2025,107332478.0
+,High income,2024,108292582.0
+,High income,2023,109060024.0
+,High income,2022,109788229.0
+,High income,2021,110473990.0
+,High income,2020,111543287.0
+IBD,IBRD only,2025,514862345.0
+IBD,IBRD only,2024,521924338.0
+IBD,IBRD only,2023,528701481.0
+IBD,IBRD only,2022,535105471.0
+IBD,IBRD only,2021,540488316.0
+IBD,IBRD only,2020,544614234.0
+IBT,IDA & IBRD total,2025,882544197.0
+IBT,IDA & IBRD total,2024,884965966.0
+IBT,IDA & IBRD total,2023,887040764.0
+IBT,IDA & IBRD total,2022,888725053.0
+IBT,IDA & IBRD total,2021,889260313.0
+IBT,IDA & IBRD total,2020,888284000.0
+IDB,IDA blend,2025,128452010.0
+IDB,IDA blend,2024,127458277.0
+IDB,IDA blend,2023,126323533.0
+IDB,IDA blend,2022,125011125.0
+IDB,IDA blend,2021,123568576.0
+IDB,IDA blend,2020,122026824.0
+IDX,IDA only,2025,239229842.0
+IDX,IDA only,2024,235583351.0
+IDX,IDA only,2023,232015750.0
+IDX,IDA only,2022,228608457.0
+IDX,IDA only,2021,225203421.0
+IDX,IDA only,2020,221642942.0
+IDA,IDA total,2025,367681852.0
+IDA,IDA total,2024,363041628.0
+IDA,IDA total,2023,358339283.0
+IDA,IDA total,2022,353619582.0
+IDA,IDA total,2021,348771997.0
+IDA,IDA total,2020,343669766.0
+LTE,Late-demographic dividend,2025,188582456.0
+LTE,Late-demographic dividend,2024,193497478.0
+LTE,Late-demographic dividend,2023,198187867.0
+LTE,Late-demographic dividend,2022,202446143.0
+LTE,Late-demographic dividend,2021,205876343.0
+LTE,Late-demographic dividend,2020,208495494.0
+LCN,Latin America & Caribbean,2025,72325793.0
+LCN,Latin America & Caribbean,2024,73037830.0
+LCN,Latin America & Caribbean,2023,73717186.0
+LCN,Latin America & Caribbean,2022,74362708.0
+LCN,Latin America & Caribbean,2021,74986935.0
+LCN,Latin America & Caribbean,2020,75591852.0
+LAC,Latin America & Caribbean (excluding high income),2025,68882673.0
+LAC,Latin America & Caribbean (excluding high income),2024,69532525.0
+LAC,Latin America & Caribbean (excluding high income),2023,70151981.0
+LAC,Latin America & Caribbean (excluding high income),2022,70742817.0
+LAC,Latin America & Caribbean (excluding high income),2021,71313668.0
+LAC,Latin America & Caribbean (excluding high income),2020,71869001.0
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2025,71276359.0
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2024,71961980.0
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2023,72618924.0
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2022,73244332.0
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2021,73847288.0
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2020,74432382.0
+LDC,Least developed countries: UN classification,2025,229778843.0
+LDC,Least developed countries: UN classification,2024,225974649.0
+LDC,Least developed countries: UN classification,2023,222240067.0
+LDC,Least developed countries: UN classification,2022,218653758.0
+LDC,Least developed countries: UN classification,2021,215090702.0
+LDC,Least developed countries: UN classification,2020,211390706.0
+LMY,Low & middle income,2025,866982782.0
+LMY,Low & middle income,2024,869067192.0
+LMY,Low & middle income,2023,870821525.0
+LMY,Low & middle income,2022,872227765.0
+LMY,Low & middle income,2021,872592548.0
+LMY,Low & middle income,2020,871493696.0
+,Low income,2025,154972651.0
+,Low income,2024,151902525.0
+,Low income,2023,148915828.0
+,Low income,2022,146056642.0
+,Low income,2021,143224435.0
+,Low income,2020,140286424.0
+,Lower middle income,2025,422396022.0
+,Lower middle income,2024,421958621.0
+,Lower middle income,2023,421315390.0
+,Lower middle income,2022,420464636.0
+,Lower middle income,2021,419507261.0
+,Lower middle income,2020,418442702.0
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2025,128353777.0
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2024,127614495.0
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2023,126686683.0
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2022,125663341.0
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2021,124536614.0
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2020,123461455.0
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2025,120330784.0
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2024,119814982.0
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2023,119095959.0
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2022,118250340.0
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2021,117304172.0
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2020,116127170.0
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2025,119333729.0
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2024,118828194.0
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2023,118122956.0
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2022,117291001.0
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2021,116358062.0
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2020,115195687.0
+MIC,Middle income,2025,712010131.0
+MIC,Middle income,2024,717164667.0
+MIC,Middle income,2023,721905697.0
+MIC,Middle income,2022,726171123.0
+MIC,Middle income,2021,729368113.0
+MIC,Middle income,2020,731207272.0
+NAC,North America,2025,31519588.0
+NAC,North America,2024,31741412.0
+NAC,North America,2023,31851646.0
+NAC,North America,2022,32034000.0
+NAC,North America,2021,32269016.0
+NAC,North America,2020,32620225.0
+,Not classified,2025,
+,Not classified,2024,
+,Not classified,2023,
+,Not classified,2022,
+,Not classified,2021,
+,Not classified,2020,
+OED,OECD members,2025,112568328.0
+OED,OECD members,2024,113786611.0
+OED,OECD members,2023,114801759.0
+OED,OECD members,2022,115734012.0
+OED,OECD members,2021,116588964.0
+OED,OECD members,2020,117567835.0
+OSS,Other small states,2025,1481691.0
+OSS,Other small states,2024,1489623.0
+OSS,Other small states,2023,1496777.0
+OSS,Other small states,2022,1502297.0
+OSS,Other small states,2021,1502348.0
+OSS,Other small states,2020,1502989.0
+PSS,Pacific island small states,2025,442167.0
+PSS,Pacific island small states,2024,441421.0
+PSS,Pacific island small states,2023,440110.0
+PSS,Pacific island small states,2022,438163.0
+PSS,Pacific island small states,2021,435868.0
+PSS,Pacific island small states,2020,433338.0
+PST,Post-demographic dividend,2025,81572798.0
+PST,Post-demographic dividend,2024,82364794.0
+PST,Post-demographic dividend,2023,83081660.0
+PST,Post-demographic dividend,2022,84053951.0
+PST,Post-demographic dividend,2021,85035992.0
+PST,Post-demographic dividend,2020,85936999.0
+PRE,Pre-demographic dividend,2025,233011524.0
+PRE,Pre-demographic dividend,2024,229195104.0
+PRE,Pre-demographic dividend,2023,225363978.0
+PRE,Pre-demographic dividend,2022,221564472.0
+PRE,Pre-demographic dividend,2021,217721412.0
+PRE,Pre-demographic dividend,2020,213682491.0
+SST,Small states,2025,2407689.0
+SST,Small states,2024,2418875.0
+SST,Small states,2023,2428739.0
+SST,Small states,2022,2435838.0
+SST,Small states,2021,2436965.0
+SST,Small states,2020,2437609.0
+SAS,South Asia,2025,199834445.0
+SAS,South Asia,2024,201220827.0
+SAS,South Asia,2023,202629470.0
+SAS,South Asia,2022,204048456.0
+SAS,South Asia,2021,205502009.0
+SAS,South Asia,2020,207007365.0
+TSA,South Asia (IDA & IBRD),2025,199834445.0
+TSA,South Asia (IDA & IBRD),2024,201220827.0
+TSA,South Asia (IDA & IBRD),2023,202629470.0
+TSA,South Asia (IDA & IBRD),2022,204048456.0
+TSA,South Asia (IDA & IBRD),2021,205502009.0
+TSA,South Asia (IDA & IBRD),2020,207007365.0
+SSF,Sub-Saharan Africa,2025,263908794.0
+SSF,Sub-Saharan Africa,2024,259715251.0
+SSF,Sub-Saharan Africa,2023,255525608.0
+SSF,Sub-Saharan Africa,2022,251328149.0
+SSF,Sub-Saharan Africa,2021,247035518.0
+SSF,Sub-Saharan Africa,2020,242647143.0
+SSA,Sub-Saharan Africa (excluding high income),2025,263896948.0
+SSA,Sub-Saharan Africa (excluding high income),2024,259703415.0
+SSA,Sub-Saharan Africa (excluding high income),2023,255513804.0
+SSA,Sub-Saharan Africa (excluding high income),2022,251316223.0
+SSA,Sub-Saharan Africa (excluding high income),2021,247025566.0
+SSA,Sub-Saharan Africa (excluding high income),2020,242637199.0
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2025,263908794.0
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2024,259715251.0
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2023,255525608.0
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2022,251328149.0
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2021,247035518.0
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2020,242647143.0
+,Upper middle income,2025,289614109.0
+,Upper middle income,2024,295206046.0
+,Upper middle income,2023,300590307.0
+,Upper middle income,2022,305706487.0
+,Upper middle income,2021,309860852.0
+,Upper middle income,2020,312764570.0
+WLD,World,2025,974315260.0
+WLD,World,2024,977359774.0
+WLD,World,2023,979881549.0
+WLD,World,2022,982015994.0
+WLD,World,2021,983066538.0
+WLD,World,2020,983036983.0
+AFG,Afghanistan,2025,9123011.0
+AFG,Afghanistan,2024,8939418.0
+AFG,Afghanistan,2023,8755262.0
+AFG,Afghanistan,2022,8637685.0
+AFG,Afghanistan,2021,8576018.0
+AFG,Afghanistan,2020,8433857.0
+ALB,Albania,2025,186958.0
+ALB,Albania,2024,191844.0
+ALB,Albania,2023,196891.0
+ALB,Albania,2022,202144.0
+ALB,Albania,2021,206920.0
+ALB,Albania,2020,211948.0
+DZA,Algeria,2025,6951922.0
+DZA,Algeria,2024,6952773.0
+DZA,Algeria,2023,6925557.0
+DZA,Algeria,2022,6866594.0
+DZA,Algeria,2021,6774132.0
+DZA,Algeria,2020,6648307.0
+ASM,American Samoa,2025,6017.0
+ASM,American Samoa,2024,6270.0
+ASM,American Samoa,2023,6494.0
+ASM,American Samoa,2022,6735.0
+ASM,American Samoa,2021,7034.0
+ASM,American Samoa,2020,7301.0
+AND,Andorra,2025,4685.0
+AND,Andorra,2024,4752.0
+AND,Andorra,2023,4840.0
+AND,Andorra,2022,4927.0
+AND,Andorra,2021,4995.0
+AND,Andorra,2020,5066.0
+AGO,Angola,2025,8558539.0
+AGO,Angola,2024,8355406.0
+AGO,Angola,2023,8147813.0
+AGO,Angola,2022,7936054.0
+AGO,Angola,2021,7718873.0
+AGO,Angola,2020,7497717.0
+ATG,Antigua and Barbuda,2025,8107.0
+ATG,Antigua and Barbuda,2024,8223.0
+ATG,Antigua and Barbuda,2023,8375.0
+ATG,Antigua and Barbuda,2022,8496.0
+ATG,Antigua and Barbuda,2021,8576.0
+ATG,Antigua and Barbuda,2020,8649.0
+ARG,Argentina,2025,4691788.0
+ARG,Argentina,2024,4805559.0
+ARG,Argentina,2023,4917781.0
+ARG,Argentina,2022,5026054.0
+ARG,Argentina,2021,5121719.0
+ARG,Argentina,2020,5208402.0
+ARM,Armenia,2025,281911.0
+ARM,Armenia,2024,280672.0
+ARM,Armenia,2023,278647.0
+ARM,Armenia,2022,283673.0
+ARM,Armenia,2021,285120.0
+ARM,Armenia,2020,285524.0
+ABW,Aruba,2025,8811.0
+ABW,Aruba,2024,8919.0
+ABW,Aruba,2023,9044.0
+ABW,Aruba,2022,9231.0
+ABW,Aruba,2021,9454.0
+ABW,Aruba,2020,9718.0
+AUS,Australia,2025,2374383.0
+AUS,Australia,2024,2359021.0
+AUS,Australia,2023,2336463.0
+AUS,Australia,2022,2305693.0
+AUS,Australia,2021,2298903.0
+AUS,Australia,2020,2312321.0
+AUT,Austria,2025,632786.0
+AUT,Austria,2024,634400.0
+AUT,Austria,2023,634439.0
+AUT,Austria,2022,630013.0
+AUT,Austria,2021,624768.0
+AUT,Austria,2020,623533.0
+AZE,Azerbaijan,2025,1029153.0
+AZE,Azerbaijan,2024,1054128.0
+AZE,Azerbaijan,2023,1074715.0
+AZE,Azerbaijan,2022,1095235.0
+AZE,Azerbaijan,2021,1111521.0
+AZE,Azerbaijan,2020,1118407.0
+BHS,"Bahamas, The",2025,34948.0
+BHS,"Bahamas, The",2024,35516.0
+BHS,"Bahamas, The",2023,36177.0
+BHS,"Bahamas, The",2022,36843.0
+BHS,"Bahamas, The",2021,37502.0
+BHS,"Bahamas, The",2020,38146.0
+BHR,Bahrain,2025,144860.0
+BHR,Bahrain,2024,145827.0
+BHR,Bahrain,2023,146811.0
+BHR,Bahrain,2022,142631.0
+BHR,Bahrain,2021,141962.0
+BHR,Bahrain,2020,143308.0
+BGD,Bangladesh,2025,23535480.0
+BGD,Bangladesh,2024,23498832.0
+BGD,Bangladesh,2023,23494698.0
+BGD,Bangladesh,2022,23534657.0
+BGD,Bangladesh,2021,23589288.0
+BGD,Bangladesh,2020,23645695.0
+BRB,Barbados,2025,23719.0
+BRB,Barbados,2024,23947.0
+BRB,Barbados,2023,24260.0
+BRB,Barbados,2022,24566.0
+BRB,Barbados,2021,24787.0
+BRB,Barbados,2020,24991.0
+BLR,Belarus,2025,700885.0
+BLR,Belarus,2024,722476.0
+BLR,Belarus,2023,742821.0
+BLR,Belarus,2022,759516.0
+BLR,Belarus,2021,770780.0
+BLR,Belarus,2020,776218.0
+BEL,Belgium,2025,916596.0
+BEL,Belgium,2024,927205.0
+BEL,Belgium,2023,937851.0
+BEL,Belgium,2022,943458.0
+BEL,Belgium,2021,944650.0
+BEL,Belgium,2020,947347.0
+BLZ,Belize,2025,54218.0
+BLZ,Belize,2024,54117.0
+BLZ,Belize,2023,54190.0
+BLZ,Belize,2022,54320.0
+BLZ,Belize,2021,54715.0
+BLZ,Belize,2020,55235.0
+BEN,Benin,2025,3014511.0
+BEN,Benin,2024,2963927.0
+BEN,Benin,2023,2911603.0
+BEN,Benin,2022,2858314.0
+BEN,Benin,2021,2804730.0
+BEN,Benin,2020,2749077.0
+BMU,Bermuda,2025,4228.0
+BMU,Bermuda,2024,4299.0
+BMU,Bermuda,2023,4373.0
+BMU,Bermuda,2022,4445.0
+BMU,Bermuda,2021,4495.0
+BMU,Bermuda,2020,4515.0
+BTN,Bhutan,2025,78275.0
+BTN,Bhutan,2024,79717.0
+BTN,Bhutan,2023,81150.0
+BTN,Bhutan,2022,82627.0
+BTN,Bhutan,2021,84301.0
+BTN,Bhutan,2020,86236.0
+BOL,Bolivia,2025,1820061.0
+BOL,Bolivia,2024,1816709.0
+BOL,Bolivia,2023,1813276.0
+BOL,Bolivia,2022,1809612.0
+BOL,Bolivia,2021,1805728.0
+BOL,Bolivia,2020,1800827.0
+BIH,Bosnia and Herzegovina,2025,194771.0
+BIH,Bosnia and Herzegovina,2024,199120.0
+BIH,Bosnia and Herzegovina,2023,203160.0
+BIH,Bosnia and Herzegovina,2022,206758.0
+BIH,Bosnia and Herzegovina,2021,210946.0
+BIH,Bosnia and Herzegovina,2020,215774.0
+BWA,Botswana,2025,406270.0
+BWA,Botswana,2024,402040.0
+BWA,Botswana,2023,397546.0
+BWA,Botswana,2022,392983.0
+BWA,Botswana,2021,388658.0
+BWA,Botswana,2020,385999.0
+BRA,Brazil,2025,20209721.0
+BRA,Brazil,2024,20423238.0
+BRA,Brazil,2023,20622116.0
+BRA,Brazil,2022,20816622.0
+BRA,Brazil,2021,21018641.0
+BRA,Brazil,2020,21223402.0
+VGB,British Virgin Islands,2025,2755.0
+VGB,British Virgin Islands,2024,2817.0
+VGB,British Virgin Islands,2023,2906.0
+VGB,British Virgin Islands,2022,2999.0
+VGB,British Virgin Islands,2021,3071.0
+VGB,British Virgin Islands,2020,3103.0
+BRN,Brunei Darussalam,2025,46245.0
+BRN,Brunei Darussalam,2024,46328.0
+BRN,Brunei Darussalam,2023,46361.0
+BRN,Brunei Darussalam,2022,46322.0
+BRN,Brunei Darussalam,2021,46292.0
+BRN,Brunei Darussalam,2020,46393.0
+BGR,Bulgaria,2025,450175.0
+BGR,Bulgaria,2024,453277.0
+BGR,Bulgaria,2023,455801.0
+BGR,Bulgaria,2022,457057.0
+BGR,Bulgaria,2021,458129.0
+BGR,Bulgaria,2020,459474.0
+BFA,Burkina Faso,2025,4881307.0
+BFA,Burkina Faso,2024,4846455.0
+BFA,Burkina Faso,2023,4806075.0
+BFA,Burkina Faso,2022,4761273.0
+BFA,Burkina Faso,2021,4712222.0
+BFA,Burkina Faso,2020,4657855.0
+BDI,Burundi,2025,3145426.0
+BDI,Burundi,2024,3121350.0
+BDI,Burundi,2023,3087693.0
+BDI,Burundi,2022,3046598.0
+BDI,Burundi,2021,3000099.0
+BDI,Burundi,2020,2947621.0
+CPV,Cabo Verde,2025,63435.0
+CPV,Cabo Verde,2024,65237.0
+CPV,Cabo Verde,2023,66932.0
+CPV,Cabo Verde,2022,68547.0
+CPV,Cabo Verde,2021,70097.0
+CPV,Cabo Verde,2020,70825.0
+KHM,Cambodia,2025,2576700.0
+KHM,Cambodia,2024,2572011.0
+KHM,Cambodia,2023,2567339.0
+KHM,Cambodia,2022,2562732.0
+KHM,Cambodia,2021,2555053.0
+KHM,Cambodia,2020,2541244.0
+CMR,Cameroon,2025,6094000.0
+CMR,Cameroon,2024,5988301.0
+CMR,Cameroon,2023,5880422.0
+CMR,Cameroon,2022,5769767.0
+CMR,Cameroon,2021,5656385.0
+CMR,Cameroon,2020,5539696.0
+CAN,Canada,2025,3045969.0
+CAN,Canada,2024,3044316.0
+CAN,Canada,2023,2993236.0
+CAN,Canada,2022,2958339.0
+CAN,Canada,2021,2941990.0
+CAN,Canada,2020,2951903.0
+CYM,Cayman Islands,2025,6029.0
+CYM,Cayman Islands,2024,5964.0
+CYM,Cayman Islands,2023,5883.0
+CYM,Cayman Islands,2022,5784.0
+CYM,Cayman Islands,2021,5664.0
+CYM,Cayman Islands,2020,5595.0
+CAF,Central African Republic,2025,1330289.0
+CAF,Central African Republic,2024,1294973.0
+CAF,Central African Republic,2023,1256335.0
+CAF,Central African Republic,2022,1244408.0
+CAF,Central African Republic,2021,1242225.0
+CAF,Central African Republic,2020,1218997.0
+TCD,Chad,2025,4762304.0
+TCD,Chad,2024,4612204.0
+TCD,Chad,2023,4452287.0
+TCD,Chad,2022,4312650.0
+TCD,Chad,2021,4189606.0
+TCD,Chad,2020,4070997.0
+CHI,Channel Islands,2025,11539.0
+CHI,Channel Islands,2024,11660.0
+CHI,Channel Islands,2023,11793.0
+CHI,Channel Islands,2022,11948.0
+CHI,Channel Islands,2021,12081.0
+CHI,Channel Islands,2020,12180.0
+CHL,Chile,2025,1611913.0
+CHL,Chile,2024,1644951.0
+CHL,Chile,2023,1676484.0
+CHL,Chile,2022,1703159.0
+CHL,Chile,2021,1726923.0
+CHL,Chile,2020,1749074.0
+CHN,China,2025,101303760.0
+CHN,China,2024,105242419.0
+CHN,China,2023,109022006.0
+CHN,China,2022,112459348.0
+CHN,China,2021,115312089.0
+CHN,China,2020,117469494.0
+COL,Colombia,2025,5231208.0
+COL,Colombia,2024,5250064.0
+COL,Colombia,2023,5276751.0
+COL,Colombia,2022,5307425.0
+COL,Colombia,2021,5336967.0
+COL,Colombia,2020,5369030.0
+COM,Comoros,2025,160544.0
+COM,Comoros,2024,158617.0
+COM,Comoros,2023,156719.0
+COM,Comoros,2022,154881.0
+COM,Comoros,2021,152873.0
+COM,Comoros,2020,150714.0
+COD,"Congo, Dem. Rep.",2025,25856247.0
+COD,"Congo, Dem. Rep.",2024,25092701.0
+COD,"Congo, Dem. Rep.",2023,24327420.0
+COD,"Congo, Dem. Rep.",2022,23565162.0
+COD,"Congo, Dem. Rep.",2021,22814177.0
+COD,"Congo, Dem. Rep.",2020,22072323.0
+COG,"Congo, Rep.",2025,1283256.0
+COG,"Congo, Rep.",2024,1269239.0
+COG,"Congo, Rep.",2023,1252803.0
+COG,"Congo, Rep.",2022,1234258.0
+COG,"Congo, Rep.",2021,1213687.0
+COG,"Congo, Rep.",2020,1191594.0
+CRI,Costa Rica,2025,461672.0
+CRI,Costa Rica,2024,471912.0
+CRI,Costa Rica,2023,482936.0
+CRI,Costa Rica,2022,493319.0
+CRI,Costa Rica,2021,502526.0
+CRI,Costa Rica,2020,510772.0
+CIV,Cote d'Ivoire,2025,6552876.0
+CIV,Cote d'Ivoire,2024,6455337.0
+CIV,Cote d'Ivoire,2023,6354308.0
+CIV,Cote d'Ivoire,2022,6246924.0
+CIV,Cote d'Ivoire,2021,6130131.0
+CIV,Cote d'Ivoire,2020,6000931.0
+HRV,Croatia,2025,257531.0
+HRV,Croatia,2024,261152.0
+HRV,Croatia,2023,264896.0
+HRV,Croatia,2022,267702.0
+HRV,Croatia,2021,270791.0
+HRV,Croatia,2020,274625.0
+CUB,Cuba,2025,793912.0
+CUB,Cuba,2024,812171.0
+CUB,Cuba,2023,827611.0
+CUB,Cuba,2022,839908.0
+CUB,Cuba,2021,849928.0
+CUB,Cuba,2020,858400.0
+CUW,Curacao,2025,11151.0
+CUW,Curacao,2024,11406.0
+CUW,Curacao,2023,11567.0
+CUW,Curacao,2022,11733.0
+CUW,Curacao,2021,12053.0
+CUW,Curacao,2020,12467.0
+CYP,Cyprus,2025,106935.0
+CYP,Cyprus,2024,105875.0
+CYP,Cyprus,2023,104693.0
+CYP,Cyprus,2022,103482.0
+CYP,Cyprus,2021,102091.0
+CYP,Cyprus,2020,100645.0
+CZE,Czechia,2025,800518.0
+CZE,Czechia,2024,819160.0
+CZE,Czechia,2023,831314.0
+CZE,Czechia,2022,830874.0
+CZE,Czechia,2021,823754.0
+CZE,Czechia,2020,834971.0
+DNK,Denmark,2025,455208.0
+DNK,Denmark,2024,456646.0
+DNK,Denmark,2023,459187.0
+DNK,Denmark,2022,460656.0
+DNK,Denmark,2021,460998.0
+DNK,Denmark,2020,462812.0
+DJI,Djibouti,2025,168516.0
+DJI,Djibouti,2024,168460.0
+DJI,Djibouti,2023,168503.0
+DJI,Djibouti,2022,168722.0
+DJI,Djibouti,2021,169010.0
+DJI,Djibouti,2020,169391.0
+DMA,Dominica,2025,5764.0
+DMA,Dominica,2024,5895.0
+DMA,Dominica,2023,6025.0
+DMA,Dominica,2022,6141.0
+DMA,Dominica,2021,6274.0
+DMA,Dominica,2020,6420.0
+DOM,Dominican Republic,2025,1480073.0
+DOM,Dominican Republic,2024,1489350.0
+DOM,Dominican Republic,2023,1495305.0
+DOM,Dominican Republic,2022,1497145.0
+DOM,Dominican Republic,2021,1495935.0
+DOM,Dominican Republic,2020,1493473.0
+ECU,Ecuador,2025,2139603.0
+ECU,Ecuador,2024,2171034.0
+ECU,Ecuador,2023,2200835.0
+ECU,Ecuador,2022,2226535.0
+ECU,Ecuador,2021,2248811.0
+ECU,Ecuador,2020,2267441.0
+EGY,"Egypt, Arab Rep.",2025,18228884.0
+EGY,"Egypt, Arab Rep.",2024,18197195.0
+EGY,"Egypt, Arab Rep.",2023,18130945.0
+EGY,"Egypt, Arab Rep.",2022,18056542.0
+EGY,"Egypt, Arab Rep.",2021,17976148.0
+EGY,"Egypt, Arab Rep.",2020,17863432.0
+SLV,El Salvador,2025,755631.0
+SLV,El Salvador,2024,764795.0
+SLV,El Salvador,2023,773135.0
+SLV,El Salvador,2022,781353.0
+SLV,El Salvador,2021,789257.0
+SLV,El Salvador,2020,796388.0
+GNQ,Equatorial Guinea,2025,356050.0
+GNQ,Equatorial Guinea,2024,349739.0
+GNQ,Equatorial Guinea,2023,343408.0
+GNQ,Equatorial Guinea,2022,337012.0
+GNQ,Equatorial Guinea,2021,330069.0
+GNQ,Equatorial Guinea,2020,322675.0
+ERI,Eritrea,2025,671129.0
+ERI,Eritrea,2024,667489.0
+ERI,Eritrea,2023,664555.0
+ERI,Eritrea,2022,661829.0
+ERI,Eritrea,2021,659927.0
+ERI,Eritrea,2020,658659.0
+EST,Estonia,2025,101136.0
+EST,Estonia,2024,104292.0
+EST,Estonia,2023,106447.0
+EST,Estonia,2022,106543.0
+EST,Estonia,2021,106064.0
+EST,Estonia,2020,106231.0
+SWZ,Eswatini,2025,205943.0
+SWZ,Eswatini,2024,206077.0
+SWZ,Eswatini,2023,206164.0
+SWZ,Eswatini,2022,206164.0
+SWZ,Eswatini,2021,206284.0
+SWZ,Eswatini,2020,206410.0
+ETH,Ethiopia,2025,25760137.0
+ETH,Ethiopia,2024,25295708.0
+ETH,Ethiopia,2023,24845761.0
+ETH,Ethiopia,2022,24417547.0
+ETH,Ethiopia,2021,24001742.0
+ETH,Ethiopia,2020,23595556.0
+FRO,Faroe Islands,2025,5330.0
+FRO,Faroe Islands,2024,5324.0
+FRO,Faroe Islands,2023,5346.0
+FRO,Faroe Islands,2022,5384.0
+FRO,Faroe Islands,2021,5393.0
+FRO,Faroe Islands,2020,5361.0
+FJI,Fiji,2025,122627.0
+FJI,Fiji,2024,123543.0
+FJI,Fiji,2023,124554.0
+FJI,Fiji,2022,125674.0
+FJI,Fiji,2021,126903.0
+FJI,Fiji,2020,128094.0
+FIN,Finland,2025,395095.0
+FIN,Finland,2024,401783.0
+FIN,Finland,2023,407615.0
+FIN,Finland,2022,413375.0
+FIN,Finland,2021,418519.0
+FIN,Finland,2020,423236.0
+FRA,France,2025,5446715.0
+FRA,France,2024,5525089.0
+FRA,France,2023,5602427.0
+FRA,France,2022,5668085.0
+FRA,France,2021,5709138.0
+FRA,France,2020,5752583.0
+PYF,French Polynesia,2025,25212.0
+PYF,French Polynesia,2024,26018.0
+PYF,French Polynesia,2023,26825.0
+PYF,French Polynesia,2022,27589.0
+PYF,French Polynesia,2021,28276.0
+PYF,French Polynesia,2020,28818.0
+GAB,Gabon,2025,467120.0
+GAB,Gabon,2024,460504.0
+GAB,Gabon,2023,452971.0
+GAB,Gabon,2022,444569.0
+GAB,Gabon,2021,435372.0
+GAB,Gabon,2020,425517.0
+GMB,"Gambia, The",2025,554785.0
+GMB,"Gambia, The",2024,549741.0
+GMB,"Gambia, The",2023,543828.0
+GMB,"Gambia, The",2022,537412.0
+GMB,"Gambia, The",2021,530731.0
+GMB,"Gambia, The",2020,523575.0
+GEO,Georgia,2025,390149.0
+GEO,Georgia,2024,383934.0
+GEO,Georgia,2023,378719.0
+GEO,Georgia,2022,381337.0
+GEO,Georgia,2021,380576.0
+GEO,Georgia,2020,378938.0
+DEU,Germany,2025,5642184.0
+DEU,Germany,2024,5652750.0
+DEU,Germany,2023,5638618.0
+DEU,Germany,2022,5629391.0
+DEU,Germany,2021,5607134.0
+DEU,Germany,2020,5565212.0
+GHA,Ghana,2025,6134136.0
+GHA,Ghana,2024,6089325.0
+GHA,Ghana,2023,6037066.0
+GHA,Ghana,2022,5980972.0
+GHA,Ghana,2021,5923613.0
+GHA,Ghana,2020,5864239.0
+GIB,Gibraltar,2025,3416.0
+GIB,Gibraltar,2024,3364.0
+GIB,Gibraltar,2023,3320.0
+GIB,Gibraltar,2022,3287.0
+GIB,Gibraltar,2021,3231.0
+GIB,Gibraltar,2020,3173.0
+GRC,Greece,2025,649059.0
+GRC,Greece,2024,667957.0
+GRC,Greece,2023,687453.0
+GRC,Greece,2022,702819.0
+GRC,Greece,2021,720776.0
+GRC,Greece,2020,737160.0
+GRL,Greenland,2025,5735.0
+GRL,Greenland,2024,5751.0
+GRL,Greenland,2023,5750.0
+GRL,Greenland,2022,5725.0
+GRL,Greenland,2021,5730.0
+GRL,Greenland,2020,5705.0
+GRD,Grenada,2025,10932.0
+GRD,Grenada,2024,11170.0
+GRD,Grenada,2023,11388.0
+GRD,Grenada,2022,11581.0
+GRD,Grenada,2021,11755.0
+GRD,Grenada,2020,11907.0
+GUM,Guam,2025,21146.0
+GUM,Guam,2024,21096.0
+GUM,Guam,2023,20979.0
+GUM,Guam,2022,20800.0
+GUM,Guam,2021,20577.0
+GUM,Guam,2020,20324.0
+GTM,Guatemala,2025,2854712.0
+GTM,Guatemala,2024,2862513.0
+GTM,Guatemala,2023,2869625.0
+GTM,Guatemala,2022,2877273.0
+GTM,Guatemala,2021,2885844.0
+GTM,Guatemala,2020,2893205.0
+GIN,Guinea,2025,3017017.0
+GIN,Guinea,2024,2973861.0
+GIN,Guinea,2023,2927975.0
+GIN,Guinea,2022,2879733.0
+GIN,Guinea,2021,2829728.0
+GIN,Guinea,2020,2778156.0
+GNB,Guinea-Bissau,2025,425557.0
+GNB,Guinea-Bissau,2024,421521.0
+GNB,Guinea-Bissau,2023,417264.0
+GNB,Guinea-Bissau,2022,412897.0
+GNB,Guinea-Bissau,2021,408280.0
+GNB,Guinea-Bissau,2020,403308.0
+GUY,Guyana,2025,119136.0
+GUY,Guyana,2024,119373.0
+GUY,Guyana,2023,119358.0
+GUY,Guyana,2022,118994.0
+GUY,Guyana,2021,118244.0
+GUY,Guyana,2020,117167.0
+HTI,Haiti,2025,1818482.0
+HTI,Haiti,2024,1821080.0
+HTI,Haiti,2023,1822092.0
+HTI,Haiti,2022,1821662.0
+HTI,Haiti,2021,1820403.0
+HTI,Haiti,2020,1817748.0
+HND,Honduras,2025,1626183.0
+HND,Honduras,2024,1618436.0
+HND,Honduras,2023,1610801.0
+HND,Honduras,2022,1603244.0
+HND,Honduras,2021,1596018.0
+HND,Honduras,2020,1589542.0
+HKG,"Hong Kong SAR, China",2025,378989.0
+HKG,"Hong Kong SAR, China",2024,387879.0
+HKG,"Hong Kong SAR, China",2023,396116.0
+HKG,"Hong Kong SAR, China",2022,394255.0
+HKG,"Hong Kong SAR, China",2021,404654.0
+HKG,"Hong Kong SAR, China",2020,415373.0
+HUN,Hungary,2025,663358.0
+HUN,Hungary,2024,669474.0
+HUN,Hungary,2023,675804.0
+HUN,Hungary,2022,679931.0
+HUN,Hungary,2021,682584.0
+HUN,Hungary,2020,684985.0
+ISL,Iceland,2025,33370.0
+ISL,Iceland,2024,33360.0
+ISL,Iceland,2023,33848.0
+ISL,Iceland,2022,34119.0
+ISL,Iceland,2021,33706.0
+ISL,Iceland,2020,33359.0
+IND,India,2025,169817041.0
+IND,India,2024,171137305.0
+IND,India,2023,172455965.0
+IND,India,2022,173742919.0
+IND,India,2021,175075695.0
+IND,India,2020,176475236.0
+IDN,Indonesia,2025,33719695.0
+IDN,Indonesia,2024,33944415.0
+IDN,Indonesia,2023,34134499.0
+IDN,Indonesia,2022,34312080.0
+IDN,Indonesia,2021,34465215.0
+IDN,Indonesia,2020,34571780.0
+IRN,"Iran, Islamic Rep.",2025,9896008.0
+IRN,"Iran, Islamic Rep.",2024,9989107.0
+IRN,"Iran, Islamic Rep.",2023,10057576.0
+IRN,"Iran, Islamic Rep.",2022,10101114.0
+IRN,"Iran, Islamic Rep.",2021,10119634.0
+IRN,"Iran, Islamic Rep.",2020,10129748.0
+IRQ,Iraq,2025,8257809.0
+IRQ,Iraq,2024,8210236.0
+IRQ,Iraq,2023,8149732.0
+IRQ,Iraq,2022,8074931.0
+IRQ,Iraq,2021,7991848.0
+IRQ,Iraq,2020,7903773.0
+IRL,Ireland,2025,484610.0
+IRL,Ireland,2024,488959.0
+IRL,Ireland,2023,493336.0
+IRL,Ireland,2022,495430.0
+IRL,Ireland,2021,494486.0
+IRL,Ireland,2020,494632.0
+IMN,Isle of Man,2025,5732.0
+IMN,Isle of Man,2024,5871.0
+IMN,Isle of Man,2023,5988.0
+IMN,Isle of Man,2022,6077.0
+IMN,Isle of Man,2021,6130.0
+IMN,Isle of Man,2020,6180.0
+ISR,Israel,2025,1338737.0
+ISR,Israel,2024,1334838.0
+ISR,Israel,2023,1324529.0
+ISR,Israel,2022,1294269.0
+ISR,Israel,2021,1275454.0
+ISR,Israel,2020,1258175.0
+ITA,Italy,2025,3336647.0
+ITA,Italy,2024,3406651.0
+ITA,Italy,2023,3481159.0
+ITA,Italy,2022,3552861.0
+ITA,Italy,2021,3623698.0
+ITA,Italy,2020,3702293.0
+JAM,Jamaica,2025,254729.0
+JAM,Jamaica,2024,260777.0
+JAM,Jamaica,2023,266880.0
+JAM,Jamaica,2022,273043.0
+JAM,Jamaica,2021,279433.0
+JAM,Jamaica,2020,285967.0
+JPN,Japan,2025,6752831.0
+JPN,Japan,2024,6900575.0
+JPN,Japan,2023,7056747.0
+JPN,Japan,2022,7216688.0
+JPN,Japan,2021,7362255.0
+JPN,Japan,2020,7499910.0
+JOR,Jordan,2025,1703920.0
+JOR,Jordan,2024,1736837.0
+JOR,Jordan,2023,1753405.0
+JOR,Jordan,2022,1762771.0
+JOR,Jordan,2021,1764830.0
+JOR,Jordan,2020,1759001.0
+KAZ,Kazakhstan,2025,2969754.0
+KAZ,Kazakhstan,2024,2959059.0
+KAZ,Kazakhstan,2023,2939054.0
+KAZ,Kazakhstan,2022,2906093.0
+KAZ,Kazakhstan,2021,2851390.0
+KAZ,Kazakhstan,2020,2784635.0
+KEN,Kenya,2025,10357112.0
+KEN,Kenya,2024,10322203.0
+KEN,Kenya,2023,10291799.0
+KEN,Kenya,2022,10260529.0
+KEN,Kenya,2021,10230040.0
+KEN,Kenya,2020,10194045.0
+KIR,Kiribati,2025,23039.0
+KIR,Kiribati,2024,22986.0
+KIR,Kiribati,2023,22867.0
+KIR,Kiribati,2022,22679.0
+KIR,Kiribati,2021,22420.0
+KIR,Kiribati,2020,22072.0
+PRK,"Korea, Dem. People's Rep.",2025,2447677.0
+PRK,"Korea, Dem. People's Rep.",2024,2444076.0
+PRK,"Korea, Dem. People's Rep.",2023,2441396.0
+PRK,"Korea, Dem. People's Rep.",2022,2438931.0
+PRK,"Korea, Dem. People's Rep.",2021,2434574.0
+PRK,"Korea, Dem. People's Rep.",2020,2428566.0
+KOR,"Korea, Rep.",2025,2569760.0
+KOR,"Korea, Rep.",2024,2662685.0
+KOR,"Korea, Rep.",2023,2760717.0
+KOR,"Korea, Rep.",2022,2869285.0
+KOR,"Korea, Rep.",2021,2970595.0
+KOR,"Korea, Rep.",2020,3052077.0
+XKX,Kosovo,2025,150375.0
+XKX,Kosovo,2024,157996.0
+XKX,Kosovo,2023,171855.0
+XKX,Kosovo,2022,184853.0
+XKX,Kosovo,2021,190546.0
+XKX,Kosovo,2020,195546.0
+KWT,Kuwait,2025,427765.0
+KWT,Kuwait,2024,436126.0
+KWT,Kuwait,2023,441101.0
+KWT,Kuwait,2022,431053.0
+KWT,Kuwait,2021,417693.0
+KWT,Kuwait,2020,417675.0
+KGZ,Kyrgyz Republic,2025,1140356.0
+KGZ,Kyrgyz Republic,2024,1136353.0
+KGZ,Kyrgyz Republic,2023,1128198.0
+KGZ,Kyrgyz Republic,2022,1116608.0
+KGZ,Kyrgyz Republic,2021,1099878.0
+KGZ,Kyrgyz Republic,2020,1076757.0
+LAO,Lao PDR,2025,1151019.0
+LAO,Lao PDR,2024,1149927.0
+LAO,Lao PDR,2023,1148287.0
+LAO,Lao PDR,2022,1146110.0
+LAO,Lao PDR,2021,1143360.0
+LAO,Lao PDR,2020,1139464.0
+LVA,Latvia,2025,135470.0
+LVA,Latvia,2024,138918.0
+LVA,Latvia,2023,142915.0
+LVA,Latvia,2022,144835.0
+LVA,Latvia,2021,146054.0
+LVA,Latvia,2020,147315.0
+LBN,Lebanon,2025,729129.0
+LBN,Lebanon,2024,740592.0
+LBN,Lebanon,2023,751164.0
+LBN,Lebanon,2022,760199.0
+LBN,Lebanon,2021,767670.0
+LBN,Lebanon,2020,774358.0
+LSO,Lesotho,2025,400450.0
+LSO,Lesotho,2024,401089.0
+LSO,Lesotho,2023,401441.0
+LSO,Lesotho,2022,401412.0
+LSO,Lesotho,2021,400590.0
+LSO,Lesotho,2020,398842.0
+LBR,Liberia,2025,1105833.0
+LBR,Liberia,2024,1095482.0
+LBR,Liberia,2023,1084831.0
+LBR,Liberia,2022,1074173.0
+LBR,Liberia,2021,1063700.0
+LBR,Liberia,2020,1052274.0
+LBY,Libya,2025,974357.0
+LBY,Libya,2024,984639.0
+LBY,Libya,2023,994175.0
+LBY,Libya,2022,1002198.0
+LBY,Libya,2021,1006832.0
+LBY,Libya,2020,1009244.0
+LIE,Liechtenstein,2025,2763.0
+LIE,Liechtenstein,2024,2730.0
+LIE,Liechtenstein,2023,2696.0
+LIE,Liechtenstein,2022,2680.0
+LIE,Liechtenstein,2021,2681.0
+LIE,Liechtenstein,2020,2684.0
+LTU,Lithuania,2025,203983.0
+LTU,Lithuania,2024,206912.0
+LTU,Lithuania,2023,208245.0
+LTU,Lithuania,2022,207501.0
+LTU,Lithuania,2021,206619.0
+LTU,Lithuania,2020,206955.0
+LUX,Luxembourg,2025,52885.0
+LUX,Luxembourg,2024,52226.0
+LUX,Luxembourg,2023,51550.0
+LUX,Luxembourg,2022,50715.0
+LUX,Luxembourg,2021,49863.0
+LUX,Luxembourg,2020,49168.0
+MAC,"Macao SAR, China",2025,45726.0
+MAC,"Macao SAR, China",2024,46506.0
+MAC,"Macao SAR, China",2023,46681.0
+MAC,"Macao SAR, China",2022,47289.0
+MAC,"Macao SAR, China",2021,48111.0
+MAC,"Macao SAR, China",2020,48133.0
+MDG,Madagascar,2025,6289877.0
+MDG,Madagascar,2024,6191578.0
+MDG,Madagascar,2023,6091767.0
+MDG,Madagascar,2022,5988553.0
+MDG,Madagascar,2021,5882072.0
+MDG,Madagascar,2020,5773364.0
+MWI,Malawi,2025,4454810.0
+MWI,Malawi,2024,4407058.0
+MWI,Malawi,2023,4361761.0
+MWI,Malawi,2022,4317088.0
+MWI,Malawi,2021,4270685.0
+MWI,Malawi,2020,4220648.0
+MYS,Malaysia,2025,3712658.0
+MYS,Malaysia,2024,3748619.0
+MYS,Malaysia,2023,3785820.0
+MYS,Malaysia,2022,3828469.0
+MYS,Malaysia,2021,3873264.0
+MYS,Malaysia,2020,3918422.0
+MDV,Maldives,2025,47515.0
+MDV,Maldives,2024,48469.0
+MDV,Maldives,2023,49226.0
+MDV,Maldives,2022,49726.0
+MDV,Maldives,2021,49864.0
+MDV,Maldives,2020,49668.0
+MLI,Mali,2025,5707727.0
+MLI,Mali,2024,5585440.0
+MLI,Mali,2023,5460181.0
+MLI,Mali,2022,5333107.0
+MLI,Mali,2021,5206084.0
+MLI,Mali,2020,5079664.0
+MLT,Malta,2025,35997.0
+MLT,Malta,2024,35738.0
+MLT,Malta,2023,35068.0
+MLT,Malta,2022,33822.0
+MLT,Malta,2021,33001.0
+MLT,Malta,2020,33093.0
+MHL,Marshall Islands,2025,5980.0
+MHL,Marshall Islands,2024,6276.0
+MHL,Marshall Islands,2023,6522.0
+MHL,Marshall Islands,2022,6705.0
+MHL,Marshall Islands,2021,6874.0
+MHL,Marshall Islands,2020,7122.0
+MRT,Mauritania,2025,1112252.0
+MRT,Mauritania,2024,1090117.0
+MRT,Mauritania,2023,1067393.0
+MRT,Mauritania,2022,1044210.0
+MRT,Mauritania,2021,1020779.0
+MRT,Mauritania,2020,997082.0
+MUS,Mauritius,2025,91237.0
+MUS,Mauritius,2024,93341.0
+MUS,Mauritius,2023,95752.0
+MUS,Mauritius,2022,99236.0
+MUS,Mauritius,2021,101938.0
+MUS,Mauritius,2020,104406.0
+MEX,Mexico,2025,15614248.0
+MEX,Mexico,2024,15755315.0
+MEX,Mexico,2023,15881579.0
+MEX,Mexico,2022,15993300.0
+MEX,Mexico,2021,16093945.0
+MEX,Mexico,2020,16189465.0
+FSM,"Micronesia, Fed. Sts.",2025,17340.0
+FSM,"Micronesia, Fed. Sts.",2024,17466.0
+FSM,"Micronesia, Fed. Sts.",2023,17560.0
+FSM,"Micronesia, Fed. Sts.",2022,17609.0
+FSM,"Micronesia, Fed. Sts.",2021,17672.0
+FSM,"Micronesia, Fed. Sts.",2020,17769.0
+MDA,Moldova,2025,224035.0
+MDA,Moldova,2024,231691.0
+MDA,Moldova,2023,240205.0
+MDA,Moldova,2022,249673.0
+MDA,Moldova,2021,256969.0
+MDA,Moldova,2020,259580.0
+MCO,Monaco,2025,2601.0
+MCO,Monaco,2024,2566.0
+MCO,Monaco,2023,2532.0
+MCO,Monaco,2022,2476.0
+MCO,Monaco,2021,2427.0
+MCO,Monaco,2020,2399.0
+MNG,Mongolia,2025,547559.0
+MNG,Mongolia,2024,551319.0
+MNG,Mongolia,2023,551641.0
+MNG,Mongolia,2022,547815.0
+MNG,Mongolia,2021,539940.0
+MNG,Mongolia,2020,527895.0
+MNE,Montenegro,2025,53562.0
+MNE,Montenegro,2024,54437.0
+MNE,Montenegro,2023,55077.0
+MNE,Montenegro,2022,55512.0
+MNE,Montenegro,2021,55722.0
+MNE,Montenegro,2020,55763.0
+MAR,Morocco,2025,4723544.0
+MAR,Morocco,2024,4759789.0
+MAR,Morocco,2023,4786472.0
+MAR,Morocco,2022,4803903.0
+MAR,Morocco,2021,4813749.0
+MAR,Morocco,2020,4814497.0
+MOZ,Mozambique,2025,7834652.0
+MOZ,Mozambique,2024,7669238.0
+MOZ,Mozambique,2023,7495991.0
+MOZ,Mozambique,2022,7311541.0
+MOZ,Mozambique,2021,7120736.0
+MOZ,Mozambique,2020,6931104.0
+MMR,Myanmar,2025,6427921.0
+MMR,Myanmar,2024,6445423.0
+MMR,Myanmar,2023,6459081.0
+MMR,Myanmar,2022,6470477.0
+MMR,Myanmar,2021,6480857.0
+MMR,Myanmar,2020,6490643.0
+NAM,Namibia,2025,568676.0
+NAM,Namibia,2024,562511.0
+NAM,Namibia,2023,555032.0
+NAM,Namibia,2022,543953.0
+NAM,Namibia,2021,527197.0
+NAM,Namibia,2020,508518.0
+NRU,Naoero,2025,2172.0
+NRU,Naoero,2024,2191.0
+NRU,Naoero,2023,2199.0
+NRU,Naoero,2022,2189.0
+NRU,Naoero,2021,2165.0
+NRU,Naoero,2020,2124.0
+NPL,Nepal,2025,4042177.0
+NPL,Nepal,2024,4088699.0
+NPL,Nepal,2023,4130222.0
+NPL,Nepal,2022,4167044.0
+NPL,Nepal,2021,4196997.0
+NPL,Nepal,2020,4235109.0
+NLD,Netherlands,2025,1318257.0
+NLD,Netherlands,2024,1319262.0
+NLD,Netherlands,2023,1323108.0
+NLD,Netherlands,2022,1325475.0
+NLD,Netherlands,2021,1324388.0
+NLD,Netherlands,2020,1328544.0
+NCL,New Caledonia,2025,30555.0
+NCL,New Caledonia,2024,30621.0
+NCL,New Caledonia,2023,30674.0
+NCL,New Caledonia,2022,30740.0
+NCL,New Caledonia,2021,30930.0
+NCL,New Caledonia,2020,31209.0
+NZL,New Zealand,2025,463378.0
+NZL,New Zealand,2024,466614.0
+NZL,New Zealand,2023,465018.0
+NZL,New Zealand,2022,460834.0
+NZL,New Zealand,2021,466482.0
+NZL,New Zealand,2020,469224.0
+NIC,Nicaragua,2025,976928.0
+NIC,Nicaragua,2024,979522.0
+NIC,Nicaragua,2023,981503.0
+NIC,Nicaragua,2022,982942.0
+NIC,Nicaragua,2021,983860.0
+NIC,Nicaragua,2020,984120.0
+NER,Niger,2025,6347173.0
+NER,Niger,2024,6195073.0
+NER,Niger,2023,6041572.0
+NER,Niger,2022,5890377.0
+NER,Niger,2021,5744425.0
+NER,Niger,2020,5599772.0
+NGA,Nigeria,2025,47424068.0
+NGA,Nigeria,2024,47028066.0
+NGA,Nigeria,2023,46599425.0
+NGA,Nigeria,2022,46140470.0
+NGA,Nigeria,2021,45664168.0
+NGA,Nigeria,2020,45174684.0
+MKD,North Macedonia,2025,146598.0
+MKD,North Macedonia,2024,149720.0
+MKD,North Macedonia,2023,152384.0
+MKD,North Macedonia,2022,154094.0
+MKD,North Macedonia,2021,154997.0
+MKD,North Macedonia,2020,156541.0
+MNP,Northern Mariana Islands,2025,4330.0
+MNP,Northern Mariana Islands,2024,4589.0
+MNP,Northern Mariana Islands,2023,4820.0
+MNP,Northern Mariana Islands,2022,5010.0
+MNP,Northern Mariana Islands,2021,5184.0
+MNP,Northern Mariana Islands,2020,5323.0
+NOR,Norway,2025,434827.0
+NOR,Norway,2024,439000.0
+NOR,Norway,2023,443233.0
+NOR,Norway,2022,445600.0
+NOR,Norway,2021,446990.0
+NOR,Norway,2020,450444.0
+OMN,Oman,2025,655304.0
+OMN,Oman,2024,640278.0
+OMN,Oman,2023,624706.0
+OMN,Oman,2022,608131.0
+OMN,Oman,2021,589636.0
+OMN,Oman,2020,567044.0
+PAK,Pakistan,2025,45247566.0
+PAK,Pakistan,2024,45061392.0
+PAK,Pakistan,2023,44787762.0
+PAK,Pakistan,2022,44399502.0
+PAK,Pakistan,2021,43927432.0
+PAK,Pakistan,2020,43392738.0
+PLW,Palau,2025,1507.0
+PLW,Palau,2024,1540.0
+PLW,Palau,2023,1572.0
+PLW,Palau,2022,1603.0
+PLW,Palau,2021,1631.0
+PLW,Palau,2020,1652.0
+PAN,Panama,2025,546163.0
+PAN,Panama,2024,547738.0
+PAN,Panama,2023,549237.0
+PAN,Panama,2022,550639.0
+PAN,Panama,2021,551714.0
+PAN,Panama,2020,552491.0
+PNG,Papua New Guinea,2025,1718243.0
+PNG,Papua New Guinea,2024,1704048.0
+PNG,Papua New Guinea,2023,1688526.0
+PNG,Papua New Guinea,2022,1671629.0
+PNG,Papua New Guinea,2021,1652741.0
+PNG,Papua New Guinea,2020,1632278.0
+PRY,Paraguay,2025,972297.0
+PRY,Paraguay,2024,968075.0
+PRY,Paraguay,2023,962731.0
+PRY,Paraguay,2022,955844.0
+PRY,Paraguay,2021,948253.0
+PRY,Paraguay,2020,940525.0
+PER,Peru,2025,4008886.0
+PER,Peru,2024,4027361.0
+PER,Peru,2023,4048404.0
+PER,Peru,2022,4071702.0
+PER,Peru,2021,4094861.0
+PER,Peru,2020,4115489.0
+PHL,Philippines,2025,15499780.0
+PHL,Philippines,2024,15808352.0
+PHL,Philippines,2023,16115364.0
+PHL,Philippines,2022,16410456.0
+PHL,Philippines,2021,16686155.0
+PHL,Philippines,2020,16924817.0
+POL,Poland,2025,2561866.0
+POL,Poland,2024,2633054.0
+POL,Poland,2023,2695089.0
+POL,Poland,2022,2746278.0
+POL,Poland,2021,2783658.0
+POL,Poland,2020,2829256.0
+PRT,Portugal,2025,670341.0
+PRT,Portugal,2024,668321.0
+PRT,Portugal,2023,665937.0
+PRT,Portugal,2022,662670.0
+PRT,Portugal,2021,666123.0
+PRT,Portugal,2020,671986.0
+PRI,Puerto Rico (US),2025,174237.0
+PRI,Puerto Rico (US),2024,181199.0
+PRI,Puerto Rico (US),2023,186974.0
+PRI,Puerto Rico (US),2022,193546.0
+PRI,Puerto Rico (US),2021,203382.0
+PRI,Puerto Rico (US),2020,213421.0
+QAT,Qatar,2025,218948.0
+QAT,Qatar,2024,210228.0
+QAT,Qatar,2023,195746.0
+QAT,Qatar,2022,196855.0
+QAT,Qatar,2021,189498.0
+QAT,Qatar,2020,210269.0
+ROU,Romania,2025,1444347.0
+ROU,Romania,2024,1462292.0
+ROU,Romania,2023,1478346.0
+ROU,Romania,2022,1490628.0
+ROU,Romania,2021,1504523.0
+ROU,Romania,2020,1516710.0
+RUS,Russian Federation,2025,11883017.0
+RUS,Russian Federation,2024,12074841.0
+RUS,Russian Federation,2023,12256988.0
+RUS,Russian Federation,2022,12416660.0
+RUS,Russian Federation,2021,12483980.0
+RUS,Russian Federation,2020,12493187.0
+RWA,Rwanda,2025,2680569.0
+RWA,Rwanda,2024,2648605.0
+RWA,Rwanda,2023,2619724.0
+RWA,Rwanda,2022,2593328.0
+RWA,Rwanda,2021,2570427.0
+RWA,Rwanda,2020,2549035.0
+WSM,Samoa,2025,40419.0
+WSM,Samoa,2024,40642.0
+WSM,Samoa,2023,40707.0
+WSM,Samoa,2022,40532.0
+WSM,Samoa,2021,40202.0
+WSM,Samoa,2020,39767.0
+SMR,San Marino,2025,1996.0
+SMR,San Marino,2024,2049.0
+SMR,San Marino,2023,2117.0
+SMR,San Marino,2022,2173.0
+SMR,San Marino,2021,2223.0
+SMR,San Marino,2020,2262.0
+STP,Sao Tome and Principe,2025,44650.0
+STP,Sao Tome and Principe,2024,44254.0
+STP,Sao Tome and Principe,2023,43941.0
+STP,Sao Tome and Principe,2022,43689.0
+STP,Sao Tome and Principe,2021,43508.0
+STP,Sao Tome and Principe,2020,43285.0
+SAU,Saudi Arabia,2025,4283853.0
+SAU,Saudi Arabia,2024,4120199.0
+SAU,Saudi Arabia,2023,3978283.0
+SAU,Saudi Arabia,2022,3887526.0
+SAU,Saudi Arabia,2021,3805654.0
+SAU,Saudi Arabia,2020,3936243.0
+SEN,Senegal,2025,3448083.0
+SEN,Senegal,2024,3401329.0
+SEN,Senegal,2023,3354952.0
+SEN,Senegal,2022,3320180.0
+SEN,Senegal,2021,3296470.0
+SEN,Senegal,2020,3269598.0
+SRB,Serbia,2025,461316.0
+SRB,Serbia,2024,466563.0
+SRB,Serbia,2023,471296.0
+SRB,Serbia,2022,475288.0
+SRB,Serbia,2021,485960.0
+SRB,Serbia,2020,488446.0
+SYC,Seychelles,2025,11846.0
+SYC,Seychelles,2024,11836.0
+SYC,Seychelles,2023,11804.0
+SYC,Seychelles,2022,11926.0
+SYC,Seychelles,2021,9952.0
+SYC,Seychelles,2020,9944.0
+SLE,Sierra Leone,2025,1647878.0
+SLE,Sierra Leone,2024,1633633.0
+SLE,Sierra Leone,2023,1618055.0
+SLE,Sierra Leone,2022,1601241.0
+SLE,Sierra Leone,2021,1583251.0
+SLE,Sierra Leone,2020,1563613.0
+SGP,Singapore,2025,348990.0
+SGP,Singapore,2024,344432.0
+SGP,Singapore,2023,339992.0
+SGP,Singapore,2022,329479.0
+SGP,Singapore,2021,323186.0
+SGP,Singapore,2020,337372.0
+SXM,Sint Maarten (Dutch part),2025,3017.0
+SXM,Sint Maarten (Dutch part),2024,3029.0
+SXM,Sint Maarten (Dutch part),2023,3055.0
+SXM,Sint Maarten (Dutch part),2022,3094.0
+SXM,Sint Maarten (Dutch part),2021,3177.0
+SXM,Sint Maarten (Dutch part),2020,3298.0
+SVK,Slovak Republic,2025,410820.0
+SVK,Slovak Republic,2024,416677.0
+SVK,Slovak Republic,2023,420830.0
+SVK,Slovak Republic,2022,422822.0
+SVK,Slovak Republic,2021,422879.0
+SVK,Slovak Republic,2020,421775.0
+SVN,Slovenia,2025,149931.0
+SVN,Slovenia,2024,152278.0
+SVN,Slovenia,2023,154193.0
+SVN,Slovenia,2022,155452.0
+SVN,Slovenia,2021,155909.0
+SVN,Slovenia,2020,154817.0
+SLB,Solomon Islands,2025,148427.0
+SLB,Solomon Islands,2024,146596.0
+SLB,Solomon Islands,2023,144635.0
+SLB,Solomon Islands,2022,142586.0
+SLB,Solomon Islands,2021,140439.0
+SLB,Solomon Islands,2020,138271.0
+SOM,"Somalia, Fed. Rep.",2025,4508796.0
+SOM,"Somalia, Fed. Rep.",2024,4363955.0
+SOM,"Somalia, Fed. Rep.",2023,4222000.0
+SOM,"Somalia, Fed. Rep.",2022,4106432.0
+SOM,"Somalia, Fed. Rep.",2021,3995041.0
+SOM,"Somalia, Fed. Rep.",2020,3858385.0
+ZAF,South Africa,2025,8283464.0
+ZAF,South Africa,2024,8244140.0
+ZAF,South Africa,2023,8211036.0
+ZAF,South Africa,2022,8183859.0
+ZAF,South Africa,2021,8149650.0
+ZAF,South Africa,2020,8116841.0
+SSD,South Sudan,2025,2289760.0
+SSD,South Sudan,2024,2298063.0
+SSD,South Sudan,2023,2262022.0
+SSD,South Sudan,2022,2225064.0
+SSD,South Sudan,2021,2235225.0
+SSD,South Sudan,2020,2242311.0
+ESP,Spain,2025,3025497.0
+ESP,Spain,2024,3064266.0
+ESP,Spain,2023,3110896.0
+ESP,Spain,2022,3152676.0
+ESP,Spain,2021,3202090.0
+ESP,Spain,2020,3263083.0
+LKA,Sri Lanka,2025,2313957.0
+LKA,Sri Lanka,2024,2367805.0
+LKA,Sri Lanka,2023,2418209.0
+LKA,Sri Lanka,2022,2471483.0
+LKA,Sri Lanka,2021,2505864.0
+LKA,Sri Lanka,2020,2515421.0
+KNA,St. Kitts and Nevis,2025,4296.0
+KNA,St. Kitts and Nevis,2024,4268.0
+KNA,St. Kitts and Nevis,2023,4306.0
+KNA,St. Kitts and Nevis,2022,4375.0
+KNA,St. Kitts and Nevis,2021,4457.0
+KNA,St. Kitts and Nevis,2020,4538.0
+LCA,St. Lucia,2025,15327.0
+LCA,St. Lucia,2024,15542.0
+LCA,St. Lucia,2023,15773.0
+LCA,St. Lucia,2022,15973.0
+LCA,St. Lucia,2021,16169.0
+LCA,St. Lucia,2020,16387.0
+MAF,St. Martin (French part),2025,2600.0
+MAF,St. Martin (French part),2024,2765.0
+MAF,St. Martin (French part),2023,2887.0
+MAF,St. Martin (French part),2022,3003.0
+MAF,St. Martin (French part),2021,3141.0
+MAF,St. Martin (French part),2020,3043.0
+VCT,St. Vincent and the Grenadines,2025,10270.0
+VCT,St. Vincent and the Grenadines,2024,10545.0
+VCT,St. Vincent and the Grenadines,2023,10792.0
+VCT,St. Vincent and the Grenadines,2022,10993.0
+VCT,St. Vincent and the Grenadines,2021,11156.0
+VCT,St. Vincent and the Grenadines,2020,11298.0
+SDN,Sudan,2025,10251322.0
+SDN,Sudan,2024,10072490.0
+SDN,Sudan,2023,10034658.0
+SDN,Sudan,2022,9967147.0
+SDN,Sudan,2021,9765344.0
+SDN,Sudan,2020,9565079.0
+SUR,Suriname,2025,79635.0
+SUR,Suriname,2024,79912.0
+SUR,Suriname,2023,80175.0
+SUR,Suriname,2022,80405.0
+SUR,Suriname,2021,80610.0
+SUR,Suriname,2020,80772.0
+SWE,Sweden,2025,859842.0
+SWE,Sweden,2024,871967.0
+SWE,Sweden,2023,882606.0
+SWE,Sweden,2022,890498.0
+SWE,Sweden,2021,892520.0
+SWE,Sweden,2020,891498.0
+CHE,Switzerland,2025,658807.0
+CHE,Switzerland,2024,655394.0
+CHE,Switzerland,2023,649228.0
+CHE,Switzerland,2022,643439.0
+CHE,Switzerland,2021,638276.0
+CHE,Switzerland,2020,632209.0
+SYR,Syrian Arab Republic,2025,3556894.0
+SYR,Syrian Arab Republic,2024,3512903.0
+SYR,Syrian Arab Republic,2023,3494139.0
+SYR,Syrian Arab Republic,2022,3500451.0
+SYR,Syrian Arab Republic,2021,3519967.0
+SYR,Syrian Arab Republic,2020,3551861.0
+TJK,Tajikistan,2025,1908712.0
+TJK,Tajikistan,2024,1898430.0
+TJK,Tajikistan,2023,1878255.0
+TJK,Tajikistan,2022,1848045.0
+TJK,Tajikistan,2021,1810562.0
+TJK,Tajikistan,2020,1770908.0
+TZA,Tanzania,2025,14781181.0
+TZA,Tanzania,2024,14436010.0
+TZA,Tanzania,2023,14093831.0
+TZA,Tanzania,2022,13757361.0
+TZA,Tanzania,2021,13429977.0
+TZA,Tanzania,2020,13110881.0
+THA,Thailand,2025,5008186.0
+THA,Thailand,2024,5128980.0
+THA,Thailand,2023,5250206.0
+THA,Thailand,2022,5372157.0
+THA,Thailand,2021,5496410.0
+THA,Thailand,2020,5621301.0
+TLS,Timor-Leste,2025,230489.0
+TLS,Timor-Leste,2024,231536.0
+TLS,Timor-Leste,2023,232975.0
+TLS,Timor-Leste,2022,234806.0
+TLS,Timor-Leste,2021,235422.0
+TLS,Timor-Leste,2020,234364.0
+TGO,Togo,2025,1704592.0
+TGO,Togo,2024,1682399.0
+TGO,Togo,2023,1657243.0
+TGO,Togo,2022,1633589.0
+TGO,Togo,2021,1605654.0
+TGO,Togo,2020,1564592.0
+TON,Tonga,2025,17516.0
+TON,Tonga,2024,17813.0
+TON,Tonga,2023,18006.0
+TON,Tonga,2022,18128.0
+TON,Tonga,2021,18246.0
+TON,Tonga,2020,18371.0
+TTO,Trinidad and Tobago,2025,117479.0
+TTO,Trinidad and Tobago,2024,119323.0
+TTO,Trinidad and Tobago,2023,121033.0
+TTO,Trinidad and Tobago,2022,122691.0
+TTO,Trinidad and Tobago,2021,124504.0
+TTO,Trinidad and Tobago,2020,125772.0
+TUN,Tunisia,2025,1414081.0
+TUN,Tunisia,2024,1433107.0
+TUN,Tunisia,2023,1446441.0
+TUN,Tunisia,2022,1453675.0
+TUN,Tunisia,2021,1457281.0
+TUN,Tunisia,2020,1454495.0
+TUR,Turkiye,2025,8851412.0
+TUR,Turkiye,2024,8996683.0
+TUR,Turkiye,2023,9143479.0
+TUR,Turkiye,2022,9255342.0
+TUR,Turkiye,2021,9284794.0
+TUR,Turkiye,2020,9284291.0
+TKM,Turkmenistan,2025,1162707.0
+TKM,Turkmenistan,2024,1154892.0
+TKM,Turkmenistan,2023,1140995.0
+TKM,Turkmenistan,2022,1120639.0
+TKM,Turkmenistan,2021,1092818.0
+TKM,Turkmenistan,2020,1059674.0
+TCA,Turks and Caicos Islands,2025,3780.0
+TCA,Turks and Caicos Islands,2024,3803.0
+TCA,Turks and Caicos Islands,2023,3836.0
+TCA,Turks and Caicos Islands,2022,3867.0
+TCA,Turks and Caicos Islands,2021,3870.0
+TCA,Turks and Caicos Islands,2020,3845.0
+TUV,Tuvalu,2025,1485.0
+TUV,Tuvalu,2024,1504.0
+TUV,Tuvalu,2023,1513.0
+TUV,Tuvalu,2022,1507.0
+TUV,Tuvalu,2021,1521.0
+TUV,Tuvalu,2020,1558.0
+UGA,Uganda,2025,10981403.0
+UGA,Uganda,2024,10801625.0
+UGA,Uganda,2023,10609428.0
+UGA,Uganda,2022,10409034.0
+UGA,Uganda,2021,10204366.0
+UGA,Uganda,2020,9997015.0
+UKR,Ukraine,2025,2602130.0
+UKR,Ukraine,2024,2552285.0
+UKR,Ukraine,2023,2613343.0
+UKR,Ukraine,2022,2947932.0
+UKR,Ukraine,2021,3251595.0
+UKR,Ukraine,2020,3310437.0
+ARE,United Arab Emirates,2025,917529.0
+ARE,United Arab Emirates,2024,876279.0
+ARE,United Arab Emirates,2023,844480.0
+ARE,United Arab Emirates,2022,818714.0
+ARE,United Arab Emirates,2021,779544.0
+ARE,United Arab Emirates,2020,768478.0
+GBR,United Kingdom,2025,5743618.0
+GBR,United Kingdom,2024,5800839.0
+GBR,United Kingdom,2023,5812455.0
+GBR,United Kingdom,2022,5809627.0
+GBR,United Kingdom,2021,5819955.0
+GBR,United Kingdom,2020,5842382.0
+USA,United States,2025,28469391.0
+USA,United States,2024,28692797.0
+USA,United States,2023,28854037.0
+USA,United States,2022,29071216.0
+USA,United States,2021,29322531.0
+USA,United States,2020,29663807.0
+URY,Uruguay,2025,295113.0
+URY,Uruguay,2024,301891.0
+URY,Uruguay,2023,308565.0
+URY,Uruguay,2022,315184.0
+URY,Uruguay,2021,321817.0
+URY,Uruguay,2020,328327.0
+UZB,Uzbekistan,2025,5585603.0
+UZB,Uzbekistan,2024,5449447.0
+UZB,Uzbekistan,2023,5305091.0
+UZB,Uzbekistan,2022,5150528.0
+UZB,Uzbekistan,2021,4986241.0
+UZB,Uzbekistan,2020,4821917.0
+VUT,Vanuatu,2025,61655.0
+VUT,Vanuatu,2024,60864.0
+VUT,Vanuatu,2023,59975.0
+VUT,Vanuatu,2022,58951.0
+VUT,Vanuatu,2021,57795.0
+VUT,Vanuatu,2020,56538.0
+VEN,"Venezuela, RB",2025,3458065.0
+VEN,"Venezuela, RB",2024,3529345.0
+VEN,"Venezuela, RB",2023,3603213.0
+VEN,"Venezuela, RB",2022,3679740.0
+VEN,"Venezuela, RB",2021,3763386.0
+VEN,"Venezuela, RB",2020,3853558.0
+VNM,Viet Nam,2025,11215370.0
+VNM,Viet Nam,2024,11346898.0
+VNM,Viet Nam,2023,11482647.0
+VNM,Viet Nam,2022,11587278.0
+VNM,Viet Nam,2021,11652646.0
+VNM,Viet Nam,2020,11671827.0
+VIR,Virgin Islands (U.S.),2025,8194.0
+VIR,Virgin Islands (U.S.),2024,8261.0
+VIR,Virgin Islands (U.S.),2023,8322.0
+VIR,Virgin Islands (U.S.),2022,8368.0
+VIR,Virgin Islands (U.S.),2021,8405.0
+VIR,Virgin Islands (U.S.),2020,8434.0
+PSE,West Bank and Gaza,2025,997055.0
+PSE,West Bank and Gaza,2024,986788.0
+PSE,West Bank and Gaza,2023,973003.0
+PSE,West Bank and Gaza,2022,959339.0
+PSE,West Bank and Gaza,2021,946110.0
+PSE,West Bank and Gaza,2020,931483.0
+YEM,"Yemen, Rep.",2025,8358088.0
+YEM,"Yemen, Rep.",2024,8141746.0
+YEM,"Yemen, Rep.",2023,7921823.0
+YEM,"Yemen, Rep.",2022,7702714.0
+YEM,"Yemen, Rep.",2021,7493511.0
+YEM,"Yemen, Rep.",2020,7290985.0
+ZMB,Zambia,2025,4489859.0
+ZMB,Zambia,2024,4419294.0
+ZMB,Zambia,2023,4348592.0
+ZMB,Zambia,2022,4277782.0
+ZMB,Zambia,2021,4206364.0
+ZMB,Zambia,2020,4132491.0
+ZWE,Zimbabwe,2025,3390646.0
+ZWE,Zimbabwe,2024,3376670.0
+ZWE,Zimbabwe,2023,3354429.0
+ZWE,Zimbabwe,2022,3322914.0
+ZWE,Zimbabwe,2021,3288366.0
+ZWE,Zimbabwe,2020,3257229.0
